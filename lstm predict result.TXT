@@ -1,0 +1,3065 @@
+Using TensorFlow backend.
+total num : 1000
+fit loop : 0
+Epoch 1/1
+2019-02-19 21:34:46.782177: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+ - 7s - loss: 0.1160
+fit loop : 1
+Epoch 1/1
+ - 6s - loss: 0.1088
+fit loop : 2
+Epoch 1/1
+ - 6s - loss: 0.1062
+fit loop : 3
+Epoch 1/1
+ - 6s - loss: 0.1069
+fit loop : 4
+Epoch 1/1
+ - 6s - loss: 0.1053
+fit loop : 5
+Epoch 1/1
+ - 6s - loss: 0.1046
+fit loop : 6
+Epoch 1/1
+ - 7s - loss: 0.1038
+fit loop : 7
+Epoch 1/1
+ - 6s - loss: 0.1044
+fit loop : 8
+Epoch 1/1
+ - 6s - loss: 0.1034
+fit loop : 9
+Epoch 1/1
+ - 6s - loss: 0.1040
+fit loop : 10
+Epoch 1/1
+ - 6s - loss: 0.1038
+fit loop : 11
+Epoch 1/1
+ - 6s - loss: 0.1033
+fit loop : 12
+Epoch 1/1
+ - 6s - loss: 0.1023
+fit loop : 13
+Epoch 1/1
+ - 6s - loss: 0.1028
+fit loop : 14
+Epoch 1/1
+ - 6s - loss: 0.1017
+fit loop : 15
+Epoch 1/1
+ - 6s - loss: 0.1023
+fit loop : 16
+Epoch 1/1
+ - 6s - loss: 0.1019
+fit loop : 17
+Epoch 1/1
+ - 6s - loss: 0.1025
+fit loop : 18
+Epoch 1/1
+ - 6s - loss: 0.1021
+fit loop : 19
+Epoch 1/1
+ - 5s - loss: 0.1019
+fit loop : 20
+Epoch 1/1
+ - 6s - loss: 0.1022
+fit loop : 21
+Epoch 1/1
+ - 6s - loss: 0.1014
+fit loop : 22
+Epoch 1/1
+ - 6s - loss: 0.1023
+fit loop : 23
+Epoch 1/1
+ - 6s - loss: 0.1015
+fit loop : 24
+Epoch 1/1
+ - 6s - loss: 0.1014
+fit loop : 25
+Epoch 1/1
+ - 6s - loss: 0.1015
+fit loop : 26
+Epoch 1/1
+ - 6s - loss: 0.1017
+fit loop : 27
+Epoch 1/1
+ - 6s - loss: 0.1013
+fit loop : 28
+Epoch 1/1
+ - 6s - loss: 0.1005
+fit loop : 29
+Epoch 1/1
+ - 6s - loss: 0.1014
+fit loop : 30
+Epoch 1/1
+ - 6s - loss: 0.1009
+fit loop : 31
+Epoch 1/1
+ - 6s - loss: 0.1003
+fit loop : 32
+Epoch 1/1
+ - 6s - loss: 0.1007
+fit loop : 33
+Epoch 1/1
+ - 6s - loss: 0.0999
+fit loop : 34
+Epoch 1/1
+ - 5s - loss: 0.0992
+fit loop : 35
+Epoch 1/1
+ - 6s - loss: 0.0997
+fit loop : 36
+Epoch 1/1
+ - 6s - loss: 0.0986
+fit loop : 37
+Epoch 1/1
+ - 6s - loss: 0.0995
+fit loop : 38
+Epoch 1/1
+ - 6s - loss: 0.0987
+fit loop : 39
+Epoch 1/1
+ - 6s - loss: 0.0986
+fit loop : 40
+Epoch 1/1
+ - 6s - loss: 0.0996
+fit loop : 41
+Epoch 1/1
+ - 6s - loss: 0.0989
+fit loop : 42
+Epoch 1/1
+ - 6s - loss: 0.0990
+fit loop : 43
+Epoch 1/1
+ - 6s - loss: 0.0988
+fit loop : 44
+Epoch 1/1
+ - 6s - loss: 0.0984
+fit loop : 45
+Epoch 1/1
+ - 6s - loss: 0.0982
+fit loop : 46
+Epoch 1/1
+ - 6s - loss: 0.0979
+fit loop : 47
+Epoch 1/1
+ - 6s - loss: 0.0978
+fit loop : 48
+Epoch 1/1
+ - 6s - loss: 0.0977
+fit loop : 49
+Epoch 1/1
+ - 6s - loss: 0.0976
+fit loop : 50
+Epoch 1/1
+ - 6s - loss: 0.0973
+fit loop : 51
+Epoch 1/1
+ - 6s - loss: 0.0975
+fit loop : 52
+Epoch 1/1
+ - 6s - loss: 0.0965
+fit loop : 53
+Epoch 1/1
+ - 6s - loss: 0.0965
+fit loop : 54
+Epoch 1/1
+ - 6s - loss: 0.0957
+fit loop : 55
+Epoch 1/1
+ - 6s - loss: 0.0964
+fit loop : 56
+Epoch 1/1
+ - 6s - loss: 0.0953
+fit loop : 57
+Epoch 1/1
+ - 6s - loss: 0.0945
+fit loop : 58
+Epoch 1/1
+ - 6s - loss: 0.0950
+fit loop : 59
+Epoch 1/1
+ - 6s - loss: 0.0938
+fit loop : 60
+Epoch 1/1
+ - 6s - loss: 0.0948
+fit loop : 61
+Epoch 1/1
+ - 6s - loss: 0.0930
+fit loop : 62
+Epoch 1/1
+ - 6s - loss: 0.0928
+fit loop : 63
+Epoch 1/1
+ - 6s - loss: 0.0929
+fit loop : 64
+Epoch 1/1
+ - 6s - loss: 0.0918
+fit loop : 65
+Epoch 1/1
+ - 6s - loss: 0.0924
+fit loop : 66
+Epoch 1/1
+ - 6s - loss: 0.0918
+fit loop : 67
+Epoch 1/1
+ - 6s - loss: 0.0914
+fit loop : 68
+Epoch 1/1
+ - 6s - loss: 0.0906
+fit loop : 69
+Epoch 1/1
+ - 6s - loss: 0.0900
+fit loop : 70
+Epoch 1/1
+ - 6s - loss: 0.0907
+fit loop : 71
+Epoch 1/1
+ - 6s - loss: 0.0895
+fit loop : 72
+Epoch 1/1
+ - 6s - loss: 0.0893
+fit loop : 73
+Epoch 1/1
+ - 6s - loss: 0.0871
+fit loop : 74
+Epoch 1/1
+ - 6s - loss: 0.0882
+fit loop : 75
+Epoch 1/1
+ - 6s - loss: 0.0879
+fit loop : 76
+Epoch 1/1
+ - 6s - loss: 0.0875
+fit loop : 77
+Epoch 1/1
+ - 6s - loss: 0.0856
+fit loop : 78
+Epoch 1/1
+ - 6s - loss: 0.0859
+fit loop : 79
+Epoch 1/1
+ - 6s - loss: 0.0851
+fit loop : 80
+Epoch 1/1
+ - 6s - loss: 0.0840
+fit loop : 81
+Epoch 1/1
+ - 6s - loss: 0.0833
+fit loop : 82
+Epoch 1/1
+ - 6s - loss: 0.0835
+fit loop : 83
+Epoch 1/1
+ - 6s - loss: 0.0833
+fit loop : 84
+Epoch 1/1
+ - 6s - loss: 0.0830
+fit loop : 85
+Epoch 1/1
+ - 6s - loss: 0.0794
+fit loop : 86
+Epoch 1/1
+ - 6s - loss: 0.0812
+fit loop : 87
+Epoch 1/1
+ - 6s - loss: 0.0799
+fit loop : 88
+Epoch 1/1
+ - 6s - loss: 0.0796
+fit loop : 89
+Epoch 1/1
+ - 6s - loss: 0.0782
+fit loop : 90
+Epoch 1/1
+ - 6s - loss: 0.0764
+fit loop : 91
+Epoch 1/1
+ - 6s - loss: 0.0753
+fit loop : 92
+Epoch 1/1
+ - 6s - loss: 0.0744
+fit loop : 93
+Epoch 1/1
+ - 6s - loss: 0.0744
+fit loop : 94
+Epoch 1/1
+ - 5s - loss: 0.0729
+fit loop : 95
+Epoch 1/1
+ - 6s - loss: 0.0731
+fit loop : 96
+Epoch 1/1
+ - 6s - loss: 0.0713
+fit loop : 97
+Epoch 1/1
+ - 6s - loss: 0.0689
+fit loop : 98
+Epoch 1/1
+ - 6s - loss: 0.0709
+fit loop : 99
+Epoch 1/1
+ - 6s - loss: 0.0689
+fit loop : 100
+Epoch 1/1
+ - 6s - loss: 0.0693
+fit loop : 101
+Epoch 1/1
+ - 6s - loss: 0.0670
+fit loop : 102
+Epoch 1/1
+ - 6s - loss: 0.0668
+fit loop : 103
+Epoch 1/1
+ - 6s - loss: 0.0656
+fit loop : 104
+Epoch 1/1
+ - 6s - loss: 0.0653
+fit loop : 105
+Epoch 1/1
+ - 6s - loss: 0.0645
+fit loop : 106
+Epoch 1/1
+ - 6s - loss: 0.0615
+fit loop : 107
+Epoch 1/1
+ - 6s - loss: 0.0621
+fit loop : 108
+Epoch 1/1
+ - 6s - loss: 0.0617
+fit loop : 109
+Epoch 1/1
+ - 6s - loss: 0.0595
+fit loop : 110
+Epoch 1/1
+ - 6s - loss: 0.0592
+fit loop : 111
+Epoch 1/1
+ - 6s - loss: 0.0597
+fit loop : 112
+Epoch 1/1
+ - 5s - loss: 0.0597
+fit loop : 113
+Epoch 1/1
+ - 6s - loss: 0.0556
+fit loop : 114
+Epoch 1/1
+ - 6s - loss: 0.0570
+fit loop : 115
+Epoch 1/1
+ - 6s - loss: 0.0571
+fit loop : 116
+Epoch 1/1
+ - 6s - loss: 0.0572
+fit loop : 117
+Epoch 1/1
+ - 6s - loss: 0.0555
+fit loop : 118
+Epoch 1/1
+ - 6s - loss: 0.0530
+fit loop : 119
+Epoch 1/1
+ - 6s - loss: 0.0568
+fit loop : 120
+Epoch 1/1
+ - 6s - loss: 0.0540
+fit loop : 121
+Epoch 1/1
+ - 6s - loss: 0.0509
+fit loop : 122
+Epoch 1/1
+ - 6s - loss: 0.0524
+fit loop : 123
+Epoch 1/1
+ - 6s - loss: 0.0549
+fit loop : 124
+Epoch 1/1
+ - 6s - loss: 0.0522
+fit loop : 125
+Epoch 1/1
+ - 7s - loss: 0.0508
+fit loop : 126
+Epoch 1/1
+ - 7s - loss: 0.0496
+fit loop : 127
+Epoch 1/1
+ - 6s - loss: 0.0476
+fit loop : 128
+Epoch 1/1
+ - 6s - loss: 0.0463
+fit loop : 129
+Epoch 1/1
+ - 6s - loss: 0.0483
+fit loop : 130
+Epoch 1/1
+ - 6s - loss: 0.0511
+fit loop : 131
+Epoch 1/1
+ - 7s - loss: 0.0483
+fit loop : 132
+Epoch 1/1
+ - 6s - loss: 0.0476
+fit loop : 133
+Epoch 1/1
+ - 6s - loss: 0.0453
+fit loop : 134
+Epoch 1/1
+ - 6s - loss: 0.0447
+fit loop : 135
+Epoch 1/1
+ - 6s - loss: 0.0457
+fit loop : 136
+Epoch 1/1
+ - 6s - loss: 0.0439
+fit loop : 137
+Epoch 1/1
+ - 6s - loss: 0.0458
+fit loop : 138
+Epoch 1/1
+ - 6s - loss: 0.0430
+fit loop : 139
+Epoch 1/1
+ - 6s - loss: 0.0441
+fit loop : 140
+Epoch 1/1
+ - 6s - loss: 0.0441
+fit loop : 141
+Epoch 1/1
+ - 6s - loss: 0.0433
+fit loop : 142
+Epoch 1/1
+ - 6s - loss: 0.0433
+fit loop : 143
+Epoch 1/1
+ - 6s - loss: 0.0442
+fit loop : 144
+Epoch 1/1
+ - 6s - loss: 0.0403
+fit loop : 145
+Epoch 1/1
+ - 5s - loss: 0.0406
+fit loop : 146
+Epoch 1/1
+ - 6s - loss: 0.0403
+fit loop : 147
+Epoch 1/1
+ - 6s - loss: 0.0419
+fit loop : 148
+Epoch 1/1
+ - 6s - loss: 0.0400
+fit loop : 149
+Epoch 1/1
+ - 6s - loss: 0.0393
+fit loop : 150
+Epoch 1/1
+ - 6s - loss: 0.0403
+fit loop : 151
+Epoch 1/1
+ - 5s - loss: 0.0416
+fit loop : 152
+Epoch 1/1
+ - 6s - loss: 0.0379
+fit loop : 153
+Epoch 1/1
+ - 5s - loss: 0.0383
+fit loop : 154
+Epoch 1/1
+ - 5s - loss: 0.0385
+fit loop : 155
+Epoch 1/1
+ - 6s - loss: 0.0392
+fit loop : 156
+Epoch 1/1
+ - 6s - loss: 0.0385
+fit loop : 157
+Epoch 1/1
+ - 6s - loss: 0.0376
+fit loop : 158
+Epoch 1/1
+ - 6s - loss: 0.0385
+fit loop : 159
+Epoch 1/1
+ - 6s - loss: 0.0370
+fit loop : 160
+Epoch 1/1
+ - 6s - loss: 0.0363
+fit loop : 161
+Epoch 1/1
+ - 6s - loss: 0.0358
+fit loop : 162
+Epoch 1/1
+ - 6s - loss: 0.0361
+fit loop : 163
+Epoch 1/1
+ - 6s - loss: 0.0368
+fit loop : 164
+Epoch 1/1
+ - 6s - loss: 0.0352
+fit loop : 165
+Epoch 1/1
+ - 6s - loss: 0.0340
+fit loop : 166
+Epoch 1/1
+ - 6s - loss: 0.0373
+fit loop : 167
+Epoch 1/1
+ - 6s - loss: 0.0378
+fit loop : 168
+Epoch 1/1
+ - 6s - loss: 0.0369
+fit loop : 169
+Epoch 1/1
+ - 6s - loss: 0.0349
+fit loop : 170
+Epoch 1/1
+ - 6s - loss: 0.0340
+fit loop : 171
+Epoch 1/1
+ - 6s - loss: 0.0345
+fit loop : 172
+Epoch 1/1
+ - 6s - loss: 0.0324
+fit loop : 173
+Epoch 1/1
+ - 6s - loss: 0.0333
+fit loop : 174
+Epoch 1/1
+ - 6s - loss: 0.0321
+fit loop : 175
+Epoch 1/1
+ - 6s - loss: 0.0336
+fit loop : 176
+Epoch 1/1
+ - 6s - loss: 0.0332
+fit loop : 177
+Epoch 1/1
+ - 6s - loss: 0.0321
+fit loop : 178
+Epoch 1/1
+ - 6s - loss: 0.0326
+fit loop : 179
+Epoch 1/1
+ - 6s - loss: 0.0305
+fit loop : 180
+Epoch 1/1
+ - 6s - loss: 0.0318
+fit loop : 181
+Epoch 1/1
+ - 6s - loss: 0.0319
+fit loop : 182
+Epoch 1/1
+ - 6s - loss: 0.0323
+fit loop : 183
+Epoch 1/1
+ - 6s - loss: 0.0310
+fit loop : 184
+Epoch 1/1
+ - 6s - loss: 0.0301
+fit loop : 185
+Epoch 1/1
+ - 6s - loss: 0.0290
+fit loop : 186
+Epoch 1/1
+ - 6s - loss: 0.0298
+fit loop : 187
+Epoch 1/1
+ - 6s - loss: 0.0305
+fit loop : 188
+Epoch 1/1
+ - 6s - loss: 0.0295
+fit loop : 189
+Epoch 1/1
+ - 6s - loss: 0.0300
+fit loop : 190
+Epoch 1/1
+ - 6s - loss: 0.0308
+fit loop : 191
+Epoch 1/1
+ - 6s - loss: 0.0307
+fit loop : 192
+Epoch 1/1
+ - 6s - loss: 0.0295
+fit loop : 193
+Epoch 1/1
+ - 6s - loss: 0.0301
+fit loop : 194
+Epoch 1/1
+ - 6s - loss: 0.0311
+fit loop : 195
+Epoch 1/1
+ - 6s - loss: 0.0284
+fit loop : 196
+Epoch 1/1
+ - 6s - loss: 0.0299
+fit loop : 197
+Epoch 1/1
+ - 6s - loss: 0.0297
+fit loop : 198
+Epoch 1/1
+ - 6s - loss: 0.0295
+fit loop : 199
+Epoch 1/1
+ - 6s - loss: 0.0277
+fit loop : 200
+Epoch 1/1
+ - 6s - loss: 0.0289
+fit loop : 201
+Epoch 1/1
+ - 6s - loss: 0.0295
+fit loop : 202
+Epoch 1/1
+ - 6s - loss: 0.0271
+fit loop : 203
+Epoch 1/1
+ - 5s - loss: 0.0273
+fit loop : 204
+Epoch 1/1
+ - 6s - loss: 0.0282
+fit loop : 205
+Epoch 1/1
+ - 6s - loss: 0.0292
+fit loop : 206
+Epoch 1/1
+ - 6s - loss: 0.0293
+fit loop : 207
+Epoch 1/1
+ - 6s - loss: 0.0281
+fit loop : 208
+Epoch 1/1
+ - 6s - loss: 0.0289
+fit loop : 209
+Epoch 1/1
+ - 6s - loss: 0.0272
+fit loop : 210
+Epoch 1/1
+ - 6s - loss: 0.0283
+fit loop : 211
+Epoch 1/1
+ - 6s - loss: 0.0278
+fit loop : 212
+Epoch 1/1
+ - 6s - loss: 0.0259
+fit loop : 213
+Epoch 1/1
+ - 6s - loss: 0.0271
+fit loop : 214
+Epoch 1/1
+ - 6s - loss: 0.0249
+fit loop : 215
+Epoch 1/1
+ - 6s - loss: 0.0264
+fit loop : 216
+Epoch 1/1
+ - 6s - loss: 0.0276
+fit loop : 217
+Epoch 1/1
+ - 6s - loss: 0.0263
+fit loop : 218
+Epoch 1/1
+ - 6s - loss: 0.0253
+fit loop : 219
+Epoch 1/1
+ - 6s - loss: 0.0272
+fit loop : 220
+Epoch 1/1
+ - 5s - loss: 0.0270
+fit loop : 221
+Epoch 1/1
+ - 6s - loss: 0.0273
+fit loop : 222
+Epoch 1/1
+ - 6s - loss: 0.0258
+fit loop : 223
+Epoch 1/1
+ - 6s - loss: 0.0262
+fit loop : 224
+Epoch 1/1
+ - 6s - loss: 0.0268
+fit loop : 225
+Epoch 1/1
+ - 6s - loss: 0.0254
+fit loop : 226
+Epoch 1/1
+ - 6s - loss: 0.0253
+fit loop : 227
+Epoch 1/1
+ - 6s - loss: 0.0253
+fit loop : 228
+Epoch 1/1
+ - 6s - loss: 0.0254
+fit loop : 229
+Epoch 1/1
+ - 6s - loss: 0.0246
+fit loop : 230
+Epoch 1/1
+ - 6s - loss: 0.0249
+fit loop : 231
+Epoch 1/1
+ - 6s - loss: 0.0272
+fit loop : 232
+Epoch 1/1
+ - 6s - loss: 0.0250
+fit loop : 233
+Epoch 1/1
+ - 6s - loss: 0.0242
+fit loop : 234
+Epoch 1/1
+ - 6s - loss: 0.0253
+fit loop : 235
+Epoch 1/1
+ - 6s - loss: 0.0252
+fit loop : 236
+Epoch 1/1
+ - 6s - loss: 0.0266
+fit loop : 237
+Epoch 1/1
+ - 6s - loss: 0.0249
+fit loop : 238
+Epoch 1/1
+ - 6s - loss: 0.0251
+fit loop : 239
+Epoch 1/1
+ - 6s - loss: 0.0243
+fit loop : 240
+Epoch 1/1
+ - 6s - loss: 0.0242
+fit loop : 241
+Epoch 1/1
+ - 6s - loss: 0.0238
+fit loop : 242
+Epoch 1/1
+ - 6s - loss: 0.0252
+fit loop : 243
+Epoch 1/1
+ - 6s - loss: 0.0237
+fit loop : 244
+Epoch 1/1
+ - 6s - loss: 0.0249
+fit loop : 245
+Epoch 1/1
+ - 6s - loss: 0.0230
+fit loop : 246
+Epoch 1/1
+ - 6s - loss: 0.0237
+fit loop : 247
+Epoch 1/1
+ - 6s - loss: 0.0248
+fit loop : 248
+Epoch 1/1
+ - 6s - loss: 0.0237
+fit loop : 249
+Epoch 1/1
+ - 6s - loss: 0.0244
+fit loop : 250
+Epoch 1/1
+ - 6s - loss: 0.0231
+fit loop : 251
+Epoch 1/1
+ - 6s - loss: 0.0234
+fit loop : 252
+Epoch 1/1
+ - 6s - loss: 0.0242
+fit loop : 253
+Epoch 1/1
+ - 6s - loss: 0.0240
+fit loop : 254
+Epoch 1/1
+ - 6s - loss: 0.0234
+fit loop : 255
+Epoch 1/1
+ - 6s - loss: 0.0226
+fit loop : 256
+Epoch 1/1
+ - 6s - loss: 0.0215
+fit loop : 257
+Epoch 1/1
+ - 6s - loss: 0.0233
+fit loop : 258
+Epoch 1/1
+ - 6s - loss: 0.0236
+fit loop : 259
+Epoch 1/1
+ - 6s - loss: 0.0217
+fit loop : 260
+Epoch 1/1
+ - 6s - loss: 0.0228
+fit loop : 261
+Epoch 1/1
+ - 6s - loss: 0.0249
+fit loop : 262
+Epoch 1/1
+ - 6s - loss: 0.0223
+fit loop : 263
+Epoch 1/1
+ - 6s - loss: 0.0220
+fit loop : 264
+Epoch 1/1
+ - 6s - loss: 0.0241
+fit loop : 265
+Epoch 1/1
+ - 6s - loss: 0.0224
+fit loop : 266
+Epoch 1/1
+ - 6s - loss: 0.0233
+fit loop : 267
+Epoch 1/1
+ - 6s - loss: 0.0208
+fit loop : 268
+Epoch 1/1
+ - 6s - loss: 0.0215
+fit loop : 269
+Epoch 1/1
+ - 6s - loss: 0.0226
+fit loop : 270
+Epoch 1/1
+ - 6s - loss: 0.0224
+fit loop : 271
+Epoch 1/1
+ - 6s - loss: 0.0219
+fit loop : 272
+Epoch 1/1
+ - 6s - loss: 0.0214
+fit loop : 273
+Epoch 1/1
+ - 6s - loss: 0.0211
+fit loop : 274
+Epoch 1/1
+ - 6s - loss: 0.0240
+fit loop : 275
+Epoch 1/1
+ - 6s - loss: 0.0218
+fit loop : 276
+Epoch 1/1
+ - 6s - loss: 0.0218
+fit loop : 277
+Epoch 1/1
+ - 6s - loss: 0.0204
+fit loop : 278
+Epoch 1/1
+ - 6s - loss: 0.0236
+fit loop : 279
+Epoch 1/1
+ - 6s - loss: 0.0213
+fit loop : 280
+Epoch 1/1
+ - 6s - loss: 0.0210
+fit loop : 281
+Epoch 1/1
+ - 6s - loss: 0.0215
+fit loop : 282
+Epoch 1/1
+ - 6s - loss: 0.0214
+fit loop : 283
+Epoch 1/1
+ - 6s - loss: 0.0204
+fit loop : 284
+Epoch 1/1
+ - 6s - loss: 0.0224
+fit loop : 285
+Epoch 1/1
+ - 6s - loss: 0.0235
+fit loop : 286
+Epoch 1/1
+ - 6s - loss: 0.0203
+fit loop : 287
+Epoch 1/1
+ - 6s - loss: 0.0211
+fit loop : 288
+Epoch 1/1
+ - 6s - loss: 0.0211
+fit loop : 289
+Epoch 1/1
+ - 6s - loss: 0.0220
+fit loop : 290
+Epoch 1/1
+ - 6s - loss: 0.0205
+fit loop : 291
+Epoch 1/1
+ - 6s - loss: 0.0213
+fit loop : 292
+Epoch 1/1
+ - 6s - loss: 0.0203
+fit loop : 293
+Epoch 1/1
+ - 6s - loss: 0.0215
+fit loop : 294
+Epoch 1/1
+ - 6s - loss: 0.0230
+fit loop : 295
+Epoch 1/1
+ - 6s - loss: 0.0197
+fit loop : 296
+Epoch 1/1
+ - 6s - loss: 0.0206
+fit loop : 297
+Epoch 1/1
+ - 6s - loss: 0.0195
+fit loop : 298
+Epoch 1/1
+ - 6s - loss: 0.0194
+fit loop : 299
+Epoch 1/1
+ - 6s - loss: 0.0207
+fit loop : 300
+Epoch 1/1
+ - 6s - loss: 0.0210
+fit loop : 301
+Epoch 1/1
+ - 6s - loss: 0.0204
+fit loop : 302
+Epoch 1/1
+ - 6s - loss: 0.0202
+fit loop : 303
+Epoch 1/1
+ - 6s - loss: 0.0199
+fit loop : 304
+Epoch 1/1
+ - 6s - loss: 0.0191
+fit loop : 305
+Epoch 1/1
+ - 6s - loss: 0.0199
+fit loop : 306
+Epoch 1/1
+ - 6s - loss: 0.0198
+fit loop : 307
+Epoch 1/1
+ - 6s - loss: 0.0214
+fit loop : 308
+Epoch 1/1
+ - 6s - loss: 0.0208
+fit loop : 309
+Epoch 1/1
+ - 6s - loss: 0.0193
+fit loop : 310
+Epoch 1/1
+ - 6s - loss: 0.0204
+fit loop : 311
+Epoch 1/1
+ - 6s - loss: 0.0197
+fit loop : 312
+Epoch 1/1
+ - 6s - loss: 0.0207
+fit loop : 313
+Epoch 1/1
+ - 6s - loss: 0.0193
+fit loop : 314
+Epoch 1/1
+ - 6s - loss: 0.0190
+fit loop : 315
+Epoch 1/1
+ - 6s - loss: 0.0202
+fit loop : 316
+Epoch 1/1
+ - 6s - loss: 0.0185
+fit loop : 317
+Epoch 1/1
+ - 6s - loss: 0.0201
+fit loop : 318
+Epoch 1/1
+ - 6s - loss: 0.0204
+fit loop : 319
+Epoch 1/1
+ - 6s - loss: 0.0195
+fit loop : 320
+Epoch 1/1
+ - 6s - loss: 0.0197
+fit loop : 321
+Epoch 1/1
+ - 6s - loss: 0.0181
+fit loop : 322
+Epoch 1/1
+ - 6s - loss: 0.0188
+fit loop : 323
+Epoch 1/1
+ - 6s - loss: 0.0211
+fit loop : 324
+Epoch 1/1
+ - 6s - loss: 0.0197
+fit loop : 325
+Epoch 1/1
+ - 6s - loss: 0.0194
+fit loop : 326
+Epoch 1/1
+ - 6s - loss: 0.0188
+fit loop : 327
+Epoch 1/1
+ - 6s - loss: 0.0187
+fit loop : 328
+Epoch 1/1
+ - 6s - loss: 0.0180
+fit loop : 329
+Epoch 1/1
+ - 6s - loss: 0.0189
+fit loop : 330
+Epoch 1/1
+ - 6s - loss: 0.0192
+fit loop : 331
+Epoch 1/1
+ - 6s - loss: 0.0186
+fit loop : 332
+Epoch 1/1
+ - 6s - loss: 0.0189
+fit loop : 333
+Epoch 1/1
+ - 6s - loss: 0.0186
+fit loop : 334
+Epoch 1/1
+ - 6s - loss: 0.0180
+fit loop : 335
+Epoch 1/1
+ - 6s - loss: 0.0194
+fit loop : 336
+Epoch 1/1
+ - 6s - loss: 0.0196
+fit loop : 337
+Epoch 1/1
+ - 6s - loss: 0.0183
+fit loop : 338
+Epoch 1/1
+ - 6s - loss: 0.0183
+fit loop : 339
+Epoch 1/1
+ - 6s - loss: 0.0181
+fit loop : 340
+Epoch 1/1
+ - 7s - loss: 0.0203
+fit loop : 341
+Epoch 1/1
+ - 7s - loss: 0.0176
+fit loop : 342
+Epoch 1/1
+ - 7s - loss: 0.0181
+fit loop : 343
+Epoch 1/1
+ - 6s - loss: 0.0192
+fit loop : 344
+Epoch 1/1
+ - 6s - loss: 0.0178
+fit loop : 345
+Epoch 1/1
+ - 6s - loss: 0.0188
+fit loop : 346
+Epoch 1/1
+ - 6s - loss: 0.0207
+fit loop : 347
+Epoch 1/1
+ - 6s - loss: 0.0173
+fit loop : 348
+Epoch 1/1
+ - 6s - loss: 0.0183
+fit loop : 349
+Epoch 1/1
+ - 6s - loss: 0.0190
+fit loop : 350
+Epoch 1/1
+ - 6s - loss: 0.0183
+fit loop : 351
+Epoch 1/1
+ - 6s - loss: 0.0174
+fit loop : 352
+Epoch 1/1
+ - 6s - loss: 0.0177
+fit loop : 353
+Epoch 1/1
+ - 6s - loss: 0.0184
+fit loop : 354
+Epoch 1/1
+ - 6s - loss: 0.0182
+fit loop : 355
+Epoch 1/1
+ - 6s - loss: 0.0168
+fit loop : 356
+Epoch 1/1
+ - 6s - loss: 0.0194
+fit loop : 357
+Epoch 1/1
+ - 6s - loss: 0.0174
+fit loop : 358
+Epoch 1/1
+ - 6s - loss: 0.0170
+fit loop : 359
+Epoch 1/1
+ - 6s - loss: 0.0180
+fit loop : 360
+Epoch 1/1
+ - 6s - loss: 0.0196
+fit loop : 361
+Epoch 1/1
+ - 6s - loss: 0.0179
+fit loop : 362
+Epoch 1/1
+ - 6s - loss: 0.0186
+fit loop : 363
+Epoch 1/1
+ - 6s - loss: 0.0174
+fit loop : 364
+Epoch 1/1
+ - 6s - loss: 0.0178
+fit loop : 365
+Epoch 1/1
+ - 6s - loss: 0.0171
+fit loop : 366
+Epoch 1/1
+ - 6s - loss: 0.0175
+fit loop : 367
+Epoch 1/1
+ - 6s - loss: 0.0185
+fit loop : 368
+Epoch 1/1
+ - 6s - loss: 0.0185
+fit loop : 369
+Epoch 1/1
+ - 6s - loss: 0.0186
+fit loop : 370
+Epoch 1/1
+ - 6s - loss: 0.0192
+fit loop : 371
+Epoch 1/1
+ - 6s - loss: 0.0185
+fit loop : 372
+Epoch 1/1
+ - 6s - loss: 0.0173
+fit loop : 373
+Epoch 1/1
+ - 6s - loss: 0.0165
+fit loop : 374
+Epoch 1/1
+ - 6s - loss: 0.0177
+fit loop : 375
+Epoch 1/1
+ - 6s - loss: 0.0171
+fit loop : 376
+Epoch 1/1
+ - 6s - loss: 0.0181
+fit loop : 377
+Epoch 1/1
+ - 6s - loss: 0.0170
+fit loop : 378
+Epoch 1/1
+ - 6s - loss: 0.0172
+fit loop : 379
+Epoch 1/1
+ - 6s - loss: 0.0186
+fit loop : 380
+Epoch 1/1
+ - 6s - loss: 0.0180
+fit loop : 381
+Epoch 1/1
+ - 6s - loss: 0.0171
+fit loop : 382
+Epoch 1/1
+ - 6s - loss: 0.0177
+fit loop : 383
+Epoch 1/1
+ - 6s - loss: 0.0171
+fit loop : 384
+Epoch 1/1
+ - 6s - loss: 0.0166
+fit loop : 385
+Epoch 1/1
+ - 6s - loss: 0.0182
+fit loop : 386
+Epoch 1/1
+ - 6s - loss: 0.0194
+fit loop : 387
+Epoch 1/1
+ - 6s - loss: 0.0171
+fit loop : 388
+Epoch 1/1
+ - 6s - loss: 0.0167
+fit loop : 389
+Epoch 1/1
+ - 6s - loss: 0.0175
+fit loop : 390
+Epoch 1/1
+ - 6s - loss: 0.0182
+fit loop : 391
+Epoch 1/1
+ - 6s - loss: 0.0169
+fit loop : 392
+Epoch 1/1
+ - 6s - loss: 0.0167
+fit loop : 393
+Epoch 1/1
+ - 6s - loss: 0.0168
+fit loop : 394
+Epoch 1/1
+ - 6s - loss: 0.0167
+fit loop : 395
+Epoch 1/1
+ - 6s - loss: 0.0161
+fit loop : 396
+Epoch 1/1
+ - 6s - loss: 0.0158
+fit loop : 397
+Epoch 1/1
+ - 6s - loss: 0.0176
+fit loop : 398
+Epoch 1/1
+ - 6s - loss: 0.0181
+fit loop : 399
+Epoch 1/1
+ - 6s - loss: 0.0180
+fit loop : 400
+Epoch 1/1
+ - 6s - loss: 0.0162
+fit loop : 401
+Epoch 1/1
+ - 6s - loss: 0.0162
+fit loop : 402
+Epoch 1/1
+ - 6s - loss: 0.0174
+fit loop : 403
+Epoch 1/1
+ - 6s - loss: 0.0162
+fit loop : 404
+Epoch 1/1
+ - 6s - loss: 0.0162
+fit loop : 405
+Epoch 1/1
+ - 6s - loss: 0.0168
+fit loop : 406
+Epoch 1/1
+ - 6s - loss: 0.0172
+fit loop : 407
+Epoch 1/1
+ - 6s - loss: 0.0177
+fit loop : 408
+Epoch 1/1
+ - 6s - loss: 0.0165
+fit loop : 409
+Epoch 1/1
+ - 6s - loss: 0.0182
+fit loop : 410
+Epoch 1/1
+ - 6s - loss: 0.0180
+fit loop : 411
+Epoch 1/1
+ - 6s - loss: 0.0168
+fit loop : 412
+Epoch 1/1
+ - 6s - loss: 0.0166
+fit loop : 413
+Epoch 1/1
+ - 6s - loss: 0.0159
+fit loop : 414
+Epoch 1/1
+ - 6s - loss: 0.0175
+fit loop : 415
+Epoch 1/1
+ - 6s - loss: 0.0163
+fit loop : 416
+Epoch 1/1
+ - 6s - loss: 0.0160
+fit loop : 417
+Epoch 1/1
+ - 6s - loss: 0.0166
+fit loop : 418
+Epoch 1/1
+ - 6s - loss: 0.0170
+fit loop : 419
+Epoch 1/1
+ - 6s - loss: 0.0165
+fit loop : 420
+Epoch 1/1
+ - 6s - loss: 0.0168
+fit loop : 421
+Epoch 1/1
+ - 6s - loss: 0.0164
+fit loop : 422
+Epoch 1/1
+ - 6s - loss: 0.0169
+fit loop : 423
+Epoch 1/1
+ - 6s - loss: 0.0169
+fit loop : 424
+Epoch 1/1
+ - 6s - loss: 0.0154
+fit loop : 425
+Epoch 1/1
+ - 6s - loss: 0.0165
+fit loop : 426
+Epoch 1/1
+ - 6s - loss: 0.0176
+fit loop : 427
+Epoch 1/1
+ - 6s - loss: 0.0167
+fit loop : 428
+Epoch 1/1
+ - 6s - loss: 0.0162
+fit loop : 429
+Epoch 1/1
+ - 6s - loss: 0.0163
+fit loop : 430
+Epoch 1/1
+ - 6s - loss: 0.0168
+fit loop : 431
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 432
+Epoch 1/1
+ - 6s - loss: 0.0158
+fit loop : 433
+Epoch 1/1
+ - 6s - loss: 0.0179
+fit loop : 434
+Epoch 1/1
+ - 6s - loss: 0.0178
+fit loop : 435
+Epoch 1/1
+ - 6s - loss: 0.0164
+fit loop : 436
+Epoch 1/1
+ - 6s - loss: 0.0159
+fit loop : 437
+Epoch 1/1
+ - 6s - loss: 0.0166
+fit loop : 438
+Epoch 1/1
+ - 6s - loss: 0.0166
+fit loop : 439
+Epoch 1/1
+ - 6s - loss: 0.0160
+fit loop : 440
+Epoch 1/1
+ - 6s - loss: 0.0163
+fit loop : 441
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 442
+Epoch 1/1
+ - 6s - loss: 0.0169
+fit loop : 443
+Epoch 1/1
+ - 6s - loss: 0.0158
+fit loop : 444
+Epoch 1/1
+ - 6s - loss: 0.0156
+fit loop : 445
+Epoch 1/1
+ - 6s - loss: 0.0157
+fit loop : 446
+Epoch 1/1
+ - 6s - loss: 0.0170
+fit loop : 447
+Epoch 1/1
+ - 6s - loss: 0.0171
+fit loop : 448
+Epoch 1/1
+ - 6s - loss: 0.0151
+fit loop : 449
+Epoch 1/1
+ - 6s - loss: 0.0153
+fit loop : 450
+Epoch 1/1
+ - 6s - loss: 0.0168
+fit loop : 451
+Epoch 1/1
+ - 6s - loss: 0.0153
+fit loop : 452
+Epoch 1/1
+ - 6s - loss: 0.0172
+fit loop : 453
+Epoch 1/1
+ - 6s - loss: 0.0162
+fit loop : 454
+Epoch 1/1
+ - 6s - loss: 0.0166
+fit loop : 455
+Epoch 1/1
+ - 6s - loss: 0.0147
+fit loop : 456
+Epoch 1/1
+ - 6s - loss: 0.0159
+fit loop : 457
+Epoch 1/1
+ - 6s - loss: 0.0160
+fit loop : 458
+Epoch 1/1
+ - 6s - loss: 0.0164
+fit loop : 459
+Epoch 1/1
+ - 6s - loss: 0.0156
+fit loop : 460
+Epoch 1/1
+ - 6s - loss: 0.0150
+fit loop : 461
+Epoch 1/1
+ - 6s - loss: 0.0150
+fit loop : 462
+Epoch 1/1
+ - 6s - loss: 0.0165
+fit loop : 463
+Epoch 1/1
+ - 6s - loss: 0.0167
+fit loop : 464
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 465
+Epoch 1/1
+ - 6s - loss: 0.0146
+fit loop : 466
+Epoch 1/1
+ - 6s - loss: 0.0149
+fit loop : 467
+Epoch 1/1
+ - 6s - loss: 0.0177
+fit loop : 468
+Epoch 1/1
+ - 6s - loss: 0.0165
+fit loop : 469
+Epoch 1/1
+ - 6s - loss: 0.0166
+fit loop : 470
+Epoch 1/1
+ - 6s - loss: 0.0146
+fit loop : 471
+Epoch 1/1
+ - 6s - loss: 0.0146
+fit loop : 472
+Epoch 1/1
+ - 6s - loss: 0.0157
+fit loop : 473
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 474
+Epoch 1/1
+ - 6s - loss: 0.0168
+fit loop : 475
+Epoch 1/1
+ - 6s - loss: 0.0159
+fit loop : 476
+Epoch 1/1
+ - 6s - loss: 0.0162
+fit loop : 477
+Epoch 1/1
+ - 6s - loss: 0.0144
+fit loop : 478
+Epoch 1/1
+ - 6s - loss: 0.0148
+fit loop : 479
+Epoch 1/1
+ - 6s - loss: 0.0156
+fit loop : 480
+Epoch 1/1
+ - 6s - loss: 0.0155
+fit loop : 481
+Epoch 1/1
+ - 6s - loss: 0.0161
+fit loop : 482
+Epoch 1/1
+ - 6s - loss: 0.0164
+fit loop : 483
+Epoch 1/1
+ - 6s - loss: 0.0159
+fit loop : 484
+Epoch 1/1
+ - 6s - loss: 0.0161
+fit loop : 485
+Epoch 1/1
+ - 6s - loss: 0.0153
+fit loop : 486
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 487
+Epoch 1/1
+ - 6s - loss: 0.0146
+fit loop : 488
+Epoch 1/1
+ - 6s - loss: 0.0162
+fit loop : 489
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 490
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 491
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 492
+Epoch 1/1
+ - 6s - loss: 0.0142
+fit loop : 493
+Epoch 1/1
+ - 6s - loss: 0.0151
+fit loop : 494
+Epoch 1/1
+ - 6s - loss: 0.0147
+fit loop : 495
+Epoch 1/1
+ - 6s - loss: 0.0171
+fit loop : 496
+Epoch 1/1
+ - 6s - loss: 0.0164
+fit loop : 497
+Epoch 1/1
+ - 6s - loss: 0.0165
+fit loop : 498
+Epoch 1/1
+ - 6s - loss: 0.0150
+fit loop : 499
+Epoch 1/1
+ - 6s - loss: 0.0154
+fit loop : 500
+Epoch 1/1
+ - 6s - loss: 0.0153
+fit loop : 501
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 502
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 503
+Epoch 1/1
+ - 6s - loss: 0.0147
+fit loop : 504
+Epoch 1/1
+ - 6s - loss: 0.0154
+fit loop : 505
+Epoch 1/1
+ - 6s - loss: 0.0146
+fit loop : 506
+Epoch 1/1
+ - 6s - loss: 0.0144
+fit loop : 507
+Epoch 1/1
+ - 6s - loss: 0.0150
+fit loop : 508
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 509
+Epoch 1/1
+ - 6s - loss: 0.0144
+fit loop : 510
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 511
+Epoch 1/1
+ - 6s - loss: 0.0163
+fit loop : 512
+Epoch 1/1
+ - 6s - loss: 0.0140
+fit loop : 513
+Epoch 1/1
+ - 6s - loss: 0.0160
+fit loop : 514
+Epoch 1/1
+ - 6s - loss: 0.0149
+fit loop : 515
+Epoch 1/1
+ - 6s - loss: 0.0144
+fit loop : 516
+Epoch 1/1
+ - 6s - loss: 0.0157
+fit loop : 517
+Epoch 1/1
+ - 6s - loss: 0.0147
+fit loop : 518
+Epoch 1/1
+ - 6s - loss: 0.0149
+fit loop : 519
+Epoch 1/1
+ - 6s - loss: 0.0156
+fit loop : 520
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 521
+Epoch 1/1
+ - 6s - loss: 0.0149
+fit loop : 522
+Epoch 1/1
+ - 6s - loss: 0.0145
+fit loop : 523
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 524
+Epoch 1/1
+ - 6s - loss: 0.0146
+fit loop : 525
+Epoch 1/1
+ - 6s - loss: 0.0149
+fit loop : 526
+Epoch 1/1
+ - 6s - loss: 0.0145
+fit loop : 527
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 528
+Epoch 1/1
+ - 6s - loss: 0.0148
+fit loop : 529
+Epoch 1/1
+ - 6s - loss: 0.0157
+fit loop : 530
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 531
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 532
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 533
+Epoch 1/1
+ - 6s - loss: 0.0146
+fit loop : 534
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 535
+Epoch 1/1
+ - 6s - loss: 0.0149
+fit loop : 536
+Epoch 1/1
+ - 6s - loss: 0.0145
+fit loop : 537
+Epoch 1/1
+ - 6s - loss: 0.0147
+fit loop : 538
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 539
+Epoch 1/1
+ - 6s - loss: 0.0157
+fit loop : 540
+Epoch 1/1
+ - 6s - loss: 0.0156
+fit loop : 541
+Epoch 1/1
+ - 6s - loss: 0.0153
+fit loop : 542
+Epoch 1/1
+ - 6s - loss: 0.0158
+fit loop : 543
+Epoch 1/1
+ - 6s - loss: 0.0144
+fit loop : 544
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 545
+Epoch 1/1
+ - 6s - loss: 0.0151
+fit loop : 546
+Epoch 1/1
+ - 6s - loss: 0.0151
+fit loop : 547
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 548
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 549
+Epoch 1/1
+ - 6s - loss: 0.0145
+fit loop : 550
+Epoch 1/1
+ - 6s - loss: 0.0151
+fit loop : 551
+Epoch 1/1
+ - 6s - loss: 0.0157
+fit loop : 552
+Epoch 1/1
+ - 6s - loss: 0.0140
+fit loop : 553
+Epoch 1/1
+ - 6s - loss: 0.0145
+fit loop : 554
+Epoch 1/1
+ - 6s - loss: 0.0154
+fit loop : 555
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 556
+Epoch 1/1
+ - 6s - loss: 0.0138
+fit loop : 557
+Epoch 1/1
+ - 6s - loss: 0.0142
+fit loop : 558
+Epoch 1/1
+ - 6s - loss: 0.0132
+fit loop : 559
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 560
+Epoch 1/1
+ - 6s - loss: 0.0157
+fit loop : 561
+Epoch 1/1
+ - 6s - loss: 0.0144
+fit loop : 562
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 563
+Epoch 1/1
+ - 6s - loss: 0.0137
+fit loop : 564
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 565
+Epoch 1/1
+ - 6s - loss: 0.0142
+fit loop : 566
+Epoch 1/1
+ - 6s - loss: 0.0156
+fit loop : 567
+Epoch 1/1
+ - 6s - loss: 0.0136
+fit loop : 568
+Epoch 1/1
+ - 6s - loss: 0.0140
+fit loop : 569
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 570
+Epoch 1/1
+ - 6s - loss: 0.0150
+fit loop : 571
+Epoch 1/1
+ - 6s - loss: 0.0145
+fit loop : 572
+Epoch 1/1
+ - 6s - loss: 0.0137
+fit loop : 573
+Epoch 1/1
+ - 6s - loss: 0.0142
+fit loop : 574
+Epoch 1/1
+ - 6s - loss: 0.0146
+fit loop : 575
+Epoch 1/1
+ - 6s - loss: 0.0131
+fit loop : 576
+Epoch 1/1
+ - 6s - loss: 0.0135
+fit loop : 577
+Epoch 1/1
+ - 6s - loss: 0.0135
+fit loop : 578
+Epoch 1/1
+ - 6s - loss: 0.0150
+fit loop : 579
+Epoch 1/1
+ - 6s - loss: 0.0140
+fit loop : 580
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 581
+Epoch 1/1
+ - 6s - loss: 0.0149
+fit loop : 582
+Epoch 1/1
+ - 6s - loss: 0.0132
+fit loop : 583
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 584
+Epoch 1/1
+ - 6s - loss: 0.0135
+fit loop : 585
+Epoch 1/1
+ - 6s - loss: 0.0142
+fit loop : 586
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 587
+Epoch 1/1
+ - 6s - loss: 0.0138
+fit loop : 588
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 589
+Epoch 1/1
+ - 6s - loss: 0.0142
+fit loop : 590
+Epoch 1/1
+ - 6s - loss: 0.0142
+fit loop : 591
+Epoch 1/1
+ - 6s - loss: 0.0135
+fit loop : 592
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 593
+Epoch 1/1
+ - 6s - loss: 0.0149
+fit loop : 594
+Epoch 1/1
+ - 6s - loss: 0.0148
+fit loop : 595
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 596
+Epoch 1/1
+ - 6s - loss: 0.0142
+fit loop : 597
+Epoch 1/1
+ - 6s - loss: 0.0132
+fit loop : 598
+Epoch 1/1
+ - 7s - loss: 0.0155
+fit loop : 599
+Epoch 1/1
+ - 7s - loss: 0.0147
+fit loop : 600
+Epoch 1/1
+ - 6s - loss: 0.0163
+fit loop : 601
+Epoch 1/1
+ - 6s - loss: 0.0132
+fit loop : 602
+Epoch 1/1
+ - 7s - loss: 0.0134
+fit loop : 603
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 604
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 605
+Epoch 1/1
+ - 7s - loss: 0.0130
+fit loop : 606
+Epoch 1/1
+ - 6s - loss: 0.0136
+fit loop : 607
+Epoch 1/1
+ - 7s - loss: 0.0147
+fit loop : 608
+Epoch 1/1
+ - 7s - loss: 0.0143
+fit loop : 609
+Epoch 1/1
+ - 7s - loss: 0.0144
+fit loop : 610
+Epoch 1/1
+ - 7s - loss: 0.0141
+fit loop : 611
+Epoch 1/1
+ - 7s - loss: 0.0131
+fit loop : 612
+Epoch 1/1
+ - 7s - loss: 0.0146
+fit loop : 613
+Epoch 1/1
+ - 7s - loss: 0.0133
+fit loop : 614
+Epoch 1/1
+ - 6s - loss: 0.0144
+fit loop : 615
+Epoch 1/1
+ - 7s - loss: 0.0157
+fit loop : 616
+Epoch 1/1
+ - 6s - loss: 0.0140
+fit loop : 617
+Epoch 1/1
+ - 7s - loss: 0.0142
+fit loop : 618
+Epoch 1/1
+ - 6s - loss: 0.0137
+fit loop : 619
+Epoch 1/1
+ - 7s - loss: 0.0139
+fit loop : 620
+Epoch 1/1
+ - 6s - loss: 0.0135
+fit loop : 621
+Epoch 1/1
+ - 7s - loss: 0.0133
+fit loop : 622
+Epoch 1/1
+ - 7s - loss: 0.0133
+fit loop : 623
+Epoch 1/1
+ - 6s - loss: 0.0145
+fit loop : 624
+Epoch 1/1
+ - 6s - loss: 0.0151
+fit loop : 625
+Epoch 1/1
+ - 7s - loss: 0.0140
+fit loop : 626
+Epoch 1/1
+ - 7s - loss: 0.0132
+fit loop : 627
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 628
+Epoch 1/1
+ - 7s - loss: 0.0136
+fit loop : 629
+Epoch 1/1
+ - 7s - loss: 0.0146
+fit loop : 630
+Epoch 1/1
+ - 6s - loss: 0.0137
+fit loop : 631
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 632
+Epoch 1/1
+ - 6s - loss: 0.0136
+fit loop : 633
+Epoch 1/1
+ - 7s - loss: 0.0127
+fit loop : 634
+Epoch 1/1
+ - 7s - loss: 0.0132
+fit loop : 635
+Epoch 1/1
+ - 7s - loss: 0.0144
+fit loop : 636
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 637
+Epoch 1/1
+ - 7s - loss: 0.0139
+fit loop : 638
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 639
+Epoch 1/1
+ - 7s - loss: 0.0154
+fit loop : 640
+Epoch 1/1
+ - 6s - loss: 0.0138
+fit loop : 641
+Epoch 1/1
+ - 6s - loss: 0.0152
+fit loop : 642
+Epoch 1/1
+ - 7s - loss: 0.0136
+fit loop : 643
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 644
+Epoch 1/1
+ - 6s - loss: 0.0128
+fit loop : 645
+Epoch 1/1
+ - 6s - loss: 0.0132
+fit loop : 646
+Epoch 1/1
+ - 6s - loss: 0.0136
+fit loop : 647
+Epoch 1/1
+ - 6s - loss: 0.0141
+fit loop : 648
+Epoch 1/1
+ - 7s - loss: 0.0133
+fit loop : 649
+Epoch 1/1
+ - 7s - loss: 0.0142
+fit loop : 650
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 651
+Epoch 1/1
+ - 6s - loss: 0.0136
+fit loop : 652
+Epoch 1/1
+ - 6s - loss: 0.0145
+fit loop : 653
+Epoch 1/1
+ - 6s - loss: 0.0136
+fit loop : 654
+Epoch 1/1
+ - 7s - loss: 0.0140
+fit loop : 655
+Epoch 1/1
+ - 6s - loss: 0.0147
+fit loop : 656
+Epoch 1/1
+ - 7s - loss: 0.0137
+fit loop : 657
+Epoch 1/1
+ - 6s - loss: 0.0133
+fit loop : 658
+Epoch 1/1
+ - 6s - loss: 0.0133
+fit loop : 659
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 660
+Epoch 1/1
+ - 6s - loss: 0.0139
+fit loop : 661
+Epoch 1/1
+ - 6s - loss: 0.0132
+fit loop : 662
+Epoch 1/1
+ - 6s - loss: 0.0128
+fit loop : 663
+Epoch 1/1
+ - 6s - loss: 0.0137
+fit loop : 664
+Epoch 1/1
+ - 6s - loss: 0.0129
+fit loop : 665
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 666
+Epoch 1/1
+ - 6s - loss: 0.0138
+fit loop : 667
+Epoch 1/1
+ - 6s - loss: 0.0132
+fit loop : 668
+Epoch 1/1
+ - 6s - loss: 0.0138
+fit loop : 669
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 670
+Epoch 1/1
+ - 6s - loss: 0.0133
+fit loop : 671
+Epoch 1/1
+ - 6s - loss: 0.0133
+fit loop : 672
+Epoch 1/1
+ - 6s - loss: 0.0131
+fit loop : 673
+Epoch 1/1
+ - 6s - loss: 0.0130
+fit loop : 674
+Epoch 1/1
+ - 6s - loss: 0.0137
+fit loop : 675
+Epoch 1/1
+ - 6s - loss: 0.0130
+fit loop : 676
+Epoch 1/1
+ - 6s - loss: 0.0130
+fit loop : 677
+Epoch 1/1
+ - 6s - loss: 0.0137
+fit loop : 678
+Epoch 1/1
+ - 6s - loss: 0.0144
+fit loop : 679
+Epoch 1/1
+ - 6s - loss: 0.0134
+fit loop : 680
+Epoch 1/1
+ - 6s - loss: 0.0143
+fit loop : 681
+Epoch 1/1
+ - 6s - loss: 0.0129
+fit loop : 682
+Epoch 1/1
+ - 6s - loss: 0.0133
+fit loop : 683
+Epoch 1/1
+ - 6s - loss: 0.0136
+fit loop : 684
+Epoch 1/1
+ - 6s - loss: 0.0137
+fit loop : 685
+Epoch 1/1
+ - 6s - loss: 0.0133
+fit loop : 686
+Epoch 1/1
+ - 6s - loss: 0.0132
+fit loop : 687
+Epoch 1/1
+ - 6s - loss: 0.0128
+fit loop : 688
+Epoch 1/1
+ - 6s - loss: 0.0121
+fit loop : 689
+Epoch 1/1
+ - 6s - loss: 0.0140
+fit loop : 690
+Epoch 1/1
+ - 6s - loss: 0.0122
+fit loop : 691
+Epoch 1/1
+ - 6s - loss: 0.0136
+fit loop : 692
+Epoch 1/1
+ - 6s - loss: 0.0133
+fit loop : 693
+Epoch 1/1
+ - 6s - loss: 0.0130
+fit loop : 694
+Epoch 1/1
+ - 6s - loss: 0.0126
+fit loop : 695
+Epoch 1/1
+ - 6s - loss: 0.0128
+fit loop : 696
+Epoch 1/1
+ - 6s - loss: 0.0135
+fit loop : 697
+Epoch 1/1
+ - 6s - loss: 0.0131
+fit loop : 698
+Epoch 1/1
+ - 6s - loss: 0.0135
+fit loop : 699
+Epoch 1/1
+ - 6s - loss: 0.0130
+predict training data set
+expected :  [[1. 1. 1.]] predict : [1. 1. 1.]
+expected :  [[9. 5. 4.]] predict : [9. 4. 4.]
+expected :  [[4. 0. 5.]] predict : [5. 1. 5.]
+expected :  [[8. 7. 5.]] predict : [8. 7. 4.]
+expected :  [[6. 2. 2.]] predict : [7. 2. 1.]
+expected :  [[8. 2. 4.]] predict : [8. 3. 3.]
+expected :  [[7. 0. 4.]] predict : [ 7. -0.  4.]
+expected :  [[3. 4. 8.]] predict : [4. 4. 8.]
+expected :  [[5. 3. 2.]] predict : [5. 3. 2.]
+expected :  [[4. 1. 4.]] predict : [4. 1. 4.]
+expected :  [[2. 1. 7.]] predict : [3. 2. 6.]
+expected :  [[5. 5. 1.]] predict : [5. 5. 1.]
+expected :  [[0. 6. 1.]] predict : [0. 6. 2.]
+expected :  [[2. 8. 2.]] predict : [2. 8. 2.]
+expected :  [[1. 2. 6.]] predict : [1. 3. 6.]
+expected :  [[9. 0. 0.]] predict : [9. 0. 1.]
+expected :  [[6. 9. 9.]] predict : [5. 9. 8.]
+expected :  [[0. 4. 3.]] predict : [1. 3. 3.]
+expected :  [[2. 3. 8.]] predict : [2. 3. 8.]
+expected :  [[4. 8. 0.]] predict : [4. 8. 0.]
+expected :  [[1. 0. 0.]] predict : [1. 1. 1.]
+expected :  [[6. 5. 0.]] predict : [ 5.  5. -0.]
+expected :  [[3. 3. 6.]] predict : [3. 3. 7.]
+expected :  [[3. 4. 0.]] predict : [3. 5. 0.]
+expected :  [[6. 7. 9.]] predict : [6. 7. 9.]
+expected :  [[9. 8. 1.]] predict : [9. 8. 0.]
+expected :  [[6. 3. 1.]] predict : [7. 3. 1.]
+expected :  [[4. 2. 5.]] predict : [4. 2. 5.]
+expected :  [[3. 2. 6.]] predict : [3. 2. 5.]
+expected :  [[7. 0. 3.]] predict : [ 6. -0.  3.]
+expected :  [[3. 0. 8.]] predict : [4. 0. 8.]
+expected :  [[9. 3. 6.]] predict : [8. 2. 5.]
+expected :  [[8. 4. 3.]] predict : [8. 4. 3.]
+expected :  [[7. 6. 2.]] predict : [8. 6. 2.]
+expected :  [[7. 0. 8.]] predict : [ 7. -0.  7.]
+expected :  [[9. 1. 4.]] predict : [9. 0. 3.]
+expected :  [[5. 9. 4.]] predict : [6. 8. 5.]
+expected :  [[1. 3. 4.]] predict : [1. 3. 4.]
+expected :  [[9. 5. 7.]] predict : [9. 6. 7.]
+expected :  [[1. 2. 3.]] predict : [1. 2. 2.]
+expected :  [[6. 4. 1.]] predict : [6. 4. 1.]
+expected :  [[8. 6. 2.]] predict : [8. 7. 3.]
+expected :  [[7. 5. 3.]] predict : [7. 6. 3.]
+expected :  [[4. 5. 3.]] predict : [4. 5. 3.]
+expected :  [[6. 9. 1.]] predict : [6. 9. 1.]
+expected :  [[1. 0. 7.]] predict : [ 2. -1.  7.]
+expected :  [[7. 3. 2.]] predict : [7. 3. 3.]
+expected :  [[6. 1. 9.]] predict : [6. 2. 9.]
+expected :  [[3. 9. 3.]] predict : [3. 9. 3.]
+expected :  [[5. 6. 0.]] predict : [ 5.  6. -0.]
+expected :  [[2. 5. 0.]] predict : [2. 6. 0.]
+expected :  [[7. 8. 7.]] predict : [7. 8. 7.]
+expected :  [[6. 8. 8.]] predict : [6. 8. 8.]
+expected :  [[4. 3. 5.]] predict : [3. 4. 5.]
+expected :  [[5. 0. 3.]] predict : [ 5. -0.  3.]
+expected :  [[6. 2. 5.]] predict : [6. 2. 4.]
+expected :  [[9. 4. 1.]] predict : [9. 4. 1.]
+expected :  [[7. 6. 1.]] predict : [8. 6. 2.]
+expected :  [[9. 8. 9.]] predict : [9. 8. 9.]
+expected :  [[8. 1. 3.]] predict : [8. 1. 3.]
+expected :  [[7. 5. 3.]] predict : [7. 5. 3.]
+expected :  [[9. 1. 2.]] predict : [8. 1. 2.]
+expected :  [[3. 3. 6.]] predict : [3. 3. 6.]
+expected :  [[4. 9. 8.]] predict : [4. 9. 8.]
+expected :  [[1. 7. 4.]] predict : [2. 7. 4.]
+expected :  [[8. 3. 9.]] predict : [8. 4. 8.]
+expected :  [[7. 8. 4.]] predict : [7. 7. 2.]
+expected :  [[2. 7. 8.]] predict : [2. 7. 8.]
+expected :  [[1. 5. 1.]] predict : [1. 6. 1.]
+expected :  [[9. 2. 0.]] predict : [8. 2. 0.]
+expected :  [[6. 9. 1.]] predict : [ 6. 10.  1.]
+expected :  [[0. 1. 7.]] predict : [-0.  1.  7.]
+expected :  [[0. 4. 1.]] predict : [-0.  4.  1.]
+expected :  [[6. 3. 4.]] predict : [5. 4. 4.]
+expected :  [[0. 3. 3.]] predict : [1. 3. 3.]
+expected :  [[2. 7. 3.]] predict : [2. 8. 3.]
+expected :  [[0. 4. 1.]] predict : [-0.  4.  1.]
+expected :  [[3. 9. 6.]] predict : [4. 9. 5.]
+expected :  [[2. 4. 9.]] predict : [2. 4. 9.]
+expected :  [[1. 1. 9.]] predict : [ 1.  1. 10.]
+expected :  [[7. 0. 6.]] predict : [7. 0. 7.]
+expected :  [[9. 0. 9.]] predict : [ 9. -0.  9.]
+expected :  [[5. 9. 8.]] predict : [ 5. 10.  8.]
+expected :  [[3. 2. 3.]] predict : [3. 3. 3.]
+expected :  [[6. 9. 5.]] predict : [6. 9. 6.]
+expected :  [[0. 0. 7.]] predict : [1. 0. 7.]
+expected :  [[6. 4. 1.]] predict : [6. 4. 1.]
+expected :  [[7. 1. 2.]] predict : [7. 2. 2.]
+expected :  [[1. 9. 5.]] predict : [1. 9. 5.]
+expected :  [[2. 4. 4.]] predict : [2. 5. 4.]
+expected :  [[3. 8. 7.]] predict : [4. 8. 7.]
+expected :  [[6. 5. 9.]] predict : [6. 6. 9.]
+expected :  [[8. 6. 9.]] predict : [7. 6. 9.]
+expected :  [[4. 8. 9.]] predict : [4. 9. 9.]
+expected :  [[6. 9. 5.]] predict : [6. 9. 6.]
+expected :  [[7. 0. 3.]] predict : [7. 0. 2.]
+expected :  [[3. 8. 0.]] predict : [4. 9. 0.]
+expected :  [[6. 1. 8.]] predict : [7. 1. 8.]
+expected :  [[1. 3. 9.]] predict : [2. 2. 9.]
+expected :  [[0. 9. 9.]] predict : [ 1. 10.  9.]
+expected :  [[7. 9. 0.]] predict : [7. 9. 0.]
+expected :  [[8. 2. 3.]] predict : [9. 2. 3.]
+expected :  [[3. 0. 8.]] predict : [2. 1. 7.]
+expected :  [[6. 6. 1.]] predict : [6. 6. 1.]
+expected :  [[6. 9. 5.]] predict : [6. 9. 5.]
+expected :  [[4. 0. 7.]] predict : [ 4. -1.  7.]
+expected :  [[6. 1. 0.]] predict : [6. 1. 0.]
+expected :  [[9. 0. 7.]] predict : [9. 0. 7.]
+expected :  [[9. 1. 5.]] predict : [9. 0. 5.]
+expected :  [[3. 0. 3.]] predict : [3. 0. 3.]
+expected :  [[3. 4. 7.]] predict : [3. 4. 7.]
+expected :  [[9. 3. 2.]] predict : [10.  3.  3.]
+expected :  [[3. 2. 0.]] predict : [3. 2. 1.]
+expected :  [[7. 8. 4.]] predict : [7. 8. 5.]
+expected :  [[9. 7. 5.]] predict : [8. 6. 5.]
+expected :  [[3. 2. 9.]] predict : [3. 2. 9.]
+expected :  [[4. 9. 9.]] predict : [5. 9. 9.]
+expected :  [[1. 7. 3.]] predict : [1. 7. 3.]
+expected :  [[5. 9. 6.]] predict : [5. 8. 6.]
+expected :  [[9. 5. 0.]] predict : [9. 5. 1.]
+expected :  [[0. 2. 3.]] predict : [1. 2. 4.]
+expected :  [[2. 7. 9.]] predict : [3. 8. 8.]
+expected :  [[6. 3. 4.]] predict : [6. 3. 4.]
+expected :  [[0. 3. 8.]] predict : [1. 3. 7.]
+expected :  [[1. 7. 3.]] predict : [2. 7. 3.]
+expected :  [[9. 4. 2.]] predict : [8. 4. 3.]
+expected :  [[1. 4. 4.]] predict : [2. 3. 4.]
+expected :  [[3. 3. 4.]] predict : [3. 4. 4.]
+expected :  [[0. 3. 8.]] predict : [1. 3. 8.]
+expected :  [[2. 3. 3.]] predict : [3. 3. 3.]
+expected :  [[4. 1. 0.]] predict : [6. 2. 4.]
+expected :  [[3. 6. 7.]] predict : [3. 6. 7.]
+expected :  [[8. 0. 8.]] predict : [8. 0. 8.]
+expected :  [[4. 0. 4.]] predict : [3. 1. 3.]
+expected :  [[2. 9. 7.]] predict : [2. 9. 7.]
+expected :  [[2. 7. 8.]] predict : [2. 7. 8.]
+expected :  [[2. 1. 2.]] predict : [2. 2. 2.]
+expected :  [[2. 8. 9.]] predict : [2. 7. 8.]
+expected :  [[6. 9. 8.]] predict : [7. 9. 8.]
+expected :  [[1. 8. 8.]] predict : [2. 7. 8.]
+expected :  [[3. 7. 8.]] predict : [3. 8. 8.]
+expected :  [[4. 9. 7.]] predict : [4. 8. 6.]
+expected :  [[4. 5. 8.]] predict : [5. 4. 8.]
+expected :  [[1. 3. 2.]] predict : [2. 4. 3.]
+expected :  [[6. 9. 4.]] predict : [4. 9. 3.]
+expected :  [[2. 0. 4.]] predict : [2. 1. 4.]
+expected :  [[5. 5. 4.]] predict : [6. 5. 4.]
+expected :  [[8. 9. 1.]] predict : [8. 8. 1.]
+expected :  [[5. 3. 1.]] predict : [5. 2. 1.]
+expected :  [[0. 3. 7.]] predict : [1. 4. 6.]
+expected :  [[5. 6. 0.]] predict : [5. 6. 0.]
+expected :  [[0. 8. 7.]] predict : [0. 7. 7.]
+expected :  [[4. 9. 9.]] predict : [5. 9. 9.]
+expected :  [[3. 9. 5.]] predict : [4. 9. 5.]
+expected :  [[4. 4. 6.]] predict : [4. 4. 6.]
+expected :  [[6. 9. 9.]] predict : [6. 9. 9.]
+expected :  [[7. 6. 0.]] predict : [6. 6. 1.]
+expected :  [[3. 1. 9.]] predict : [3. 0. 7.]
+expected :  [[4. 4. 1.]] predict : [5. 4. 0.]
+expected :  [[1. 3. 9.]] predict : [3. 2. 8.]
+expected :  [[1. 0. 9.]] predict : [ 2. -0.  8.]
+expected :  [[4. 1. 6.]] predict : [4. 2. 5.]
+expected :  [[8. 6. 0.]] predict : [8. 6. 0.]
+expected :  [[0. 5. 2.]] predict : [1. 5. 2.]
+expected :  [[2. 6. 5.]] predict : [3. 6. 5.]
+expected :  [[5. 6. 4.]] predict : [4. 6. 5.]
+expected :  [[4. 5. 1.]] predict : [5. 5. 3.]
+expected :  [[6. 2. 8.]] predict : [5. 3. 8.]
+expected :  [[9. 7. 6.]] predict : [9. 7. 6.]
+expected :  [[2. 6. 6.]] predict : [2. 6. 5.]
+expected :  [[3. 2. 8.]] predict : [3. 2. 8.]
+expected :  [[0. 6. 1.]] predict : [1. 6. 1.]
+expected :  [[0. 4. 9.]] predict : [1. 4. 9.]
+expected :  [[6. 5. 9.]] predict : [7. 5. 9.]
+expected :  [[4. 8. 9.]] predict : [ 5.  8. 10.]
+expected :  [[8. 9. 8.]] predict : [8. 9. 9.]
+expected :  [[5. 2. 5.]] predict : [5. 2. 5.]
+expected :  [[9. 1. 4.]] predict : [9. 1. 4.]
+expected :  [[9. 8. 9.]] predict : [10.  8.  9.]
+expected :  [[1. 0. 5.]] predict : [2. 1. 5.]
+expected :  [[8. 6. 0.]] predict : [8. 6. 1.]
+expected :  [[4. 1. 1.]] predict : [4. 1. 1.]
+expected :  [[4. 4. 3.]] predict : [4. 5. 2.]
+expected :  [[3. 7. 3.]] predict : [3. 7. 3.]
+expected :  [[5. 6. 5.]] predict : [5. 6. 5.]
+expected :  [[8. 8. 3.]] predict : [8. 8. 3.]
+expected :  [[8. 7. 4.]] predict : [8. 7. 4.]
+expected :  [[2. 7. 7.]] predict : [3. 7. 7.]
+expected :  [[0. 8. 5.]] predict : [1. 8. 4.]
+expected :  [[4. 3. 5.]] predict : [4. 3. 6.]
+expected :  [[6. 2. 4.]] predict : [6. 2. 4.]
+expected :  [[3. 7. 8.]] predict : [4. 6. 8.]
+expected :  [[9. 9. 8.]] predict : [9. 8. 8.]
+expected :  [[6. 2. 6.]] predict : [6. 3. 6.]
+expected :  [[7. 4. 0.]] predict : [ 7.  4. -0.]
+expected :  [[1. 4. 3.]] predict : [3. 5. 4.]
+expected :  [[8. 4. 8.]] predict : [8. 5. 8.]
+expected :  [[9. 0. 7.]] predict : [8. 1. 7.]
+expected :  [[6. 2. 1.]] predict : [6. 2. 2.]
+expected :  [[0. 1. 0.]] predict : [0. 2. 0.]
+expected :  [[3. 5. 9.]] predict : [4. 5. 8.]
+expected :  [[4. 3. 0.]] predict : [ 4.  3. -0.]
+expected :  [[1. 3. 7.]] predict : [1. 3. 7.]
+expected :  [[5. 0. 7.]] predict : [ 5. -0.  8.]
+expected :  [[3. 2. 6.]] predict : [3. 2. 6.]
+expected :  [[3. 3. 4.]] predict : [3. 2. 4.]
+expected :  [[7. 8. 9.]] predict : [7. 7. 9.]
+expected :  [[7. 8. 4.]] predict : [7. 8. 4.]
+expected :  [[1. 6. 0.]] predict : [2. 6. 0.]
+expected :  [[6. 5. 1.]] predict : [5. 5. 2.]
+expected :  [[0. 4. 5.]] predict : [0. 4. 5.]
+expected :  [[8. 0. 5.]] predict : [8. 0. 4.]
+expected :  [[5. 7. 2.]] predict : [5. 7. 2.]
+expected :  [[6. 5. 6.]] predict : [7. 5. 6.]
+expected :  [[8. 0. 1.]] predict : [ 8. -1.  1.]
+expected :  [[8. 5. 6.]] predict : [9. 5. 6.]
+expected :  [[7. 4. 4.]] predict : [8. 3. 4.]
+expected :  [[0. 7. 3.]] predict : [0. 6. 3.]
+expected :  [[9. 9. 7.]] predict : [9. 8. 7.]
+expected :  [[7. 4. 3.]] predict : [7. 3. 3.]
+expected :  [[8. 3. 0.]] predict : [8. 3. 1.]
+expected :  [[0. 4. 5.]] predict : [1. 5. 6.]
+expected :  [[3. 9. 8.]] predict : [3. 9. 8.]
+expected :  [[1. 1. 3.]] predict : [1. 2. 4.]
+expected :  [[3. 7. 3.]] predict : [4. 5. 3.]
+expected :  [[1. 5. 7.]] predict : [3. 5. 4.]
+expected :  [[8. 8. 8.]] predict : [8. 8. 9.]
+expected :  [[7. 7. 4.]] predict : [7. 7. 4.]
+expected :  [[2. 4. 3.]] predict : [1. 4. 3.]
+expected :  [[4. 7. 0.]] predict : [4. 7. 0.]
+expected :  [[5. 5. 7.]] predict : [5. 4. 8.]
+expected :  [[5. 2. 9.]] predict : [5. 1. 8.]
+expected :  [[8. 3. 2.]] predict : [8. 3. 3.]
+expected :  [[1. 5. 3.]] predict : [1. 5. 4.]
+expected :  [[8. 7. 7.]] predict : [8. 7. 6.]
+expected :  [[6. 6. 3.]] predict : [6. 6. 3.]
+expected :  [[9. 6. 1.]] predict : [8. 6. 2.]
+expected :  [[6. 9. 0.]] predict : [6. 9. 1.]
+expected :  [[8. 3. 1.]] predict : [8. 3. 2.]
+expected :  [[7. 0. 9.]] predict : [6. 0. 9.]
+expected :  [[2. 4. 4.]] predict : [2. 5. 4.]
+expected :  [[3. 1. 8.]] predict : [3. 0. 8.]
+expected :  [[9. 8. 3.]] predict : [9. 8. 2.]
+expected :  [[7. 7. 6.]] predict : [7. 7. 6.]
+expected :  [[0. 5. 4.]] predict : [1. 5. 4.]
+expected :  [[1. 8. 9.]] predict : [2. 8. 9.]
+expected :  [[5. 5. 0.]] predict : [6. 5. 1.]
+expected :  [[0. 9. 7.]] predict : [0. 9. 7.]
+expected :  [[2. 9. 9.]] predict : [3. 9. 8.]
+expected :  [[3. 0. 1.]] predict : [ 3. -0.  1.]
+expected :  [[2. 6. 2.]] predict : [3. 6. 2.]
+expected :  [[4. 9. 3.]] predict : [4. 9. 2.]
+expected :  [[1. 5. 1.]] predict : [1. 5. 1.]
+expected :  [[4. 4. 8.]] predict : [4. 4. 8.]
+expected :  [[2. 2. 5.]] predict : [2. 2. 5.]
+expected :  [[3. 6. 7.]] predict : [4. 6. 8.]
+expected :  [[5. 5. 9.]] predict : [6. 6. 8.]
+expected :  [[0. 2. 9.]] predict : [1. 3. 9.]
+expected :  [[8. 0. 6.]] predict : [9. 0. 5.]
+expected :  [[2. 8. 9.]] predict : [2. 9. 9.]
+expected :  [[0. 4. 9.]] predict : [0. 4. 9.]
+expected :  [[3. 8. 3.]] predict : [3. 8. 3.]
+expected :  [[8. 1. 8.]] predict : [8. 1. 8.]
+expected :  [[0. 1. 6.]] predict : [1. 1. 6.]
+expected :  [[0. 8. 4.]] predict : [1. 8. 5.]
+expected :  [[4. 2. 8.]] predict : [4. 1. 8.]
+expected :  [[9. 4. 2.]] predict : [9. 4. 2.]
+expected :  [[1. 2. 5.]] predict : [2. 2. 5.]
+expected :  [[4. 1. 5.]] predict : [4. 1. 5.]
+expected :  [[1. 1. 0.]] predict : [ 1.  1. -0.]
+expected :  [[8. 8. 3.]] predict : [9. 8. 3.]
+expected :  [[3. 6. 9.]] predict : [ 3.  7. 10.]
+expected :  [[7. 7. 9.]] predict : [6. 8. 9.]
+expected :  [[6. 5. 0.]] predict : [6. 5. 0.]
+expected :  [[3. 1. 7.]] predict : [4. 1. 7.]
+expected :  [[2. 4. 6.]] predict : [3. 4. 6.]
+expected :  [[8. 8. 8.]] predict : [8. 8. 8.]
+expected :  [[7. 8. 3.]] predict : [8. 8. 3.]
+expected :  [[1. 6. 9.]] predict : [2. 7. 9.]
+expected :  [[2. 0. 2.]] predict : [3. 0. 3.]
+expected :  [[9. 7. 6.]] predict : [9. 7. 6.]
+expected :  [[9. 0. 9.]] predict : [ 9. -0.  8.]
+expected :  [[1. 2. 5.]] predict : [1. 3. 6.]
+expected :  [[5. 8. 2.]] predict : [5. 8. 2.]
+expected :  [[2. 2. 1.]] predict : [3. 2. 1.]
+expected :  [[9. 5. 0.]] predict : [ 7.  5. -0.]
+expected :  [[4. 6. 9.]] predict : [5. 6. 9.]
+expected :  [[8. 1. 7.]] predict : [8. 1. 7.]
+expected :  [[3. 1. 5.]] predict : [5. 2. 3.]
+expected :  [[6. 0. 6.]] predict : [6. 1. 7.]
+expected :  [[8. 9. 3.]] predict : [8. 9. 3.]
+expected :  [[8. 5. 4.]] predict : [8. 6. 5.]
+expected :  [[0. 2. 8.]] predict : [0. 3. 8.]
+expected :  [[2. 5. 0.]] predict : [2. 6. 1.]
+expected :  [[7. 0. 9.]] predict : [7. 0. 9.]
+expected :  [[3. 5. 9.]] predict : [4. 4. 8.]
+expected :  [[2. 5. 9.]] predict : [3. 6. 9.]
+expected :  [[8. 7. 3.]] predict : [8. 8. 2.]
+expected :  [[1. 9. 3.]] predict : [2. 9. 3.]
+expected :  [[2. 7. 2.]] predict : [3. 7. 2.]
+expected :  [[1. 0. 7.]] predict : [1. 0. 7.]
+expected :  [[3. 7. 6.]] predict : [3. 7. 6.]
+expected :  [[2. 3. 7.]] predict : [3. 3. 8.]
+expected :  [[1. 1. 4.]] predict : [2. 3. 3.]
+expected :  [[3. 4. 8.]] predict : [3. 4. 8.]
+expected :  [[6. 2. 4.]] predict : [7. 3. 4.]
+expected :  [[6. 5. 0.]] predict : [ 6.  5. -0.]
+expected :  [[8. 9. 7.]] predict : [9. 8. 8.]
+expected :  [[1. 3. 4.]] predict : [2. 4. 4.]
+expected :  [[3. 9. 5.]] predict : [3. 9. 5.]
+expected :  [[8. 9. 9.]] predict : [8. 9. 9.]
+expected :  [[4. 8. 0.]] predict : [ 4.  8. -1.]
+expected :  [[0. 0. 0.]] predict : [0. 0. 0.]
+expected :  [[0. 5. 0.]] predict : [2. 5. 0.]
+expected :  [[8. 6. 1.]] predict : [8. 6. 2.]
+expected :  [[6. 7. 9.]] predict : [7. 7. 9.]
+expected :  [[5. 7. 0.]] predict : [5. 7. 0.]
+expected :  [[9. 4. 5.]] predict : [9. 4. 5.]
+expected :  [[5. 5. 7.]] predict : [5. 6. 7.]
+expected :  [[0. 3. 6.]] predict : [1. 3. 6.]
+expected :  [[2. 7. 8.]] predict : [2. 6. 7.]
+expected :  [[7. 0. 2.]] predict : [ 7. -0.  2.]
+expected :  [[7. 3. 1.]] predict : [7. 3. 1.]
+expected :  [[6. 5. 2.]] predict : [6. 5. 3.]
+expected :  [[7. 5. 4.]] predict : [7. 5. 4.]
+expected :  [[2. 7. 6.]] predict : [2. 7. 6.]
+expected :  [[1. 0. 2.]] predict : [2. 0. 2.]
+expected :  [[2. 4. 2.]] predict : [2. 4. 2.]
+expected :  [[2. 6. 2.]] predict : [2. 6. 2.]
+expected :  [[1. 4. 3.]] predict : [1. 5. 2.]
+expected :  [[8. 6. 8.]] predict : [8. 7. 7.]
+expected :  [[4. 5. 4.]] predict : [5. 6. 4.]
+expected :  [[9. 7. 5.]] predict : [9. 7. 5.]
+expected :  [[8. 6. 4.]] predict : [8. 5. 4.]
+expected :  [[1. 5. 8.]] predict : [1. 5. 7.]
+expected :  [[5. 7. 7.]] predict : [5. 7. 6.]
+expected :  [[3. 2. 2.]] predict : [2. 2. 3.]
+expected :  [[6. 4. 4.]] predict : [6. 4. 3.]
+expected :  [[9. 1. 0.]] predict : [9. 0. 1.]
+expected :  [[5. 1. 8.]] predict : [5. 1. 8.]
+expected :  [[2. 3. 1.]] predict : [3. 3. 1.]
+expected :  [[8. 8. 2.]] predict : [9. 8. 0.]
+expected :  [[1. 7. 4.]] predict : [1. 7. 4.]
+expected :  [[0. 7. 5.]] predict : [0. 7. 4.]
+expected :  [[5. 7. 6.]] predict : [4. 7. 6.]
+expected :  [[7. 8. 7.]] predict : [8. 8. 7.]
+expected :  [[0. 7. 4.]] predict : [1. 6. 4.]
+expected :  [[0. 2. 0.]] predict : [ 0.  3. -1.]
+expected :  [[4. 4. 9.]] predict : [4. 5. 9.]
+expected :  [[4. 8. 7.]] predict : [4. 8. 7.]
+expected :  [[7. 3. 5.]] predict : [7. 3. 5.]
+expected :  [[1. 2. 9.]] predict : [1. 2. 8.]
+expected :  [[6. 2. 5.]] predict : [7. 2. 4.]
+expected :  [[1. 0. 5.]] predict : [2. 1. 5.]
+expected :  [[8. 2. 2.]] predict : [8. 2. 2.]
+expected :  [[5. 6. 0.]] predict : [6. 5. 1.]
+expected :  [[6. 9. 7.]] predict : [ 5. 10.  6.]
+expected :  [[3. 7. 7.]] predict : [3. 8. 7.]
+expected :  [[3. 6. 6.]] predict : [3. 7. 6.]
+expected :  [[5. 1. 8.]] predict : [5. 1. 7.]
+expected :  [[3. 9. 0.]] predict : [4. 7. 0.]
+expected :  [[3. 4. 1.]] predict : [4. 4. 2.]
+expected :  [[3. 0. 5.]] predict : [4. 0. 5.]
+expected :  [[8. 4. 0.]] predict : [8. 4. 1.]
+expected :  [[5. 7. 3.]] predict : [4. 6. 3.]
+expected :  [[5. 9. 3.]] predict : [5. 9. 2.]
+expected :  [[4. 7. 0.]] predict : [5. 8. 1.]
+expected :  [[7. 4. 9.]] predict : [ 7.  4. 10.]
+expected :  [[4. 0. 7.]] predict : [ 5. -0.  7.]
+expected :  [[0. 4. 6.]] predict : [1. 4. 6.]
+expected :  [[5. 9. 6.]] predict : [5. 9. 6.]
+expected :  [[8. 0. 9.]] predict : [ 9. -1.  9.]
+expected :  [[6. 9. 8.]] predict : [6. 9. 8.]
+expected :  [[3. 5. 0.]] predict : [3. 5. 1.]
+expected :  [[5. 2. 4.]] predict : [6. 2. 3.]
+expected :  [[4. 2. 1.]] predict : [4. 2. 1.]
+expected :  [[9. 3. 6.]] predict : [9. 2. 5.]
+expected :  [[7. 2. 5.]] predict : [7. 2. 5.]
+expected :  [[5. 5. 7.]] predict : [5. 5. 7.]
+expected :  [[4. 8. 8.]] predict : [3. 8. 9.]
+expected :  [[2. 6. 6.]] predict : [2. 6. 6.]
+expected :  [[3. 3. 1.]] predict : [3. 4. 2.]
+expected :  [[6. 9. 5.]] predict : [6. 9. 5.]
+expected :  [[7. 4. 5.]] predict : [7. 4. 5.]
+expected :  [[1. 6. 7.]] predict : [2. 6. 7.]
+expected :  [[1. 6. 0.]] predict : [1. 6. 1.]
+expected :  [[8. 1. 4.]] predict : [8. 1. 4.]
+expected :  [[7. 3. 1.]] predict : [7. 3. 1.]
+expected :  [[6. 0. 5.]] predict : [6. 0. 5.]
+expected :  [[5. 0. 9.]] predict : [ 5. -0.  8.]
+expected :  [[2. 8. 4.]] predict : [3. 8. 4.]
+expected :  [[4. 3. 9.]] predict : [4. 3. 9.]
+expected :  [[0. 4. 5.]] predict : [-0.  4.  5.]
+expected :  [[0. 0. 8.]] predict : [-1. -1.  8.]
+expected :  [[0. 1. 5.]] predict : [-0.  1.  5.]
+expected :  [[8. 7. 8.]] predict : [8. 6. 8.]
+expected :  [[4. 9. 9.]] predict : [5. 9. 9.]
+expected :  [[6. 2. 3.]] predict : [6. 2. 3.]
+expected :  [[0. 5. 5.]] predict : [0. 6. 5.]
+expected :  [[5. 6. 6.]] predict : [5. 6. 6.]
+expected :  [[6. 7. 6.]] predict : [6. 6. 6.]
+expected :  [[4. 8. 2.]] predict : [5. 7. 3.]
+expected :  [[5. 5. 6.]] predict : [5. 4. 6.]
+expected :  [[9. 2. 0.]] predict : [10.  2.  1.]
+expected :  [[3. 5. 9.]] predict : [4. 6. 9.]
+expected :  [[0. 7. 7.]] predict : [1. 8. 6.]
+expected :  [[8. 8. 8.]] predict : [9. 8. 8.]
+expected :  [[1. 1. 9.]] predict : [ 2.  2. 10.]
+expected :  [[1. 8. 1.]] predict : [2. 8. 1.]
+expected :  [[6. 9. 5.]] predict : [6. 9. 5.]
+expected :  [[6. 1. 4.]] predict : [7. 0. 4.]
+expected :  [[1. 1. 5.]] predict : [2. 2. 4.]
+expected :  [[8. 7. 7.]] predict : [8. 7. 7.]
+expected :  [[6. 9. 8.]] predict : [6. 8. 8.]
+expected :  [[5. 8. 5.]] predict : [6. 8. 4.]
+expected :  [[9. 4. 5.]] predict : [9. 4. 5.]
+expected :  [[5. 4. 9.]] predict : [6. 3. 8.]
+expected :  [[2. 9. 9.]] predict : [3. 9. 9.]
+expected :  [[7. 3. 9.]] predict : [8. 3. 8.]
+expected :  [[7. 3. 9.]] predict : [9. 4. 9.]
+expected :  [[1. 1. 3.]] predict : [1. 1. 3.]
+expected :  [[0. 7. 6.]] predict : [0. 7. 6.]
+expected :  [[7. 0. 7.]] predict : [ 7. -0.  8.]
+expected :  [[6. 0. 8.]] predict : [ 6. -1.  9.]
+expected :  [[3. 6. 3.]] predict : [3. 6. 3.]
+expected :  [[9. 3. 5.]] predict : [8. 3. 5.]
+expected :  [[2. 4. 8.]] predict : [2. 4. 9.]
+expected :  [[1. 7. 3.]] predict : [2. 7. 3.]
+expected :  [[2. 8. 5.]] predict : [3. 8. 6.]
+expected :  [[8. 7. 2.]] predict : [7. 7. 2.]
+expected :  [[2. 1. 0.]] predict : [2. 1. 1.]
+expected :  [[7. 9. 7.]] predict : [7. 9. 7.]
+expected :  [[3. 9. 8.]] predict : [4. 8. 8.]
+expected :  [[0. 0. 8.]] predict : [1. 1. 8.]
+expected :  [[3. 1. 2.]] predict : [3. 1. 2.]
+expected :  [[3. 3. 3.]] predict : [4. 3. 4.]
+expected :  [[4. 9. 6.]] predict : [6. 7. 6.]
+expected :  [[4. 7. 1.]] predict : [4. 6. 2.]
+expected :  [[1. 3. 6.]] predict : [3. 5. 6.]
+expected :  [[8. 5. 4.]] predict : [8. 4. 3.]
+expected :  [[8. 8. 1.]] predict : [9. 7. 1.]
+expected :  [[3. 4. 6.]] predict : [4. 4. 6.]
+expected :  [[5. 5. 8.]] predict : [5. 4. 5.]
+expected :  [[6. 9. 4.]] predict : [6. 7. 4.]
+expected :  [[4. 1. 4.]] predict : [4. 2. 5.]
+expected :  [[0. 0. 1.]] predict : [1. 1. 1.]
+expected :  [[2. 7. 6.]] predict : [3. 7. 6.]
+expected :  [[9. 7. 5.]] predict : [9. 6. 6.]
+expected :  [[7. 4. 4.]] predict : [7. 3. 4.]
+expected :  [[1. 5. 9.]] predict : [3. 6. 9.]
+expected :  [[3. 6. 4.]] predict : [4. 5. 4.]
+expected :  [[5. 6. 9.]] predict : [6. 5. 9.]
+expected :  [[1. 4. 8.]] predict : [2. 5. 8.]
+expected :  [[9. 9. 4.]] predict : [9. 9. 4.]
+expected :  [[8. 9. 9.]] predict : [9. 8. 8.]
+expected :  [[2. 2. 8.]] predict : [2. 2. 7.]
+expected :  [[0. 3. 3.]] predict : [1. 3. 3.]
+expected :  [[6. 1. 3.]] predict : [7. 1. 3.]
+expected :  [[7. 4. 1.]] predict : [7. 4. 1.]
+expected :  [[5. 6. 2.]] predict : [5. 6. 2.]
+expected :  [[8. 8. 3.]] predict : [8. 8. 3.]
+expected :  [[5. 6. 7.]] predict : [6. 6. 7.]
+expected :  [[4. 0. 6.]] predict : [4. 0. 6.]
+expected :  [[3. 5. 2.]] predict : [4. 5. 2.]
+expected :  [[4. 6. 6.]] predict : [5. 6. 7.]
+expected :  [[6. 8. 6.]] predict : [6. 8. 6.]
+expected :  [[1. 7. 4.]] predict : [2. 7. 3.]
+expected :  [[6. 8. 1.]] predict : [7. 8. 1.]
+expected :  [[7. 0. 3.]] predict : [7. 0. 2.]
+expected :  [[3. 6. 7.]] predict : [4. 6. 7.]
+expected :  [[8. 2. 7.]] predict : [8. 2. 6.]
+expected :  [[3. 5. 8.]] predict : [3. 5. 8.]
+expected :  [[9. 9. 6.]] predict : [9. 8. 6.]
+expected :  [[0. 7. 0.]] predict : [1. 7. 0.]
+expected :  [[0. 5. 3.]] predict : [1. 5. 4.]
+expected :  [[7. 7. 0.]] predict : [7. 6. 0.]
+expected :  [[3. 4. 4.]] predict : [4. 3. 4.]
+expected :  [[3. 3. 1.]] predict : [4. 3. 1.]
+expected :  [[8. 2. 2.]] predict : [8. 2. 2.]
+expected :  [[3. 5. 4.]] predict : [3. 5. 4.]
+expected :  [[2. 5. 6.]] predict : [2. 4. 5.]
+expected :  [[1. 2. 4.]] predict : [2. 2. 4.]
+expected :  [[7. 1. 6.]] predict : [7. 2. 6.]
+expected :  [[9. 8. 6.]] predict : [9. 8. 6.]
+expected :  [[3. 1. 3.]] predict : [3. 2. 2.]
+expected :  [[3. 6. 9.]] predict : [4. 6. 9.]
+expected :  [[0. 6. 3.]] predict : [-0.  6.  3.]
+expected :  [[8. 1. 2.]] predict : [8. 1. 2.]
+expected :  [[9. 1. 1.]] predict : [9. 1. 1.]
+expected :  [[5. 1. 3.]] predict : [5. 1. 3.]
+expected :  [[2. 8. 7.]] predict : [3. 8. 6.]
+expected :  [[8. 5. 7.]] predict : [8. 5. 7.]
+expected :  [[7. 3. 1.]] predict : [8. 3. 0.]
+expected :  [[7. 7. 8.]] predict : [8. 7. 7.]
+expected :  [[2. 6. 5.]] predict : [2. 5. 5.]
+expected :  [[8. 0. 1.]] predict : [ 8. -0.  1.]
+expected :  [[9. 0. 3.]] predict : [9. 0. 3.]
+expected :  [[8. 8. 5.]] predict : [8. 8. 5.]
+expected :  [[5. 3. 5.]] predict : [5. 3. 4.]
+expected :  [[7. 0. 7.]] predict : [7. 0. 6.]
+expected :  [[5. 9. 8.]] predict : [6. 8. 7.]
+expected :  [[7. 4. 8.]] predict : [8. 3. 8.]
+expected :  [[0. 9. 1.]] predict : [1. 9. 1.]
+expected :  [[9. 5. 2.]] predict : [9. 5. 2.]
+expected :  [[8. 9. 5.]] predict : [8. 8. 5.]
+expected :  [[3. 6. 2.]] predict : [3. 6. 2.]
+expected :  [[9. 3. 7.]] predict : [8. 4. 7.]
+expected :  [[1. 3. 5.]] predict : [2. 3. 5.]
+expected :  [[5. 1. 7.]] predict : [5. 1. 7.]
+expected :  [[3. 8. 9.]] predict : [3. 8. 9.]
+expected :  [[5. 9. 1.]] predict : [6. 9. 2.]
+expected :  [[6. 6. 4.]] predict : [6. 6. 4.]
+expected :  [[2. 3. 7.]] predict : [3. 4. 7.]
+expected :  [[7. 5. 1.]] predict : [7. 4. 1.]
+expected :  [[0. 4. 8.]] predict : [0. 5. 8.]
+expected :  [[2. 8. 4.]] predict : [3. 8. 5.]
+expected :  [[7. 7. 8.]] predict : [7. 6. 8.]
+expected :  [[3. 7. 0.]] predict : [2. 7. 0.]
+expected :  [[8. 5. 6.]] predict : [9. 5. 6.]
+expected :  [[3. 0. 2.]] predict : [3. 1. 2.]
+expected :  [[1. 4. 2.]] predict : [1. 4. 2.]
+expected :  [[9. 5. 1.]] predict : [9. 5. 1.]
+expected :  [[3. 8. 7.]] predict : [3. 8. 7.]
+expected :  [[3. 2. 6.]] predict : [3. 2. 6.]
+expected :  [[6. 3. 9.]] predict : [6. 2. 9.]
+expected :  [[5. 2. 1.]] predict : [5. 2. 1.]
+expected :  [[3. 6. 2.]] predict : [3. 7. 2.]
+expected :  [[2. 3. 4.]] predict : [2. 3. 3.]
+expected :  [[3. 6. 1.]] predict : [4. 7. 2.]
+expected :  [[4. 8. 1.]] predict : [4. 7. 1.]
+expected :  [[0. 9. 5.]] predict : [1. 8. 6.]
+expected :  [[6. 8. 6.]] predict : [7. 6. 6.]
+expected :  [[9. 1. 2.]] predict : [9. 0. 2.]
+expected :  [[6. 7. 2.]] predict : [7. 6. 2.]
+expected :  [[9. 3. 3.]] predict : [9. 3. 3.]
+expected :  [[3. 7. 2.]] predict : [4. 7. 2.]
+expected :  [[2. 0. 3.]] predict : [3. 2. 3.]
+expected :  [[7. 7. 0.]] predict : [ 7.  7. -0.]
+expected :  [[5. 7. 8.]] predict : [5. 7. 8.]
+expected :  [[9. 3. 8.]] predict : [8. 2. 7.]
+expected :  [[1. 3. 5.]] predict : [1. 5. 6.]
+expected :  [[4. 2. 8.]] predict : [4. 2. 8.]
+expected :  [[9. 3. 4.]] predict : [10.  3.  4.]
+expected :  [[2. 6. 7.]] predict : [3. 5. 7.]
+expected :  [[9. 4. 4.]] predict : [9. 4. 5.]
+expected :  [[8. 9. 8.]] predict : [8. 9. 8.]
+expected :  [[8. 8. 7.]] predict : [7. 8. 7.]
+expected :  [[5. 5. 7.]] predict : [5. 5. 7.]
+expected :  [[9. 0. 2.]] predict : [10. -1.  1.]
+expected :  [[4. 5. 3.]] predict : [4. 5. 4.]
+expected :  [[6. 5. 8.]] predict : [6. 5. 8.]
+expected :  [[6. 0. 9.]] predict : [6. 0. 8.]
+expected :  [[5. 6. 8.]] predict : [5. 6. 9.]
+expected :  [[3. 5. 5.]] predict : [3. 5. 5.]
+expected :  [[1. 3. 1.]] predict : [1. 3. 1.]
+expected :  [[4. 3. 4.]] predict : [4. 3. 4.]
+expected :  [[5. 1. 2.]] predict : [5. 1. 2.]
+expected :  [[2. 8. 5.]] predict : [2. 8. 5.]
+expected :  [[3. 0. 0.]] predict : [4. 1. 1.]
+expected :  [[2. 3. 6.]] predict : [3. 3. 7.]
+expected :  [[2. 8. 5.]] predict : [2. 8. 6.]
+expected :  [[7. 6. 5.]] predict : [7. 6. 5.]
+expected :  [[7. 1. 5.]] predict : [8. 1. 5.]
+expected :  [[6. 6. 9.]] predict : [6. 5. 9.]
+expected :  [[7. 5. 7.]] predict : [7. 6. 7.]
+expected :  [[7. 2. 3.]] predict : [7. 2. 3.]
+expected :  [[9. 5. 9.]] predict : [10.  5.  8.]
+expected :  [[4. 6. 2.]] predict : [4. 5. 2.]
+expected :  [[2. 1. 8.]] predict : [3. 1. 8.]
+expected :  [[9. 2. 1.]] predict : [9. 2. 1.]
+expected :  [[0. 5. 0.]] predict : [0. 5. 0.]
+expected :  [[3. 9. 1.]] predict : [4. 9. 1.]
+expected :  [[2. 4. 1.]] predict : [2. 4. 1.]
+expected :  [[4. 9. 7.]] predict : [4. 8. 8.]
+expected :  [[1. 0. 9.]] predict : [ 1. -0.  9.]
+expected :  [[4. 2. 0.]] predict : [4. 2. 1.]
+expected :  [[8. 1. 7.]] predict : [8. 1. 6.]
+expected :  [[5. 1. 7.]] predict : [5. 2. 7.]
+expected :  [[7. 1. 0.]] predict : [ 7.  1. -0.]
+expected :  [[8. 7. 9.]] predict : [8. 7. 9.]
+expected :  [[1. 3. 6.]] predict : [2. 3. 6.]
+expected :  [[9. 7. 9.]] predict : [9. 5. 8.]
+expected :  [[1. 1. 4.]] predict : [1. 1. 4.]
+expected :  [[2. 3. 2.]] predict : [3. 4. 2.]
+expected :  [[3. 0. 0.]] predict : [ 3.  1. -0.]
+expected :  [[7. 9. 1.]] predict : [7. 9. 2.]
+expected :  [[7. 2. 3.]] predict : [7. 2. 4.]
+expected :  [[7. 7. 1.]] predict : [7. 7. 0.]
+expected :  [[8. 5. 6.]] predict : [9. 4. 6.]
+expected :  [[1. 0. 5.]] predict : [1. 0. 4.]
+expected :  [[5. 4. 3.]] predict : [5. 4. 2.]
+expected :  [[1. 8. 8.]] predict : [1. 8. 8.]
+expected :  [[4. 1. 9.]] predict : [ 4.  0. 10.]
+expected :  [[2. 8. 0.]] predict : [2. 8. 1.]
+expected :  [[6. 3. 7.]] predict : [7. 3. 7.]
+expected :  [[4. 0. 6.]] predict : [4. 0. 6.]
+expected :  [[4. 9. 0.]] predict : [ 4.  9. -0.]
+expected :  [[3. 5. 1.]] predict : [3. 5. 1.]
+expected :  [[0. 3. 0.]] predict : [0. 4. 0.]
+expected :  [[9. 1. 3.]] predict : [10.  1.  2.]
+expected :  [[4. 3. 0.]] predict : [ 4.  4. -0.]
+expected :  [[7. 8. 2.]] predict : [7. 8. 2.]
+expected :  [[8. 0. 4.]] predict : [ 8. -0.  3.]
+expected :  [[4. 4. 2.]] predict : [5. 4. 2.]
+expected :  [[9. 0. 5.]] predict : [9. 1. 5.]
+expected :  [[7. 0. 5.]] predict : [ 7. -1.  5.]
+expected :  [[7. 7. 5.]] predict : [7. 7. 5.]
+expected :  [[4. 4. 4.]] predict : [4. 4. 4.]
+expected :  [[9. 0. 1.]] predict : [9. 0. 1.]
+expected :  [[8. 5. 3.]] predict : [8. 5. 2.]
+expected :  [[7. 1. 4.]] predict : [7. 1. 3.]
+expected :  [[1. 6. 2.]] predict : [1. 6. 2.]
+expected :  [[9. 6. 0.]] predict : [ 9.  6. -0.]
+expected :  [[8. 6. 1.]] predict : [8. 6. 1.]
+expected :  [[6. 9. 8.]] predict : [6. 9. 8.]
+expected :  [[1. 7. 3.]] predict : [1. 7. 4.]
+expected :  [[8. 6. 1.]] predict : [7. 5. 3.]
+expected :  [[6. 6. 6.]] predict : [6. 4. 5.]
+expected :  [[3. 1. 1.]] predict : [3. 1. 2.]
+expected :  [[5. 3. 7.]] predict : [6. 4. 5.]
+expected :  [[7. 2. 6.]] predict : [7. 2. 6.]
+expected :  [[1. 0. 9.]] predict : [ 2. -0.  9.]
+expected :  [[8. 5. 5.]] predict : [8. 5. 5.]
+expected :  [[0. 9. 4.]] predict : [1. 9. 4.]
+expected :  [[2. 9. 4.]] predict : [3. 9. 5.]
+expected :  [[0. 3. 1.]] predict : [1. 4. 2.]
+expected :  [[6. 4. 7.]] predict : [6. 4. 7.]
+expected :  [[6. 6. 5.]] predict : [6. 5. 5.]
+expected :  [[6. 1. 2.]] predict : [6. 1. 2.]
+expected :  [[3. 2. 6.]] predict : [3. 2. 5.]
+expected :  [[9. 2. 8.]] predict : [8. 2. 7.]
+expected :  [[7. 3. 6.]] predict : [8. 3. 6.]
+expected :  [[3. 9. 3.]] predict : [4. 9. 3.]
+expected :  [[8. 2. 8.]] predict : [9. 2. 8.]
+expected :  [[7. 2. 0.]] predict : [ 8.  2. -0.]
+expected :  [[0. 2. 1.]] predict : [0. 2. 1.]
+expected :  [[5. 8. 3.]] predict : [4. 8. 3.]
+expected :  [[8. 1. 3.]] predict : [8. 1. 3.]
+expected :  [[8. 5. 8.]] predict : [8. 5. 7.]
+expected :  [[0. 7. 8.]] predict : [-0.  8.  8.]
+expected :  [[8. 9. 1.]] predict : [8. 9. 1.]
+expected :  [[7. 4. 6.]] predict : [7. 4. 6.]
+expected :  [[0. 8. 4.]] predict : [1. 7. 5.]
+expected :  [[8. 7. 5.]] predict : [7. 7. 5.]
+expected :  [[4. 0. 1.]] predict : [5. 0. 1.]
+expected :  [[6. 5. 9.]] predict : [6. 5. 9.]
+expected :  [[8. 1. 0.]] predict : [ 8.  1. -0.]
+expected :  [[1. 7. 9.]] predict : [1. 7. 9.]
+expected :  [[7. 4. 9.]] predict : [8. 3. 9.]
+expected :  [[2. 7. 2.]] predict : [2. 7. 2.]
+expected :  [[9. 9. 2.]] predict : [9. 8. 3.]
+expected :  [[1. 0. 2.]] predict : [1. 1. 2.]
+expected :  [[6. 6. 4.]] predict : [6. 7. 4.]
+expected :  [[6. 4. 7.]] predict : [6. 4. 6.]
+expected :  [[9. 3. 2.]] predict : [9. 3. 2.]
+expected :  [[9. 7. 3.]] predict : [9. 7. 3.]
+expected :  [[8. 2. 8.]] predict : [8. 1. 7.]
+expected :  [[3. 1. 3.]] predict : [3. 1. 3.]
+expected :  [[6. 8. 2.]] predict : [7. 8. 1.]
+expected :  [[3. 2. 8.]] predict : [3. 2. 9.]
+expected :  [[7. 1. 2.]] predict : [7. 1. 2.]
+expected :  [[7. 6. 7.]] predict : [6. 6. 6.]
+expected :  [[6. 7. 6.]] predict : [6. 8. 6.]
+expected :  [[8. 5. 6.]] predict : [7. 5. 6.]
+expected :  [[3. 6. 5.]] predict : [4. 6. 5.]
+expected :  [[6. 9. 5.]] predict : [7. 9. 6.]
+expected :  [[8. 5. 9.]] predict : [8. 6. 8.]
+expected :  [[7. 0. 6.]] predict : [6. 2. 6.]
+expected :  [[6. 8. 4.]] predict : [7. 8. 5.]
+expected :  [[6. 5. 1.]] predict : [6. 5. 1.]
+expected :  [[1. 3. 1.]] predict : [0. 3. 0.]
+expected :  [[5. 2. 7.]] predict : [5. 3. 6.]
+expected :  [[9. 0. 2.]] predict : [8. 0. 2.]
+expected :  [[2. 0. 3.]] predict : [3. 2. 3.]
+expected :  [[3. 4. 7.]] predict : [5. 5. 6.]
+expected :  [[5. 5. 8.]] predict : [5. 5. 7.]
+expected :  [[6. 9. 3.]] predict : [6. 8. 2.]
+expected :  [[5. 4. 1.]] predict : [6. 5. 2.]
+expected :  [[8. 7. 5.]] predict : [7. 6. 6.]
+expected :  [[6. 2. 0.]] predict : [6. 2. 1.]
+expected :  [[3. 6. 9.]] predict : [4. 6. 8.]
+expected :  [[1. 5. 4.]] predict : [1. 7. 4.]
+expected :  [[3. 2. 5.]] predict : [3. 2. 5.]
+expected :  [[1. 6. 0.]] predict : [1. 5. 1.]
+expected :  [[9. 0. 8.]] predict : [9. 1. 6.]
+expected :  [[9. 7. 7.]] predict : [8. 8. 7.]
+expected :  [[7. 2. 3.]] predict : [6. 2. 4.]
+expected :  [[9. 4. 7.]] predict : [9. 4. 7.]
+expected :  [[7. 6. 7.]] predict : [7. 6. 6.]
+expected :  [[5. 2. 5.]] predict : [5. 2. 5.]
+expected :  [[7. 9. 2.]] predict : [7. 9. 2.]
+expected :  [[6. 1. 3.]] predict : [5. 1. 3.]
+expected :  [[3. 3. 9.]] predict : [4. 4. 8.]
+expected :  [[8. 4. 8.]] predict : [8. 3. 7.]
+expected :  [[0. 9. 5.]] predict : [-0.  9.  5.]
+expected :  [[8. 5. 8.]] predict : [8. 5. 9.]
+expected :  [[4. 4. 8.]] predict : [3. 3. 7.]
+expected :  [[1. 1. 9.]] predict : [1. 1. 8.]
+expected :  [[5. 6. 7.]] predict : [5. 6. 7.]
+expected :  [[7. 7. 9.]] predict : [7. 7. 9.]
+expected :  [[4. 7. 3.]] predict : [4. 7. 3.]
+expected :  [[2. 7. 5.]] predict : [3. 6. 5.]
+expected :  [[8. 1. 5.]] predict : [8. 1. 5.]
+expected :  [[8. 6. 1.]] predict : [7. 6. 1.]
+expected :  [[7. 8. 5.]] predict : [7. 8. 6.]
+expected :  [[2. 4. 6.]] predict : [3. 5. 5.]
+expected :  [[6. 1. 6.]] predict : [6. 1. 6.]
+expected :  [[3. 6. 9.]] predict : [4. 6. 8.]
+expected :  [[8. 7. 9.]] predict : [7. 7. 9.]
+expected :  [[7. 5. 8.]] predict : [7. 5. 9.]
+expected :  [[5. 4. 9.]] predict : [5. 4. 9.]
+expected :  [[2. 6. 6.]] predict : [2. 6. 5.]
+expected :  [[5. 1. 9.]] predict : [5. 1. 8.]
+expected :  [[9. 0. 3.]] predict : [9. 0. 3.]
+expected :  [[1. 8. 6.]] predict : [2. 8. 6.]
+expected :  [[5. 1. 3.]] predict : [5. 2. 3.]
+expected :  [[0. 9. 9.]] predict : [1. 9. 9.]
+expected :  [[6. 6. 8.]] predict : [5. 6. 8.]
+expected :  [[6. 7. 1.]] predict : [7. 7. 2.]
+expected :  [[1. 0. 2.]] predict : [1. 0. 2.]
+expected :  [[2. 3. 1.]] predict : [3. 3. 0.]
+expected :  [[2. 0. 9.]] predict : [2. 0. 9.]
+expected :  [[1. 3. 6.]] predict : [2. 3. 6.]
+expected :  [[2. 4. 1.]] predict : [2. 4. 1.]
+expected :  [[2. 4. 3.]] predict : [2. 4. 3.]
+expected :  [[0. 3. 8.]] predict : [1. 3. 9.]
+expected :  [[6. 6. 5.]] predict : [5. 5. 7.]
+expected :  [[9. 1. 9.]] predict : [8. 1. 8.]
+expected :  [[2. 7. 0.]] predict : [3. 6. 1.]
+expected :  [[3. 4. 5.]] predict : [3. 3. 6.]
+expected :  [[5. 7. 3.]] predict : [5. 6. 2.]
+expected :  [[2. 2. 2.]] predict : [2. 2. 5.]
+expected :  [[7. 1. 7.]] predict : [7. 2. 7.]
+expected :  [[8. 4. 7.]] predict : [8. 4. 8.]
+expected :  [[3. 3. 6.]] predict : [4. 3. 6.]
+expected :  [[6. 6. 3.]] predict : [6. 6. 4.]
+expected :  [[6. 9. 2.]] predict : [6. 8. 1.]
+expected :  [[2. 1. 8.]] predict : [2. 1. 7.]
+expected :  [[9. 4. 0.]] predict : [ 9.  4. -0.]
+expected :  [[7. 2. 0.]] predict : [8. 3. 1.]
+expected :  [[9. 5. 5.]] predict : [8. 6. 6.]
+expected :  [[6. 1. 5.]] predict : [4. 2. 5.]
+expected :  [[4. 4. 1.]] predict : [4. 4. 1.]
+expected :  [[9. 9. 9.]] predict : [8. 9. 9.]
+expected :  [[0. 0. 3.]] predict : [-0.  1.  3.]
+expected :  [[0. 4. 3.]] predict : [1. 4. 3.]
+expected :  [[9. 3. 0.]] predict : [ 9.  3. -0.]
+expected :  [[9. 7. 8.]] predict : [9. 7. 8.]
+expected :  [[4. 9. 8.]] predict : [4. 9. 8.]
+expected :  [[7. 6. 1.]] predict : [7. 6. 1.]
+expected :  [[1. 8. 1.]] predict : [1. 9. 1.]
+expected :  [[9. 0. 6.]] predict : [9. 0. 5.]
+expected :  [[6. 8. 9.]] predict : [6. 8. 9.]
+expected :  [[8. 3. 2.]] predict : [7. 3. 2.]
+expected :  [[3. 6. 1.]] predict : [4. 6. 0.]
+expected :  [[0. 2. 0.]] predict : [ 0.  2. -0.]
+expected :  [[0. 3. 3.]] predict : [0. 3. 3.]
+expected :  [[3. 5. 6.]] predict : [3. 4. 6.]
+expected :  [[2. 4. 5.]] predict : [2. 5. 6.]
+expected :  [[2. 9. 7.]] predict : [ 3. 10.  9.]
+expected :  [[9. 6. 6.]] predict : [9. 5. 6.]
+expected :  [[6. 9. 1.]] predict : [6. 9. 1.]
+expected :  [[6. 1. 7.]] predict : [6. 1. 6.]
+expected :  [[6. 9. 8.]] predict : [5. 9. 7.]
+expected :  [[6. 4. 3.]] predict : [6. 4. 2.]
+expected :  [[5. 3. 7.]] predict : [5. 3. 6.]
+expected :  [[0. 6. 8.]] predict : [0. 7. 8.]
+expected :  [[4. 4. 7.]] predict : [5. 3. 6.]
+expected :  [[1. 3. 3.]] predict : [1. 3. 2.]
+expected :  [[5. 3. 6.]] predict : [5. 2. 6.]
+expected :  [[9. 3. 7.]] predict : [9. 4. 6.]
+expected :  [[4. 5. 4.]] predict : [4. 5. 4.]
+expected :  [[0. 9. 1.]] predict : [1. 9. 2.]
+expected :  [[3. 8. 6.]] predict : [3. 8. 7.]
+expected :  [[5. 6. 9.]] predict : [5. 6. 9.]
+expected :  [[6. 3. 6.]] predict : [7. 3. 6.]
+expected :  [[0. 8. 7.]] predict : [1. 8. 8.]
+expected :  [[9. 2. 3.]] predict : [9. 2. 4.]
+expected :  [[3. 3. 5.]] predict : [4. 3. 4.]
+expected :  [[5. 1. 4.]] predict : [5. 1. 4.]
+predict test data set
+expected :  [[5. 1. 3.]] predict : [6. 5. 4.]
+expected :  [[4. 6. 3.]] predict : [5. 6. 4.]
+expected :  [[8. 8. 6.]] predict : [7. 7. 5.]
+expected :  [[3. 3. 8.]] predict : [3. 7. 4.]
+expected :  [[2. 3. 5.]] predict : [5. 6. 5.]
+expected :  [[1. 0. 2.]] predict : [6. 7. 5.]
+expected :  [[3. 3. 6.]] predict : [6. 7. 5.]
+expected :  [[7. 2. 4.]] predict : [7. 8. 7.]
+expected :  [[7. 6. 1.]] predict : [5. 9. 6.]
+expected :  [[4. 9. 8.]] predict : [4. 4. 4.]
+expected :  [[3. 2. 9.]] predict : [3. 7. 3.]
+expected :  [[3. 5. 9.]] predict : [3. 7. 1.]
+expected :  [[4. 7. 3.]] predict : [5. 7. 5.]
+expected :  [[5. 7. 0.]] predict : [3. 7. 4.]
+expected :  [[1. 4. 1.]] predict : [2. 2. 4.]
+expected :  [[8. 0. 7.]] predict : [7. 5. 2.]
+expected :  [[0. 4. 8.]] predict : [8. 4. 2.]
+expected :  [[7. 6. 0.]] predict : [7. 7. 4.]
+expected :  [[5. 5. 6.]] predict : [2. 4. 3.]
+expected :  [[5. 0. 3.]] predict : [2. 4. 5.]
+expected :  [[8. 9. 3.]] predict : [5. 6. 3.]
+expected :  [[0. 6. 1.]] predict : [6. 5. 7.]
+expected :  [[3. 7. 5.]] predict : [6. 6. 7.]
+expected :  [[7. 3. 6.]] predict : [5. 2. 3.]
+expected :  [[0. 0. 5.]] predict : [6. 2. 3.]
+expected :  [[1. 5. 0.]] predict : [8. 3. 4.]
+expected :  [[3. 7. 9.]] predict : [8. 3. 5.]
+expected :  [[5. 1. 0.]] predict : [8. 4. 5.]
+expected :  [[3. 5. 0.]] predict : [6. 5. 4.]
+expected :  [[6. 1. 5.]] predict : [6. 4. 9.]
+expected :  [[6. 1. 4.]] predict : [6. 6. 8.]
+expected :  [[0. 4. 5.]] predict : [5. 7. 6.]
+expected :  [[0. 4. 2.]] predict : [5. 2. 6.]
+expected :  [[4. 1. 8.]] predict : [6. 1. 6.]
+expected :  [[6. 2. 6.]] predict : [3. 3. 5.]
+expected :  [[7. 5. 6.]] predict : [4. 5. 6.]
+expected :  [[4. 5. 2.]] predict : [4. 6. 4.]
+expected :  [[9. 5. 0.]] predict : [5. 7. 5.]
+expected :  [[8. 2. 9.]] predict : [5. 6. 8.]
+expected :  [[6. 2. 8.]] predict : [3. 6. 5.]
+expected :  [[5. 7. 8.]] predict : [4. 5. 4.]
+expected :  [[2. 0. 3.]] predict : [3. 2. 3.]
+expected :  [[8. 8. 1.]] predict : [5. 5. 4.]
+expected :  [[4. 2. 5.]] predict : [5. 6. 1.]
+expected :  [[8. 2. 1.]] predict : [6. 6. 4.]
+expected :  [[5. 8. 7.]] predict : [6. 3. 5.]
+expected :  [[6. 9. 7.]] predict : [5. 2. 4.]
+expected :  [[3. 9. 1.]] predict : [5. 7. 5.]
+expected :  [[6. 4. 8.]] predict : [7. 5. 4.]
+expected :  [[0. 1. 4.]] predict : [2. 4. 1.]
+expected :  [[1. 7. 3.]] predict : [7. 4. 4.]
+expected :  [[4. 9. 9.]] predict : [6. 4. 7.]
+expected :  [[0. 3. 0.]] predict : [5. 6. 4.]
+expected :  [[1. 6. 0.]] predict : [7. 5. 5.]
+expected :  [[9. 6. 7.]] predict : [6. 5. 5.]
+expected :  [[9. 7. 7.]] predict : [5. 6. 4.]
+expected :  [[4. 7. 0.]] predict : [5. 3. 4.]
+expected :  [[5. 5. 6.]] predict : [4. 1. 6.]
+expected :  [[7. 5. 0.]] predict : [5. 3. 5.]
+expected :  [[6. 2. 9.]] predict : [5. 3. 7.]
+expected :  [[7. 1. 5.]] predict : [4. 3. 6.]
+expected :  [[5. 7. 9.]] predict : [6. 2. 5.]
+expected :  [[9. 5. 3.]] predict : [7. 3. 3.]
+expected :  [[8. 2. 8.]] predict : [4. 3. 3.]
+expected :  [[6. 4. 2.]] predict : [6. 5. 2.]
+expected :  [[6. 3. 1.]] predict : [2. 6. 1.]
+expected :  [[7. 2. 0.]] predict : [4. 8. 2.]
+expected :  [[7. 4. 9.]] predict : [7. 6. 6.]
+expected :  [[5. 0. 6.]] predict : [4. 3. 5.]
+expected :  [[2. 1. 5.]] predict : [4. 6. 3.]
+expected :  [[6. 2. 3.]] predict : [6. 7. 7.]
+expected :  [[6. 3. 9.]] predict : [4. 5. 1.]
+expected :  [[3. 6. 4.]] predict : [7. 6. 4.]
+expected :  [[3. 5. 1.]] predict : [5. 8. 4.]
+expected :  [[6. 0. 3.]] predict : [5. 8. 5.]
+expected :  [[6. 2. 6.]] predict : [5. 7. 7.]
+expected :  [[2. 5. 1.]] predict : [3. 7. 5.]
+expected :  [[6. 3. 6.]] predict : [2. 6. 6.]
+expected :  [[5. 5. 1.]] predict : [4. 5. 4.]
+expected :  [[9. 8. 3.]] predict : [2. 3. 3.]
+expected :  [[0. 6. 7.]] predict : [2. 5. 3.]
+expected :  [[0. 9. 8.]] predict : [6. 5. 4.]
+expected :  [[6. 5. 7.]] predict : [4. 3. 5.]
+expected :  [[2. 8. 9.]] predict : [5. 4. 5.]
+expected :  [[0. 8. 7.]] predict : [6. 7. 7.]
+expected :  [[0. 9. 4.]] predict : [7. 5. 6.]
+expected :  [[3. 0. 0.]] predict : [4. 3. 8.]
+expected :  [[0. 1. 0.]] predict : [5. 6. 7.]
+expected :  [[4. 7. 4.]] predict : [5. 5. 6.]
+expected :  [[8. 0. 9.]] predict : [6. 4. 7.]
+expected :  [[5. 3. 2.]] predict : [5. 3. 5.]
+expected :  [[8. 1. 3.]] predict : [4. 4. 5.]
+expected :  [[0. 0. 4.]] predict : [5. 5. 6.]
+expected :  [[6. 4. 8.]] predict : [4. 6. 5.]
+expected :  [[6. 2. 1.]] predict : [5. 6. 5.]
+expected :  [[0. 0. 1.]] predict : [6. 7. 5.]
+expected :  [[7. 2. 8.]] predict : [7. 7. 5.]
+expected :  [[6. 5. 9.]] predict : [6. 8. 5.]
+expected :  [[3. 4. 9.]] predict : [6. 8. 4.]
+expected :  [[5. 3. 6.]] predict : [6. 8. 3.]
+expected :  [[0. 8. 5.]] predict : [6. 9. 6.]
+expected :  [[4. 5. 7.]] predict : [7. 7. 5.]
+expected :  [[5. 5. 7.]] predict : [4. 8. 1.]
+expected :  [[2. 6. 4.]] predict : [2. 6. 0.]
+expected :  [[2. 6. 1.]] predict : [3. 4. 2.]
+expected :  [[7. 0. 9.]] predict : [1. 4. 3.]
+expected :  [[5. 6. 3.]] predict : [2. 8. 2.]
+expected :  [[3. 7. 5.]] predict : [4. 3. 6.]
+expected :  [[6. 6. 9.]] predict : [2. 2. 4.]
+expected :  [[9. 4. 7.]] predict : [4. 4. 3.]
+expected :  [[6. 1. 7.]] predict : [3. 8. 7.]
+expected :  [[5. 5. 8.]] predict : [4. 8. 6.]
+expected :  [[6. 3. 4.]] predict : [7. 4. 7.]
+expected :  [[9. 8. 2.]] predict : [6. 5. 7.]
+expected :  [[6. 9. 1.]] predict : [4. 3. 6.]
+expected :  [[3. 8. 7.]] predict : [5. 4. 4.]
+expected :  [[3. 4. 4.]] predict : [8. 2. 3.]
+expected :  [[9. 5. 4.]] predict : [7. 2. 3.]
+expected :  [[0. 3. 6.]] predict : [4. 3. 6.]
+expected :  [[9. 3. 5.]] predict : [3. 5. 6.]
+expected :  [[9. 2. 2.]] predict : [6. 5. 5.]
+expected :  [[8. 9. 5.]] predict : [3. 7. 3.]
+expected :  [[5. 3. 7.]] predict : [4. 7. 4.]
+expected :  [[5. 1. 3.]] predict : [5. 6. 5.]
+expected :  [[8. 8. 1.]] predict : [6. 7. 7.]
+expected :  [[2. 8. 9.]] predict : [7. 5. 8.]
+expected :  [[1. 1. 1.]] predict : [6. 4. 7.]
+expected :  [[3. 3. 1.]] predict : [6. 7. 5.]
+expected :  [[7. 7. 7.]] predict : [8. 5. 7.]
+expected :  [[9. 2. 6.]] predict : [6. 6. 6.]
+expected :  [[8. 8. 3.]] predict : [6. 7. 3.]
+expected :  [[8. 1. 0.]] predict : [5. 4. 3.]
+expected :  [[3. 4. 0.]] predict : [3. 7. 6.]
+expected :  [[8. 4. 5.]] predict : [3. 3. 7.]
+expected :  [[3. 1. 6.]] predict : [5. 2. 6.]
+expected :  [[8. 3. 7.]] predict : [5. 2. 6.]
+expected :  [[6. 8. 2.]] predict : [5. 7. 5.]
+expected :  [[3. 8. 0.]] predict : [4. 6. 3.]
+expected :  [[3. 4. 7.]] predict : [5. 7. 3.]
+expected :  [[0. 8. 1.]] predict : [5. 7. 6.]
+expected :  [[2. 5. 6.]] predict : [4. 5. 6.]
+expected :  [[2. 8. 9.]] predict : [4. 3. 3.]
+expected :  [[7. 8. 7.]] predict : [5. 6. 8.]
+expected :  [[0. 8. 8.]] predict : [5. 6. 2.]
+expected :  [[7. 0. 8.]] predict : [5. 6. 3.]
+expected :  [[2. 0. 3.]] predict : [5. 6. 1.]
+expected :  [[8. 7. 0.]] predict : [7. 5. 5.]
+expected :  [[2. 1. 6.]] predict : [4. 2. 8.]
+expected :  [[5. 6. 5.]] predict : [3. 4. 8.]
+expected :  [[8. 3. 7.]] predict : [6. 5. 5.]
+expected :  [[1. 3. 0.]] predict : [4. 4. 3.]
+expected :  [[9. 2. 4.]] predict : [3. 3. 3.]
+expected :  [[3. 1. 9.]] predict : [3. 6. 3.]
+expected :  [[0. 6. 1.]] predict : [7. 6. 2.]
+expected :  [[4. 5. 4.]] predict : [7. 8. 5.]
+expected :  [[4. 3. 2.]] predict : [6. 8. 5.]
+expected :  [[4. 8. 1.]] predict : [6. 7. 7.]
+expected :  [[1. 6. 5.]] predict : [5. 8. 7.]
+expected :  [[1. 7. 1.]] predict : [3. 5. 6.]
+expected :  [[1. 0. 8.]] predict : [4. 2. 6.]
+expected :  [[3. 8. 8.]] predict : [5. 2. 4.]
+expected :  [[2. 8. 8.]] predict : [7. 3. 9.]
+expected :  [[3. 4. 9.]] predict : [7. 3. 3.]
+expected :  [[4. 0. 7.]] predict : [4. 3. 3.]
+expected :  [[9. 0. 6.]] predict : [5. 2. 5.]
+expected :  [[7. 3. 1.]] predict : [9. 3. 4.]
+expected :  [[1. 7. 8.]] predict : [9. 7. 6.]
+expected :  [[7. 7. 4.]] predict : [6. 4. 4.]
+expected :  [[7. 9. 8.]] predict : [5. 4. 3.]
+expected :  [[7. 9. 9.]] predict : [5. 3. 4.]
+expected :  [[4. 9. 7.]] predict : [4. 3. 4.]
+expected :  [[0. 5. 2.]] predict : [6. 2. 2.]
+expected :  [[3. 9. 7.]] predict : [7. 2. 3.]
+expected :  [[6. 9. 2.]] predict : [7. 2. 4.]
+expected :  [[1. 8. 6.]] predict : [5. 2. 2.]
+expected :  [[5. 1. 3.]] predict : [7. 3. 3.]
+expected :  [[4. 6. 9.]] predict : [5. 4. 3.]
+expected :  [[8. 2. 1.]] predict : [8. 3. 3.]
+expected :  [[3. 2. 2.]] predict : [5. 6. 6.]
+expected :  [[1. 5. 6.]] predict : [4. 6. 6.]
