@@ -1,0 +1,2879 @@
+ - 0s - loss: 0.0398
+Epoch 1443/2400
+ - 0s - loss: 0.0512
+Epoch 1444/2400
+ - 0s - loss: 0.0414
+Epoch 1445/2400
+ - 0s - loss: 0.0372
+Epoch 1446/2400
+ - 0s - loss: 0.0285
+Epoch 1447/2400
+ - 0s - loss: 0.0204
+Epoch 1448/2400
+ - 0s - loss: 0.0174
+Epoch 1449/2400
+ - 0s - loss: 0.0157
+Epoch 1450/2400
+ - 0s - loss: 0.0183
+Epoch 1451/2400
+ - 0s - loss: 0.0177
+Epoch 1452/2400
+ - 0s - loss: 0.0194
+Epoch 1453/2400
+ - 0s - loss: 0.0197
+Epoch 1454/2400
+ - 0s - loss: 0.0202
+Epoch 1455/2400
+ - 0s - loss: 0.0183
+Epoch 1456/2400
+ - 0s - loss: 0.0209
+Epoch 1457/2400
+ - 0s - loss: 0.0193
+Epoch 1458/2400
+ - 0s - loss: 0.0129
+Epoch 1459/2400
+ - 0s - loss: 0.0128
+Epoch 1460/2400
+ - 0s - loss: 0.0138
+Epoch 1461/2400
+ - 0s - loss: 0.0126
+Epoch 1462/2400
+ - 0s - loss: 0.0124
+Epoch 1463/2400
+ - 0s - loss: 0.0135
+Epoch 1464/2400
+ - 0s - loss: 0.0149
+Epoch 1465/2400
+ - 0s - loss: 0.0162
+Epoch 1466/2400
+ - 0s - loss: 0.0155
+Epoch 1467/2400
+ - 0s - loss: 0.0165
+Epoch 1468/2400
+ - 0s - loss: 0.0176
+Epoch 1469/2400
+ - 0s - loss: 0.0150
+Epoch 1470/2400
+ - 0s - loss: 0.0153
+Epoch 1471/2400
+ - 0s - loss: 0.0169
+Epoch 1472/2400
+ - 0s - loss: 0.0149
+Epoch 1473/2400
+ - 0s - loss: 0.0167
+Epoch 1474/2400
+ - 0s - loss: 0.0170
+Epoch 1475/2400
+ - 0s - loss: 0.0242
+Epoch 1476/2400
+ - 0s - loss: 0.0190
+Epoch 1477/2400
+ - 0s - loss: 0.0170
+Epoch 1478/2400
+ - 0s - loss: 0.0156
+Epoch 1479/2400
+ - 0s - loss: 0.0162
+Epoch 1480/2400
+ - 0s - loss: 0.0174
+Epoch 1481/2400
+ - 0s - loss: 0.0196
+Epoch 1482/2400
+ - 0s - loss: 0.0203
+Epoch 1483/2400
+ - 0s - loss: 0.0197
+Epoch 1484/2400
+ - 0s - loss: 0.0188
+Epoch 1485/2400
+ - 0s - loss: 0.0266
+Epoch 1486/2400
+ - 0s - loss: 0.0263
+Epoch 1487/2400
+ - 0s - loss: 0.0414
+Epoch 1488/2400
+ - 0s - loss: 0.0492
+Epoch 1489/2400
+ - 0s - loss: 0.0568
+Epoch 1490/2400
+ - 0s - loss: 0.0733
+Epoch 1491/2400
+ - 0s - loss: 0.0577
+Epoch 1492/2400
+ - 0s - loss: 0.0484
+Epoch 1493/2400
+ - 0s - loss: 0.0369
+Epoch 1494/2400
+ - 0s - loss: 0.0327
+Epoch 1495/2400
+ - 0s - loss: 0.0233
+Epoch 1496/2400
+ - 0s - loss: 0.0171
+Epoch 1497/2400
+ - 0s - loss: 0.0178
+Epoch 1498/2400
+ - 0s - loss: 0.0225
+Epoch 1499/2400
+ - 0s - loss: 0.0200
+Epoch 1500/2400
+ - 0s - loss: 0.0142
+Epoch 1501/2400
+ - 0s - loss: 0.0119
+Epoch 1502/2400
+ - 0s - loss: 0.0084
+Epoch 1503/2400
+ - 0s - loss: 0.0068
+Epoch 1504/2400
+ - 0s - loss: 0.0091
+Epoch 1505/2400
+ - 0s - loss: 0.0106
+Epoch 1506/2400
+ - 0s - loss: 0.0112
+Epoch 1507/2400
+ - 0s - loss: 0.0101
+Epoch 1508/2400
+ - 0s - loss: 0.0078
+Epoch 1509/2400
+ - 0s - loss: 0.0091
+Epoch 1510/2400
+ - 0s - loss: 0.0140
+Epoch 1511/2400
+ - 0s - loss: 0.0155
+Epoch 1512/2400
+ - 0s - loss: 0.0138
+Epoch 1513/2400
+ - 0s - loss: 0.0161
+Epoch 1514/2400
+ - 0s - loss: 0.0164
+Epoch 1515/2400
+ - 0s - loss: 0.0153
+Epoch 1516/2400
+ - 0s - loss: 0.0150
+Epoch 1517/2400
+ - 0s - loss: 0.0223
+Epoch 1518/2400
+ - 0s - loss: 0.0426
+Epoch 1519/2400
+ - 0s - loss: 0.0398
+Epoch 1520/2400
+ - 0s - loss: 0.0462
+Epoch 1521/2400
+ - 0s - loss: 0.0370
+Epoch 1522/2400
+ - 0s - loss: 0.0300
+Epoch 1523/2400
+ - 0s - loss: 0.0273
+Epoch 1524/2400
+ - 0s - loss: 0.0285
+Epoch 1525/2400
+ - 0s - loss: 0.0367
+Epoch 1526/2400
+ - 0s - loss: 0.0290
+Epoch 1527/2400
+ - 0s - loss: 0.0243
+Epoch 1528/2400
+ - 0s - loss: 0.0220
+Epoch 1529/2400
+ - 0s - loss: 0.0235
+Epoch 1530/2400
+ - 0s - loss: 0.0179
+Epoch 1531/2400
+ - 0s - loss: 0.0138
+Epoch 1532/2400
+ - 0s - loss: 0.0103
+Epoch 1533/2400
+ - 0s - loss: 0.0105
+Epoch 1534/2400
+ - 0s - loss: 0.0108
+Epoch 1535/2400
+ - 0s - loss: 0.0103
+Epoch 1536/2400
+ - 0s - loss: 0.0086
+Epoch 1537/2400
+ - 0s - loss: 0.0086
+Epoch 1538/2400
+ - 0s - loss: 0.0077
+Epoch 1539/2400
+ - 0s - loss: 0.0071
+Epoch 1540/2400
+ - 0s - loss: 0.0089
+Epoch 1541/2400
+ - 0s - loss: 0.0088
+Epoch 1542/2400
+ - 0s - loss: 0.0085
+Epoch 1543/2400
+ - 0s - loss: 0.0090
+Epoch 1544/2400
+ - 0s - loss: 0.0082
+Epoch 1545/2400
+ - 0s - loss: 0.0111
+Epoch 1546/2400
+ - 0s - loss: 0.0216
+Epoch 1547/2400
+ - 0s - loss: 0.0262
+Epoch 1548/2400
+ - 0s - loss: 0.0254
+Epoch 1549/2400
+ - 0s - loss: 0.0344
+Epoch 1550/2400
+ - 0s - loss: 0.0377
+Epoch 1551/2400
+ - 0s - loss: 0.0475
+Epoch 1552/2400
+ - 0s - loss: 0.0512
+Epoch 1553/2400
+ - 0s - loss: 0.0448
+Epoch 1554/2400
+ - 0s - loss: 0.0574
+Epoch 1555/2400
+ - 0s - loss: 0.0622
+Epoch 1556/2400
+ - 0s - loss: 0.0456
+Epoch 1557/2400
+ - 0s - loss: 0.0328
+Epoch 1558/2400
+ - 0s - loss: 0.0224
+Epoch 1559/2400
+ - 0s - loss: 0.0171
+Epoch 1560/2400
+ - 0s - loss: 0.0163
+Epoch 1561/2400
+ - 0s - loss: 0.0175
+Epoch 1562/2400
+ - 0s - loss: 0.0153
+Epoch 1563/2400
+ - 0s - loss: 0.0167
+Epoch 1564/2400
+ - 0s - loss: 0.0157
+Epoch 1565/2400
+ - 0s - loss: 0.0184
+Epoch 1566/2400
+ - 0s - loss: 0.0170
+Epoch 1567/2400
+ - 0s - loss: 0.0178
+Epoch 1568/2400
+ - 0s - loss: 0.0192
+Epoch 1569/2400
+ - 0s - loss: 0.0206
+Epoch 1570/2400
+ - 0s - loss: 0.0264
+Epoch 1571/2400
+ - 0s - loss: 0.0308
+Epoch 1572/2400
+ - 0s - loss: 0.0260
+Epoch 1573/2400
+ - 0s - loss: 0.0253
+Epoch 1574/2400
+ - 0s - loss: 0.0259
+Epoch 1575/2400
+ - 0s - loss: 0.0188
+Epoch 1576/2400
+ - 0s - loss: 0.0158
+Epoch 1577/2400
+ - 0s - loss: 0.0140
+Epoch 1578/2400
+ - 0s - loss: 0.0154
+Epoch 1579/2400
+ - 0s - loss: 0.0212
+Epoch 1580/2400
+ - 0s - loss: 0.0235
+Epoch 1581/2400
+ - 0s - loss: 0.0214
+Epoch 1582/2400
+ - 0s - loss: 0.0235
+Epoch 1583/2400
+ - 0s - loss: 0.0348
+Epoch 1584/2400
+ - 0s - loss: 0.0383
+Epoch 1585/2400
+ - 0s - loss: 0.0377
+Epoch 1586/2400
+ - 0s - loss: 0.0386
+Epoch 1587/2400
+ - 0s - loss: 0.0377
+Epoch 1588/2400
+ - 0s - loss: 0.0445
+Epoch 1589/2400
+ - 0s - loss: 0.0391
+Epoch 1590/2400
+ - 0s - loss: 0.0325
+Epoch 1591/2400
+ - 0s - loss: 0.0259
+Epoch 1592/2400
+ - 0s - loss: 0.0209
+Epoch 1593/2400
+ - 0s - loss: 0.0149
+Epoch 1594/2400
+ - 0s - loss: 0.0146
+Epoch 1595/2400
+ - 0s - loss: 0.0187
+Epoch 1596/2400
+ - 0s - loss: 0.0171
+Epoch 1597/2400
+ - 0s - loss: 0.0167
+Epoch 1598/2400
+ - 0s - loss: 0.0159
+Epoch 1599/2400
+ - 0s - loss: 0.0149
+Epoch 1600/2400
+ - 0s - loss: 0.0129
+Epoch 1601/2400
+ - 0s - loss: 0.0109
+Epoch 1602/2400
+ - 0s - loss: 0.0109
+Epoch 1603/2400
+ - 0s - loss: 0.0111
+Epoch 1604/2400
+ - 0s - loss: 0.0148
+Epoch 1605/2400
+ - 0s - loss: 0.0129
+Epoch 1606/2400
+ - 0s - loss: 0.0140
+Epoch 1607/2400
+ - 0s - loss: 0.0151
+Epoch 1608/2400
+ - 0s - loss: 0.0184
+Epoch 1609/2400
+ - 0s - loss: 0.0139
+Epoch 1610/2400
+ - 0s - loss: 0.0207
+Epoch 1611/2400
+ - 0s - loss: 0.0289
+Epoch 1612/2400
+ - 0s - loss: 0.0364
+Epoch 1613/2400
+ - 0s - loss: 0.0332
+Epoch 1614/2400
+ - 0s - loss: 0.0310
+Epoch 1615/2400
+ - 0s - loss: 0.0230
+Epoch 1616/2400
+ - 0s - loss: 0.0208
+Epoch 1617/2400
+ - 0s - loss: 0.0149
+Epoch 1618/2400
+ - 0s - loss: 0.0165
+Epoch 1619/2400
+ - 0s - loss: 0.0145
+Epoch 1620/2400
+ - 0s - loss: 0.0137
+Epoch 1621/2400
+ - 0s - loss: 0.0122
+Epoch 1622/2400
+ - 0s - loss: 0.0137
+Epoch 1623/2400
+ - 0s - loss: 0.0156
+Epoch 1624/2400
+ - 0s - loss: 0.0185
+Epoch 1625/2400
+ - 0s - loss: 0.0230
+Epoch 1626/2400
+ - 0s - loss: 0.0363
+Epoch 1627/2400
+ - 0s - loss: 0.0450
+Epoch 1628/2400
+ - 0s - loss: 0.0295
+Epoch 1629/2400
+ - 0s - loss: 0.0223
+Epoch 1630/2400
+ - 0s - loss: 0.0188
+Epoch 1631/2400
+ - 0s - loss: 0.0166
+Epoch 1632/2400
+ - 0s - loss: 0.0124
+Epoch 1633/2400
+ - 0s - loss: 0.0101
+Epoch 1634/2400
+ - 0s - loss: 0.0083
+Epoch 1635/2400
+ - 0s - loss: 0.0094
+Epoch 1636/2400
+ - 0s - loss: 0.0094
+Epoch 1637/2400
+ - 0s - loss: 0.0091
+Epoch 1638/2400
+ - 0s - loss: 0.0104
+Epoch 1639/2400
+ - 0s - loss: 0.0109
+Epoch 1640/2400
+ - 0s - loss: 0.0108
+Epoch 1641/2400
+ - 0s - loss: 0.0102
+Epoch 1642/2400
+ - 0s - loss: 0.0089
+Epoch 1643/2400
+ - 0s - loss: 0.0136
+Epoch 1644/2400
+ - 0s - loss: 0.0229
+Epoch 1645/2400
+ - 0s - loss: 0.0248
+Epoch 1646/2400
+ - 0s - loss: 0.0266
+Epoch 1647/2400
+ - 0s - loss: 0.0345
+Epoch 1648/2400
+ - 0s - loss: 0.0291
+Epoch 1649/2400
+ - 0s - loss: 0.0216
+Epoch 1650/2400
+ - 0s - loss: 0.0238
+Epoch 1651/2400
+ - 0s - loss: 0.0247
+Epoch 1652/2400
+ - 0s - loss: 0.0210
+Epoch 1653/2400
+ - 0s - loss: 0.0215
+Epoch 1654/2400
+ - 0s - loss: 0.0172
+Epoch 1655/2400
+ - 0s - loss: 0.0204
+Epoch 1656/2400
+ - 0s - loss: 0.0304
+Epoch 1657/2400
+ - 0s - loss: 0.0268
+Epoch 1658/2400
+ - 0s - loss: 0.0269
+Epoch 1659/2400
+ - 0s - loss: 0.0296
+Epoch 1660/2400
+ - 0s - loss: 0.0339
+Epoch 1661/2400
+ - 0s - loss: 0.0444
+Epoch 1662/2400
+ - 0s - loss: 0.0408
+Epoch 1663/2400
+ - 0s - loss: 0.0368
+Epoch 1664/2400
+ - 0s - loss: 0.0294
+Epoch 1665/2400
+ - 0s - loss: 0.0218
+Epoch 1666/2400
+ - 0s - loss: 0.0191
+Epoch 1667/2400
+ - 0s - loss: 0.0173
+Epoch 1668/2400
+ - 0s - loss: 0.0177
+Epoch 1669/2400
+ - 0s - loss: 0.0143
+Epoch 1670/2400
+ - 0s - loss: 0.0131
+Epoch 1671/2400
+ - 0s - loss: 0.0138
+Epoch 1672/2400
+ - 0s - loss: 0.0115
+Epoch 1673/2400
+ - 0s - loss: 0.0092
+Epoch 1674/2400
+ - 0s - loss: 0.0080
+Epoch 1675/2400
+ - 0s - loss: 0.0087
+Epoch 1676/2400
+ - 0s - loss: 0.0113
+Epoch 1677/2400
+ - 0s - loss: 0.0092
+Epoch 1678/2400
+ - 0s - loss: 0.0080
+Epoch 1679/2400
+ - 0s - loss: 0.0095
+Epoch 1680/2400
+ - 0s - loss: 0.0093
+Epoch 1681/2400
+ - 0s - loss: 0.0105
+Epoch 1682/2400
+ - 0s - loss: 0.0118
+Epoch 1683/2400
+ - 0s - loss: 0.0142
+Epoch 1684/2400
+ - 0s - loss: 0.0200
+Epoch 1685/2400
+ - 0s - loss: 0.0235
+Epoch 1686/2400
+ - 0s - loss: 0.0253
+Epoch 1687/2400
+ - 0s - loss: 0.0261
+Epoch 1688/2400
+ - 0s - loss: 0.0190
+Epoch 1689/2400
+ - 0s - loss: 0.0180
+Epoch 1690/2400
+ - 0s - loss: 0.0273
+Epoch 1691/2400
+ - 0s - loss: 0.0249
+Epoch 1692/2400
+ - 0s - loss: 0.0207
+Epoch 1693/2400
+ - 0s - loss: 0.0193
+Epoch 1694/2400
+ - 0s - loss: 0.0249
+Epoch 1695/2400
+ - 0s - loss: 0.0362
+Epoch 1696/2400
+ - 0s - loss: 0.0372
+Epoch 1697/2400
+ - 0s - loss: 0.0316
+Epoch 1698/2400
+ - 0s - loss: 0.0349
+Epoch 1699/2400
+ - 0s - loss: 0.0347
+Epoch 1700/2400
+ - 0s - loss: 0.0358
+Epoch 1701/2400
+ - 0s - loss: 0.0366
+Epoch 1702/2400
+ - 0s - loss: 0.0284
+Epoch 1703/2400
+ - 0s - loss: 0.0273
+Epoch 1704/2400
+ - 0s - loss: 0.0262
+Epoch 1705/2400
+ - 0s - loss: 0.0252
+Epoch 1706/2400
+ - 0s - loss: 0.0230
+Epoch 1707/2400
+ - 0s - loss: 0.0200
+Epoch 1708/2400
+ - 0s - loss: 0.0213
+Epoch 1709/2400
+ - 0s - loss: 0.0154
+Epoch 1710/2400
+ - 0s - loss: 0.0132
+Epoch 1711/2400
+ - 0s - loss: 0.0208
+Epoch 1712/2400
+ - 0s - loss: 0.0204
+Epoch 1713/2400
+ - 0s - loss: 0.0209
+Epoch 1714/2400
+ - 0s - loss: 0.0241
+Epoch 1715/2400
+ - 0s - loss: 0.0262
+Epoch 1716/2400
+ - 0s - loss: 0.0221
+Epoch 1717/2400
+ - 0s - loss: 0.0181
+Epoch 1718/2400
+ - 0s - loss: 0.0192
+Epoch 1719/2400
+ - 0s - loss: 0.0207
+Epoch 1720/2400
+ - 0s - loss: 0.0177
+Epoch 1721/2400
+ - 0s - loss: 0.0165
+Epoch 1722/2400
+ - 0s - loss: 0.0168
+Epoch 1723/2400
+ - 0s - loss: 0.0184
+Epoch 1724/2400
+ - 0s - loss: 0.0166
+Epoch 1725/2400
+ - 0s - loss: 0.0151
+Epoch 1726/2400
+ - 0s - loss: 0.0167
+Epoch 1727/2400
+ - 0s - loss: 0.0171
+Epoch 1728/2400
+ - 0s - loss: 0.0157
+Epoch 1729/2400
+ - 0s - loss: 0.0128
+Epoch 1730/2400
+ - 0s - loss: 0.0112
+Epoch 1731/2400
+ - 0s - loss: 0.0145
+Epoch 1732/2400
+ - 0s - loss: 0.0204
+Epoch 1733/2400
+ - 0s - loss: 0.0194
+Epoch 1734/2400
+ - 0s - loss: 0.0213
+Epoch 1735/2400
+ - 0s - loss: 0.0209
+Epoch 1736/2400
+ - 0s - loss: 0.0190
+Epoch 1737/2400
+ - 0s - loss: 0.0231
+Epoch 1738/2400
+ - 0s - loss: 0.0196
+Epoch 1739/2400
+ - 0s - loss: 0.0154
+Epoch 1740/2400
+ - 0s - loss: 0.0234
+Epoch 1741/2400
+ - 0s - loss: 0.0426
+Epoch 1742/2400
+ - 0s - loss: 0.0526
+Epoch 1743/2400
+ - 0s - loss: 0.0793
+Epoch 1744/2400
+ - 0s - loss: 0.0624
+Epoch 1745/2400
+ - 0s - loss: 0.0443
+Epoch 1746/2400
+ - 0s - loss: 0.0389
+Epoch 1747/2400
+ - 0s - loss: 0.0318
+Epoch 1748/2400
+ - 0s - loss: 0.0244
+Epoch 1749/2400
+ - 0s - loss: 0.0161
+Epoch 1750/2400
+ - 0s - loss: 0.0179
+Epoch 1751/2400
+ - 0s - loss: 0.0145
+Epoch 1752/2400
+ - 0s - loss: 0.0139
+Epoch 1753/2400
+ - 0s - loss: 0.0091
+Epoch 1754/2400
+ - 0s - loss: 0.0106
+Epoch 1755/2400
+ - 0s - loss: 0.0108
+Epoch 1756/2400
+ - 0s - loss: 0.0092
+Epoch 1757/2400
+ - 0s - loss: 0.0070
+Epoch 1758/2400
+ - 0s - loss: 0.0092
+Epoch 1759/2400
+ - 0s - loss: 0.0091
+Epoch 1760/2400
+ - 0s - loss: 0.0085
+Epoch 1761/2400
+ - 0s - loss: 0.0071
+Epoch 1762/2400
+ - 0s - loss: 0.0056
+Epoch 1763/2400
+ - 0s - loss: 0.0053
+Epoch 1764/2400
+ - 0s - loss: 0.0059
+Epoch 1765/2400
+ - 0s - loss: 0.0076
+Epoch 1766/2400
+ - 0s - loss: 0.0076
+Epoch 1767/2400
+ - 0s - loss: 0.0065
+Epoch 1768/2400
+ - 0s - loss: 0.0077
+Epoch 1769/2400
+ - 0s - loss: 0.0075
+Epoch 1770/2400
+ - 0s - loss: 0.0077
+Epoch 1771/2400
+ - 0s - loss: 0.0103
+Epoch 1772/2400
+ - 0s - loss: 0.0141
+Epoch 1773/2400
+ - 0s - loss: 0.0188
+Epoch 1774/2400
+ - 0s - loss: 0.0342
+Epoch 1775/2400
+ - 0s - loss: 0.0339
+Epoch 1776/2400
+ - 0s - loss: 0.0480
+Epoch 1777/2400
+ - 0s - loss: 0.0680
+Epoch 1778/2400
+ - 0s - loss: 0.0604
+Epoch 1779/2400
+ - 0s - loss: 0.0556
+Epoch 1780/2400
+ - 0s - loss: 0.0410
+Epoch 1781/2400
+ - 0s - loss: 0.0468
+Epoch 1782/2400
+ - 0s - loss: 0.0370
+Epoch 1783/2400
+ - 0s - loss: 0.0275
+Epoch 1784/2400
+ - 0s - loss: 0.0240
+Epoch 1785/2400
+ - 0s - loss: 0.0206
+Epoch 1786/2400
+ - 0s - loss: 0.0265
+Epoch 1787/2400
+ - 0s - loss: 0.0186
+Epoch 1788/2400
+ - 0s - loss: 0.0124
+Epoch 1789/2400
+ - 0s - loss: 0.0118
+Epoch 1790/2400
+ - 0s - loss: 0.0108
+Epoch 1791/2400
+ - 0s - loss: 0.0125
+Epoch 1792/2400
+ - 0s - loss: 0.0119
+Epoch 1793/2400
+ - 0s - loss: 0.0096
+Epoch 1794/2400
+ - 0s - loss: 0.0121
+Epoch 1795/2400
+ - 0s - loss: 0.0113
+Epoch 1796/2400
+ - 0s - loss: 0.0113
+Epoch 1797/2400
+ - 0s - loss: 0.0086
+Epoch 1798/2400
+ - 0s - loss: 0.0083
+Epoch 1799/2400
+ - 0s - loss: 0.0066
+Epoch 1800/2400
+ - 0s - loss: 0.0059
+Epoch 1801/2400
+ - 0s - loss: 0.0045
+Epoch 1802/2400
+ - 0s - loss: 0.0046
+Epoch 1803/2400
+ - 0s - loss: 0.0044
+Epoch 1804/2400
+ - 0s - loss: 0.0033
+Epoch 1805/2400
+ - 0s - loss: 0.0036
+Epoch 1806/2400
+ - 0s - loss: 0.0044
+Epoch 1807/2400
+ - 0s - loss: 0.0057
+Epoch 1808/2400
+ - 0s - loss: 0.0062
+Epoch 1809/2400
+ - 0s - loss: 0.0058
+Epoch 1810/2400
+ - 0s - loss: 0.0072
+Epoch 1811/2400
+ - 0s - loss: 0.0105
+Epoch 1812/2400
+ - 0s - loss: 0.0125
+Epoch 1813/2400
+ - 0s - loss: 0.0142
+Epoch 1814/2400
+ - 0s - loss: 0.0164
+Epoch 1815/2400
+ - 0s - loss: 0.0202
+Epoch 1816/2400
+ - 0s - loss: 0.0209
+Epoch 1817/2400
+ - 0s - loss: 0.0223
+Epoch 1818/2400
+ - 0s - loss: 0.0236
+Epoch 1819/2400
+ - 0s - loss: 0.0305
+Epoch 1820/2400
+ - 0s - loss: 0.0335
+Epoch 1821/2400
+ - 0s - loss: 0.0437
+Epoch 1822/2400
+ - 0s - loss: 0.0452
+Epoch 1823/2400
+ - 0s - loss: 0.0450
+Epoch 1824/2400
+ - 0s - loss: 0.0382
+Epoch 1825/2400
+ - 0s - loss: 0.0317
+Epoch 1826/2400
+ - 0s - loss: 0.0249
+Epoch 1827/2400
+ - 0s - loss: 0.0281
+Epoch 1828/2400
+ - 0s - loss: 0.0288
+Epoch 1829/2400
+ - 0s - loss: 0.0255
+Epoch 1830/2400
+ - 0s - loss: 0.0202
+Epoch 1831/2400
+ - 0s - loss: 0.0179
+Epoch 1832/2400
+ - 0s - loss: 0.0174
+Epoch 1833/2400
+ - 0s - loss: 0.0116
+Epoch 1834/2400
+ - 0s - loss: 0.0095
+Epoch 1835/2400
+ - 0s - loss: 0.0091
+Epoch 1836/2400
+ - 0s - loss: 0.0080
+Epoch 1837/2400
+ - 0s - loss: 0.0084
+Epoch 1838/2400
+ - 0s - loss: 0.0102
+Epoch 1839/2400
+ - 0s - loss: 0.0101
+Epoch 1840/2400
+ - 0s - loss: 0.0113
+Epoch 1841/2400
+ - 0s - loss: 0.0174
+Epoch 1842/2400
+ - 0s - loss: 0.0219
+Epoch 1843/2400
+ - 0s - loss: 0.0376
+Epoch 1844/2400
+ - 0s - loss: 0.0317
+Epoch 1845/2400
+ - 0s - loss: 0.0298
+Epoch 1846/2400
+ - 0s - loss: 0.0368
+Epoch 1847/2400
+ - 0s - loss: 0.0528
+Epoch 1848/2400
+ - 0s - loss: 0.0480
+Epoch 1849/2400
+ - 0s - loss: 0.0447
+Epoch 1850/2400
+ - 0s - loss: 0.0559
+Epoch 1851/2400
+ - 0s - loss: 0.0539
+Epoch 1852/2400
+ - 0s - loss: 0.0455
+Epoch 1853/2400
+ - 0s - loss: 0.0426
+Epoch 1854/2400
+ - 0s - loss: 0.0284
+Epoch 1855/2400
+ - 0s - loss: 0.0261
+Epoch 1856/2400
+ - 0s - loss: 0.0190
+Epoch 1857/2400
+ - 0s - loss: 0.0173
+Epoch 1858/2400
+ - 0s - loss: 0.0152
+Epoch 1859/2400
+ - 0s - loss: 0.0132
+Epoch 1860/2400
+ - 0s - loss: 0.0106
+Epoch 1861/2400
+ - 0s - loss: 0.0081
+Epoch 1862/2400
+ - 0s - loss: 0.0080
+Epoch 1863/2400
+ - 0s - loss: 0.0093
+Epoch 1864/2400
+ - 0s - loss: 0.0101
+Epoch 1865/2400
+ - 0s - loss: 0.0113
+Epoch 1866/2400
+ - 0s - loss: 0.0107
+Epoch 1867/2400
+ - 0s - loss: 0.0115
+Epoch 1868/2400
+ - 0s - loss: 0.0111
+Epoch 1869/2400
+ - 0s - loss: 0.0106
+Epoch 1870/2400
+ - 0s - loss: 0.0099
+Epoch 1871/2400
+ - 0s - loss: 0.0080
+Epoch 1872/2400
+ - 0s - loss: 0.0067
+Epoch 1873/2400
+ - 0s - loss: 0.0062
+Epoch 1874/2400
+ - 0s - loss: 0.0093
+Epoch 1875/2400
+ - 0s - loss: 0.0077
+Epoch 1876/2400
+ - 0s - loss: 0.0095
+Epoch 1877/2400
+ - 0s - loss: 0.0102
+Epoch 1878/2400
+ - 0s - loss: 0.0124
+Epoch 1879/2400
+ - 0s - loss: 0.0180
+Epoch 1880/2400
+ - 0s - loss: 0.0200
+Epoch 1881/2400
+ - 0s - loss: 0.0189
+Epoch 1882/2400
+ - 0s - loss: 0.0144
+Epoch 1883/2400
+ - 0s - loss: 0.0168
+Epoch 1884/2400
+ - 0s - loss: 0.0200
+Epoch 1885/2400
+ - 0s - loss: 0.0245
+Epoch 1886/2400
+ - 0s - loss: 0.0254
+Epoch 1887/2400
+ - 0s - loss: 0.0301
+Epoch 1888/2400
+ - 0s - loss: 0.0300
+Epoch 1889/2400
+ - 0s - loss: 0.0321
+Epoch 1890/2400
+ - 0s - loss: 0.0297
+Epoch 1891/2400
+ - 0s - loss: 0.0265
+Epoch 1892/2400
+ - 0s - loss: 0.0204
+Epoch 1893/2400
+ - 0s - loss: 0.0230
+Epoch 1894/2400
+ - 0s - loss: 0.0266
+Epoch 1895/2400
+ - 0s - loss: 0.0215
+Epoch 1896/2400
+ - 0s - loss: 0.0247
+Epoch 1897/2400
+ - 0s - loss: 0.0524
+Epoch 1898/2400
+ - 0s - loss: 0.0463
+Epoch 1899/2400
+ - 0s - loss: 0.0378
+Epoch 1900/2400
+ - 0s - loss: 0.0263
+Epoch 1901/2400
+ - 0s - loss: 0.0215
+Epoch 1902/2400
+ - 0s - loss: 0.0280
+Epoch 1903/2400
+ - 0s - loss: 0.0251
+Epoch 1904/2400
+ - 0s - loss: 0.0201
+Epoch 1905/2400
+ - 0s - loss: 0.0167
+Epoch 1906/2400
+ - 0s - loss: 0.0148
+Epoch 1907/2400
+ - 0s - loss: 0.0139
+Epoch 1908/2400
+ - 0s - loss: 0.0144
+Epoch 1909/2400
+ - 0s - loss: 0.0122
+Epoch 1910/2400
+ - 0s - loss: 0.0090
+Epoch 1911/2400
+ - 0s - loss: 0.0064
+Epoch 1912/2400
+ - 0s - loss: 0.0058
+Epoch 1913/2400
+ - 0s - loss: 0.0094
+Epoch 1914/2400
+ - 0s - loss: 0.0073
+Epoch 1915/2400
+ - 0s - loss: 0.0053
+Epoch 1916/2400
+ - 0s - loss: 0.0062
+Epoch 1917/2400
+ - 0s - loss: 0.0096
+Epoch 1918/2400
+ - 0s - loss: 0.0130
+Epoch 1919/2400
+ - 0s - loss: 0.0194
+Epoch 1920/2400
+ - 0s - loss: 0.0219
+Epoch 1921/2400
+ - 0s - loss: 0.0234
+Epoch 1922/2400
+ - 0s - loss: 0.0192
+Epoch 1923/2400
+ - 0s - loss: 0.0267
+Epoch 1924/2400
+ - 0s - loss: 0.0303
+Epoch 1925/2400
+ - 0s - loss: 0.0337
+Epoch 1926/2400
+ - 0s - loss: 0.0255
+Epoch 1927/2400
+ - 0s - loss: 0.0311
+Epoch 1928/2400
+ - 0s - loss: 0.0434
+Epoch 1929/2400
+ - 0s - loss: 0.0347
+Epoch 1930/2400
+ - 0s - loss: 0.0355
+Epoch 1931/2400
+ - 0s - loss: 0.0386
+Epoch 1932/2400
+ - 0s - loss: 0.0408
+Epoch 1933/2400
+ - 0s - loss: 0.0335
+Epoch 1934/2400
+ - 0s - loss: 0.0269
+Epoch 1935/2400
+ - 0s - loss: 0.0241
+Epoch 1936/2400
+ - 0s - loss: 0.0260
+Epoch 1937/2400
+ - 0s - loss: 0.0206
+Epoch 1938/2400
+ - 0s - loss: 0.0202
+Epoch 1939/2400
+ - 0s - loss: 0.0139
+Epoch 1940/2400
+ - 0s - loss: 0.0155
+Epoch 1941/2400
+ - 0s - loss: 0.0157
+Epoch 1942/2400
+ - 0s - loss: 0.0122
+Epoch 1943/2400
+ - 0s - loss: 0.0099
+Epoch 1944/2400
+ - 0s - loss: 0.0072
+Epoch 1945/2400
+ - 0s - loss: 0.0060
+Epoch 1946/2400
+ - 0s - loss: 0.0061
+Epoch 1947/2400
+ - 0s - loss: 0.0072
+Epoch 1948/2400
+ - 0s - loss: 0.0070
+Epoch 1949/2400
+ - 0s - loss: 0.0098
+Epoch 1950/2400
+ - 0s - loss: 0.0093
+Epoch 1951/2400
+ - 0s - loss: 0.0119
+Epoch 1952/2400
+ - 0s - loss: 0.0143
+Epoch 1953/2400
+ - 0s - loss: 0.0196
+Epoch 1954/2400
+ - 0s - loss: 0.0215
+Epoch 1955/2400
+ - 0s - loss: 0.0229
+Epoch 1956/2400
+ - 0s - loss: 0.0184
+Epoch 1957/2400
+ - 0s - loss: 0.0157
+Epoch 1958/2400
+ - 0s - loss: 0.0217
+Epoch 1959/2400
+ - 0s - loss: 0.0280
+Epoch 1960/2400
+ - 0s - loss: 0.0256
+Epoch 1961/2400
+ - 0s - loss: 0.0229
+Epoch 1962/2400
+ - 0s - loss: 0.0178
+Epoch 1963/2400
+ - 0s - loss: 0.0142
+Epoch 1964/2400
+ - 0s - loss: 0.0131
+Epoch 1965/2400
+ - 0s - loss: 0.0110
+Epoch 1966/2400
+ - 0s - loss: 0.0096
+Epoch 1967/2400
+ - 0s - loss: 0.0097
+Epoch 1968/2400
+ - 0s - loss: 0.0083
+Epoch 1969/2400
+ - 0s - loss: 0.0091
+Epoch 1970/2400
+ - 0s - loss: 0.0096
+Epoch 1971/2400
+ - 0s - loss: 0.0099
+Epoch 1972/2400
+ - 0s - loss: 0.0105
+Epoch 1973/2400
+ - 0s - loss: 0.0102
+Epoch 1974/2400
+ - 0s - loss: 0.0125
+Epoch 1975/2400
+ - 0s - loss: 0.0137
+Epoch 1976/2400
+ - 0s - loss: 0.0184
+Epoch 1977/2400
+ - 0s - loss: 0.0203
+Epoch 1978/2400
+ - 0s - loss: 0.0238
+Epoch 1979/2400
+ - 0s - loss: 0.0283
+Epoch 1980/2400
+ - 0s - loss: 0.0472
+Epoch 1981/2400
+ - 0s - loss: 0.0519
+Epoch 1982/2400
+ - 0s - loss: 0.0470
+Epoch 1983/2400
+ - 0s - loss: 0.0490
+Epoch 1984/2400
+ - 0s - loss: 0.0669
+Epoch 1985/2400
+ - 0s - loss: 0.0491
+Epoch 1986/2400
+ - 0s - loss: 0.0368
+Epoch 1987/2400
+ - 0s - loss: 0.0288
+Epoch 1988/2400
+ - 0s - loss: 0.0271
+Epoch 1989/2400
+ - 0s - loss: 0.0167
+Epoch 1990/2400
+ - 0s - loss: 0.0137
+Epoch 1991/2400
+ - 0s - loss: 0.0114
+Epoch 1992/2400
+ - 0s - loss: 0.0123
+Epoch 1993/2400
+ - 0s - loss: 0.0124
+Epoch 1994/2400
+ - 0s - loss: 0.0097
+Epoch 1995/2400
+ - 0s - loss: 0.0078
+Epoch 1996/2400
+ - 0s - loss: 0.0063
+Epoch 1997/2400
+ - 0s - loss: 0.0058
+Epoch 1998/2400
+ - 0s - loss: 0.0054
+Epoch 1999/2400
+ - 0s - loss: 0.0046
+Epoch 2000/2400
+ - 0s - loss: 0.0066
+Epoch 2001/2400
+ - 0s - loss: 0.0073
+Epoch 2002/2400
+ - 0s - loss: 0.0056
+Epoch 2003/2400
+ - 0s - loss: 0.0065
+Epoch 2004/2400
+ - 0s - loss: 0.0083
+Epoch 2005/2400
+ - 0s - loss: 0.0112
+Epoch 2006/2400
+ - 0s - loss: 0.0132
+Epoch 2007/2400
+ - 0s - loss: 0.0164
+Epoch 2008/2400
+ - 0s - loss: 0.0183
+Epoch 2009/2400
+ - 0s - loss: 0.0200
+Epoch 2010/2400
+ - 0s - loss: 0.0168
+Epoch 2011/2400
+ - 0s - loss: 0.0127
+Epoch 2012/2400
+ - 0s - loss: 0.0106
+Epoch 2013/2400
+ - 0s - loss: 0.0138
+Epoch 2014/2400
+ - 0s - loss: 0.0194
+Epoch 2015/2400
+ - 0s - loss: 0.0190
+Epoch 2016/2400
+ - 0s - loss: 0.0186
+Epoch 2017/2400
+ - 0s - loss: 0.0195
+Epoch 2018/2400
+ - 0s - loss: 0.0192
+Epoch 2019/2400
+ - 0s - loss: 0.0177
+Epoch 2020/2400
+ - 0s - loss: 0.0193
+Epoch 2021/2400
+ - 0s - loss: 0.0226
+Epoch 2022/2400
+ - 0s - loss: 0.0227
+Epoch 2023/2400
+ - 0s - loss: 0.0246
+Epoch 2024/2400
+ - 0s - loss: 0.0261
+Epoch 2025/2400
+ - 0s - loss: 0.0236
+Epoch 2026/2400
+ - 0s - loss: 0.0201
+Epoch 2027/2400
+ - 0s - loss: 0.0218
+Epoch 2028/2400
+ - 0s - loss: 0.0314
+Epoch 2029/2400
+ - 0s - loss: 0.0279
+Epoch 2030/2400
+ - 0s - loss: 0.0222
+Epoch 2031/2400
+ - 0s - loss: 0.0222
+Epoch 2032/2400
+ - 0s - loss: 0.0226
+Epoch 2033/2400
+ - 0s - loss: 0.0193
+Epoch 2034/2400
+ - 0s - loss: 0.0181
+Epoch 2035/2400
+ - 0s - loss: 0.0172
+Epoch 2036/2400
+ - 0s - loss: 0.0230
+Epoch 2037/2400
+ - 0s - loss: 0.0394
+Epoch 2038/2400
+ - 0s - loss: 0.0519
+Epoch 2039/2400
+ - 0s - loss: 0.0420
+Epoch 2040/2400
+ - 0s - loss: 0.0327
+Epoch 2041/2400
+ - 0s - loss: 0.0303
+Epoch 2042/2400
+ - 0s - loss: 0.0257
+Epoch 2043/2400
+ - 0s - loss: 0.0187
+Epoch 2044/2400
+ - 0s - loss: 0.0188
+Epoch 2045/2400
+ - 0s - loss: 0.0199
+Epoch 2046/2400
+ - 0s - loss: 0.0160
+Epoch 2047/2400
+ - 0s - loss: 0.0102
+Epoch 2048/2400
+ - 0s - loss: 0.0096
+Epoch 2049/2400
+ - 0s - loss: 0.0080
+Epoch 2050/2400
+ - 0s - loss: 0.0069
+Epoch 2051/2400
+ - 0s - loss: 0.0063
+Epoch 2052/2400
+ - 0s - loss: 0.0067
+Epoch 2053/2400
+ - 0s - loss: 0.0068
+Epoch 2054/2400
+ - 0s - loss: 0.0063
+Epoch 2055/2400
+ - 0s - loss: 0.0062
+Epoch 2056/2400
+ - 0s - loss: 0.0063
+Epoch 2057/2400
+ - 0s - loss: 0.0063
+Epoch 2058/2400
+ - 0s - loss: 0.0070
+Epoch 2059/2400
+ - 0s - loss: 0.0062
+Epoch 2060/2400
+ - 0s - loss: 0.0056
+Epoch 2061/2400
+ - 0s - loss: 0.0065
+Epoch 2062/2400
+ - 0s - loss: 0.0083
+Epoch 2063/2400
+ - 0s - loss: 0.0104
+Epoch 2064/2400
+ - 0s - loss: 0.0142
+Epoch 2065/2400
+ - 0s - loss: 0.0169
+Epoch 2066/2400
+ - 0s - loss: 0.0274
+Epoch 2067/2400
+ - 0s - loss: 0.0253
+Epoch 2068/2400
+ - 0s - loss: 0.0234
+Epoch 2069/2400
+ - 0s - loss: 0.0243
+Epoch 2070/2400
+ - 0s - loss: 0.0299
+Epoch 2071/2400
+ - 0s - loss: 0.0456
+Epoch 2072/2400
+ - 0s - loss: 0.0456
+Epoch 2073/2400
+ - 0s - loss: 0.0387
+Epoch 2074/2400
+ - 0s - loss: 0.0445
+Epoch 2075/2400
+ - 0s - loss: 0.0363
+Epoch 2076/2400
+ - 0s - loss: 0.0341
+Epoch 2077/2400
+ - 0s - loss: 0.0340
+Epoch 2078/2400
+ - 0s - loss: 0.0272
+Epoch 2079/2400
+ - 0s - loss: 0.0261
+Epoch 2080/2400
+ - 0s - loss: 0.0198
+Epoch 2081/2400
+ - 0s - loss: 0.0180
+Epoch 2082/2400
+ - 0s - loss: 0.0152
+Epoch 2083/2400
+ - 0s - loss: 0.0106
+Epoch 2084/2400
+ - 0s - loss: 0.0102
+Epoch 2085/2400
+ - 0s - loss: 0.0080
+Epoch 2086/2400
+ - 0s - loss: 0.0075
+Epoch 2087/2400
+ - 0s - loss: 0.0058
+Epoch 2088/2400
+ - 0s - loss: 0.0055
+Epoch 2089/2400
+ - 0s - loss: 0.0054
+Epoch 2090/2400
+ - 0s - loss: 0.0057
+Epoch 2091/2400
+ - 0s - loss: 0.0059
+Epoch 2092/2400
+ - 0s - loss: 0.0054
+Epoch 2093/2400
+ - 0s - loss: 0.0057
+Epoch 2094/2400
+ - 0s - loss: 0.0046
+Epoch 2095/2400
+ - 0s - loss: 0.0040
+Epoch 2096/2400
+ - 0s - loss: 0.0043
+Epoch 2097/2400
+ - 0s - loss: 0.0046
+Epoch 2098/2400
+ - 0s - loss: 0.0045
+Epoch 2099/2400
+ - 0s - loss: 0.0043
+Epoch 2100/2400
+ - 0s - loss: 0.0051
+Epoch 2101/2400
+ - 0s - loss: 0.0066
+Epoch 2102/2400
+ - 0s - loss: 0.0099
+Epoch 2103/2400
+ - 0s - loss: 0.0133
+Epoch 2104/2400
+ - 0s - loss: 0.0182
+Epoch 2105/2400
+ - 0s - loss: 0.0204
+Epoch 2106/2400
+ - 0s - loss: 0.0259
+Epoch 2107/2400
+ - 0s - loss: 0.0294
+Epoch 2108/2400
+ - 0s - loss: 0.0390
+Epoch 2109/2400
+ - 0s - loss: 0.0414
+Epoch 2110/2400
+ - 0s - loss: 0.0582
+Epoch 2111/2400
+ - 0s - loss: 0.0461
+Epoch 2112/2400
+ - 0s - loss: 0.0500
+Epoch 2113/2400
+ - 0s - loss: 0.0433
+Epoch 2114/2400
+ - 0s - loss: 0.0424
+Epoch 2115/2400
+ - 0s - loss: 0.0372
+Epoch 2116/2400
+ - 0s - loss: 0.0411
+Epoch 2117/2400
+ - 0s - loss: 0.0506
+Epoch 2118/2400
+ - 0s - loss: 0.0537
+Epoch 2119/2400
+ - 0s - loss: 0.0453
+Epoch 2120/2400
+ - 0s - loss: 0.0347
+Epoch 2121/2400
+ - 0s - loss: 0.0274
+Epoch 2122/2400
+ - 0s - loss: 0.0191
+Epoch 2123/2400
+ - 0s - loss: 0.0144
+Epoch 2124/2400
+ - 0s - loss: 0.0108
+Epoch 2125/2400
+ - 0s - loss: 0.0090
+Epoch 2126/2400
+ - 0s - loss: 0.0087
+Epoch 2127/2400
+ - 0s - loss: 0.0095
+Epoch 2128/2400
+ - 0s - loss: 0.0083
+Epoch 2129/2400
+ - 0s - loss: 0.0063
+Epoch 2130/2400
+ - 0s - loss: 0.0058
+Epoch 2131/2400
+ - 0s - loss: 0.0045
+Epoch 2132/2400
+ - 0s - loss: 0.0036
+Epoch 2133/2400
+ - 0s - loss: 0.0033
+Epoch 2134/2400
+ - 0s - loss: 0.0034
+Epoch 2135/2400
+ - 0s - loss: 0.0046
+Epoch 2136/2400
+ - 0s - loss: 0.0056
+Epoch 2137/2400
+ - 0s - loss: 0.0051
+Epoch 2138/2400
+ - 0s - loss: 0.0052
+Epoch 2139/2400
+ - 0s - loss: 0.0060
+Epoch 2140/2400
+ - 0s - loss: 0.0062
+Epoch 2141/2400
+ - 0s - loss: 0.0080
+Epoch 2142/2400
+ - 0s - loss: 0.0085
+Epoch 2143/2400
+ - 0s - loss: 0.0102
+Epoch 2144/2400
+ - 0s - loss: 0.0123
+Epoch 2145/2400
+ - 0s - loss: 0.0168
+Epoch 2146/2400
+ - 0s - loss: 0.0189
+Epoch 2147/2400
+ - 0s - loss: 0.0211
+Epoch 2148/2400
+ - 0s - loss: 0.0216
+Epoch 2149/2400
+ - 0s - loss: 0.0233
+Epoch 2150/2400
+ - 0s - loss: 0.0251
+Epoch 2151/2400
+ - 0s - loss: 0.0298
+Epoch 2152/2400
+ - 0s - loss: 0.0272
+Epoch 2153/2400
+ - 0s - loss: 0.0373
+Epoch 2154/2400
+ - 0s - loss: 0.0473
+Epoch 2155/2400
+ - 0s - loss: 0.0599
+Epoch 2156/2400
+ - 0s - loss: 0.0451
+Epoch 2157/2400
+ - 0s - loss: 0.0416
+Epoch 2158/2400
+ - 0s - loss: 0.0329
+Epoch 2159/2400
+ - 0s - loss: 0.0249
+Epoch 2160/2400
+ - 0s - loss: 0.0229
+Epoch 2161/2400
+ - 0s - loss: 0.0218
+Epoch 2162/2400
+ - 0s - loss: 0.0167
+Epoch 2163/2400
+ - 0s - loss: 0.0148
+Epoch 2164/2400
+ - 0s - loss: 0.0130
+Epoch 2165/2400
+ - 0s - loss: 0.0109
+Epoch 2166/2400
+ - 0s - loss: 0.0083
+Epoch 2167/2400
+ - 0s - loss: 0.0065
+Epoch 2168/2400
+ - 0s - loss: 0.0048
+Epoch 2169/2400
+ - 0s - loss: 0.0038
+Epoch 2170/2400
+ - 0s - loss: 0.0037
+Epoch 2171/2400
+ - 0s - loss: 0.0028
+Epoch 2172/2400
+ - 0s - loss: 0.0024
+Epoch 2173/2400
+ - 0s - loss: 0.0024
+Epoch 2174/2400
+ - 0s - loss: 0.0024
+Epoch 2175/2400
+ - 0s - loss: 0.0031
+Epoch 2176/2400
+ - 0s - loss: 0.0040
+Epoch 2177/2400
+ - 0s - loss: 0.0039
+Epoch 2178/2400
+ - 0s - loss: 0.0041
+Epoch 2179/2400
+ - 0s - loss: 0.0036
+Epoch 2180/2400
+ - 0s - loss: 0.0035
+Epoch 2181/2400
+ - 0s - loss: 0.0045
+Epoch 2182/2400
+ - 0s - loss: 0.0050
+Epoch 2183/2400
+ - 0s - loss: 0.0056
+Epoch 2184/2400
+ - 0s - loss: 0.0104
+Epoch 2185/2400
+ - 0s - loss: 0.0130
+Epoch 2186/2400
+ - 0s - loss: 0.0169
+Epoch 2187/2400
+ - 0s - loss: 0.0232
+Epoch 2188/2400
+ - 0s - loss: 0.0271
+Epoch 2189/2400
+ - 0s - loss: 0.0325
+Epoch 2190/2400
+ - 0s - loss: 0.0446
+Epoch 2191/2400
+ - 0s - loss: 0.0435
+Epoch 2192/2400
+ - 0s - loss: 0.0361
+Epoch 2193/2400
+ - 0s - loss: 0.0393
+Epoch 2194/2400
+ - 0s - loss: 0.0383
+Epoch 2195/2400
+ - 0s - loss: 0.0401
+Epoch 2196/2400
+ - 0s - loss: 0.0342
+Epoch 2197/2400
+ - 0s - loss: 0.0322
+Epoch 2198/2400
+ - 0s - loss: 0.0355
+Epoch 2199/2400
+ - 0s - loss: 0.0315
+Epoch 2200/2400
+ - 0s - loss: 0.0279
+Epoch 2201/2400
+ - 0s - loss: 0.0205
+Epoch 2202/2400
+ - 0s - loss: 0.0160
+Epoch 2203/2400
+ - 0s - loss: 0.0156
+Epoch 2204/2400
+ - 0s - loss: 0.0133
+Epoch 2205/2400
+ - 0s - loss: 0.0136
+Epoch 2206/2400
+ - 0s - loss: 0.0137
+Epoch 2207/2400
+ - 0s - loss: 0.0086
+Epoch 2208/2400
+ - 0s - loss: 0.0081
+Epoch 2209/2400
+ - 0s - loss: 0.0081
+Epoch 2210/2400
+ - 0s - loss: 0.0095
+Epoch 2211/2400
+ - 0s - loss: 0.0078
+Epoch 2212/2400
+ - 0s - loss: 0.0079
+Epoch 2213/2400
+ - 0s - loss: 0.0079
+Epoch 2214/2400
+ - 0s - loss: 0.0080
+Epoch 2215/2400
+ - 0s - loss: 0.0079
+Epoch 2216/2400
+ - 0s - loss: 0.0080
+Epoch 2217/2400
+ - 0s - loss: 0.0096
+Epoch 2218/2400
+ - 0s - loss: 0.0094
+Epoch 2219/2400
+ - 0s - loss: 0.0080
+Epoch 2220/2400
+ - 0s - loss: 0.0085
+Epoch 2221/2400
+ - 0s - loss: 0.0129
+Epoch 2222/2400
+ - 0s - loss: 0.0159
+Epoch 2223/2400
+ - 0s - loss: 0.0292
+Epoch 2224/2400
+ - 0s - loss: 0.0253
+Epoch 2225/2400
+ - 0s - loss: 0.0200
+Epoch 2226/2400
+ - 0s - loss: 0.0180
+Epoch 2227/2400
+ - 0s - loss: 0.0172
+Epoch 2228/2400
+ - 0s - loss: 0.0181
+Epoch 2229/2400
+ - 0s - loss: 0.0156
+Epoch 2230/2400
+ - 0s - loss: 0.0221
+Epoch 2231/2400
+ - 0s - loss: 0.0237
+Epoch 2232/2400
+ - 0s - loss: 0.0219
+Epoch 2233/2400
+ - 0s - loss: 0.0252
+Epoch 2234/2400
+ - 0s - loss: 0.0301
+Epoch 2235/2400
+ - 0s - loss: 0.0258
+Epoch 2236/2400
+ - 0s - loss: 0.0273
+Epoch 2237/2400
+ - 0s - loss: 0.0204
+Epoch 2238/2400
+ - 0s - loss: 0.0220
+Epoch 2239/2400
+ - 0s - loss: 0.0203
+Epoch 2240/2400
+ - 0s - loss: 0.0183
+Epoch 2241/2400
+ - 0s - loss: 0.0155
+Epoch 2242/2400
+ - 0s - loss: 0.0154
+Epoch 2243/2400
+ - 0s - loss: 0.0180
+Epoch 2244/2400
+ - 0s - loss: 0.0175
+Epoch 2245/2400
+ - 0s - loss: 0.0147
+Epoch 2246/2400
+ - 0s - loss: 0.0153
+Epoch 2247/2400
+ - 0s - loss: 0.0186
+Epoch 2248/2400
+ - 0s - loss: 0.0219
+Epoch 2249/2400
+ - 0s - loss: 0.0246
+Epoch 2250/2400
+ - 0s - loss: 0.0280
+Epoch 2251/2400
+ - 0s - loss: 0.0214
+Epoch 2252/2400
+ - 0s - loss: 0.0240
+Epoch 2253/2400
+ - 0s - loss: 0.0215
+Epoch 2254/2400
+ - 0s - loss: 0.0177
+Epoch 2255/2400
+ - 0s - loss: 0.0148
+Epoch 2256/2400
+ - 0s - loss: 0.0131
+Epoch 2257/2400
+ - 0s - loss: 0.0127
+Epoch 2258/2400
+ - 0s - loss: 0.0139
+Epoch 2259/2400
+ - 0s - loss: 0.0169
+Epoch 2260/2400
+ - 0s - loss: 0.0140
+Epoch 2261/2400
+ - 0s - loss: 0.0142
+Epoch 2262/2400
+ - 0s - loss: 0.0144
+Epoch 2263/2400
+ - 0s - loss: 0.0128
+Epoch 2264/2400
+ - 0s - loss: 0.0107
+Epoch 2265/2400
+ - 0s - loss: 0.0097
+Epoch 2266/2400
+ - 0s - loss: 0.0127
+Epoch 2267/2400
+ - 0s - loss: 0.0125
+Epoch 2268/2400
+ - 0s - loss: 0.0113
+Epoch 2269/2400
+ - 0s - loss: 0.0109
+Epoch 2270/2400
+ - 0s - loss: 0.0101
+Epoch 2271/2400
+ - 0s - loss: 0.0102
+Epoch 2272/2400
+ - 0s - loss: 0.0110
+Epoch 2273/2400
+ - 0s - loss: 0.0103
+Epoch 2274/2400
+ - 0s - loss: 0.0113
+Epoch 2275/2400
+ - 0s - loss: 0.0133
+Epoch 2276/2400
+ - 0s - loss: 0.0145
+Epoch 2277/2400
+ - 0s - loss: 0.0206
+Epoch 2278/2400
+ - 0s - loss: 0.0233
+Epoch 2279/2400
+ - 0s - loss: 0.0264
+Epoch 2280/2400
+ - 0s - loss: 0.0373
+Epoch 2281/2400
+ - 0s - loss: 0.0489
+Epoch 2282/2400
+ - 0s - loss: 0.0713
+Epoch 2283/2400
+ - 0s - loss: 0.0535
+Epoch 2284/2400
+ - 0s - loss: 0.0382
+Epoch 2285/2400
+ - 0s - loss: 0.0318
+Epoch 2286/2400
+ - 0s - loss: 0.0269
+Epoch 2287/2400
+ - 0s - loss: 0.0221
+Epoch 2288/2400
+ - 0s - loss: 0.0167
+Epoch 2289/2400
+ - 0s - loss: 0.0164
+Epoch 2290/2400
+ - 0s - loss: 0.0167
+Epoch 2291/2400
+ - 0s - loss: 0.0149
+Epoch 2292/2400
+ - 0s - loss: 0.0142
+Epoch 2293/2400
+ - 0s - loss: 0.0136
+Epoch 2294/2400
+ - 0s - loss: 0.0122
+Epoch 2295/2400
+ - 0s - loss: 0.0110
+Epoch 2296/2400
+ - 0s - loss: 0.0153
+Epoch 2297/2400
+ - 0s - loss: 0.0108
+Epoch 2298/2400
+ - 0s - loss: 0.0106
+Epoch 2299/2400
+ - 0s - loss: 0.0097
+Epoch 2300/2400
+ - 0s - loss: 0.0098
+Epoch 2301/2400
+ - 0s - loss: 0.0090
+Epoch 2302/2400
+ - 0s - loss: 0.0079
+Epoch 2303/2400
+ - 0s - loss: 0.0075
+Epoch 2304/2400
+ - 0s - loss: 0.0065
+Epoch 2305/2400
+ - 0s - loss: 0.0058
+Epoch 2306/2400
+ - 0s - loss: 0.0063
+Epoch 2307/2400
+ - 0s - loss: 0.0078
+Epoch 2308/2400
+ - 0s - loss: 0.0082
+Epoch 2309/2400
+ - 0s - loss: 0.0072
+Epoch 2310/2400
+ - 0s - loss: 0.0069
+Epoch 2311/2400
+ - 0s - loss: 0.0078
+Epoch 2312/2400
+ - 0s - loss: 0.0081
+Epoch 2313/2400
+ - 0s - loss: 0.0089
+Epoch 2314/2400
+ - 0s - loss: 0.0086
+Epoch 2315/2400
+ - 0s - loss: 0.0103
+Epoch 2316/2400
+ - 0s - loss: 0.0113
+Epoch 2317/2400
+ - 0s - loss: 0.0164
+Epoch 2318/2400
+ - 0s - loss: 0.0207
+Epoch 2319/2400
+ - 0s - loss: 0.0306
+Epoch 2320/2400
+ - 0s - loss: 0.0313
+Epoch 2321/2400
+ - 0s - loss: 0.0293
+Epoch 2322/2400
+ - 0s - loss: 0.0339
+Epoch 2323/2400
+ - 0s - loss: 0.0399
+Epoch 2324/2400
+ - 0s - loss: 0.0280
+Epoch 2325/2400
+ - 0s - loss: 0.0268
+Epoch 2326/2400
+ - 0s - loss: 0.0246
+Epoch 2327/2400
+ - 0s - loss: 0.0218
+Epoch 2328/2400
+ - 0s - loss: 0.0198
+Epoch 2329/2400
+ - 0s - loss: 0.0229
+Epoch 2330/2400
+ - 0s - loss: 0.0291
+Epoch 2331/2400
+ - 0s - loss: 0.0275
+Epoch 2332/2400
+ - 0s - loss: 0.0240
+Epoch 2333/2400
+ - 0s - loss: 0.0252
+Epoch 2334/2400
+ - 0s - loss: 0.0218
+Epoch 2335/2400
+ - 0s - loss: 0.0260
+Epoch 2336/2400
+ - 0s - loss: 0.0349
+Epoch 2337/2400
+ - 0s - loss: 0.0270
+Epoch 2338/2400
+ - 0s - loss: 0.0235
+Epoch 2339/2400
+ - 0s - loss: 0.0246
+Epoch 2340/2400
+ - 0s - loss: 0.0190
+Epoch 2341/2400
+ - 0s - loss: 0.0141
+Epoch 2342/2400
+ - 0s - loss: 0.0123
+Epoch 2343/2400
+ - 0s - loss: 0.0141
+Epoch 2344/2400
+ - 0s - loss: 0.0121
+Epoch 2345/2400
+ - 0s - loss: 0.0112
+Epoch 2346/2400
+ - 0s - loss: 0.0130
+Epoch 2347/2400
+ - 0s - loss: 0.0109
+Epoch 2348/2400
+ - 0s - loss: 0.0129
+Epoch 2349/2400
+ - 0s - loss: 0.0159
+Epoch 2350/2400
+ - 0s - loss: 0.0179
+Epoch 2351/2400
+ - 0s - loss: 0.0140
+Epoch 2352/2400
+ - 0s - loss: 0.0131
+Epoch 2353/2400
+ - 0s - loss: 0.0143
+Epoch 2354/2400
+ - 0s - loss: 0.0117
+Epoch 2355/2400
+ - 0s - loss: 0.0146
+Epoch 2356/2400
+ - 0s - loss: 0.0219
+Epoch 2357/2400
+ - 0s - loss: 0.0226
+Epoch 2358/2400
+ - 0s - loss: 0.0210
+Epoch 2359/2400
+ - 0s - loss: 0.0229
+Epoch 2360/2400
+ - 0s - loss: 0.0241
+Epoch 2361/2400
+ - 0s - loss: 0.0208
+Epoch 2362/2400
+ - 0s - loss: 0.0146
+Epoch 2363/2400
+ - 0s - loss: 0.0136
+Epoch 2364/2400
+ - 0s - loss: 0.0104
+Epoch 2365/2400
+ - 0s - loss: 0.0108
+Epoch 2366/2400
+ - 0s - loss: 0.0085
+Epoch 2367/2400
+ - 0s - loss: 0.0092
+Epoch 2368/2400
+ - 0s - loss: 0.0105
+Epoch 2369/2400
+ - 0s - loss: 0.0118
+Epoch 2370/2400
+ - 0s - loss: 0.0184
+Epoch 2371/2400
+ - 0s - loss: 0.0210
+Epoch 2372/2400
+ - 0s - loss: 0.0362
+Epoch 2373/2400
+ - 0s - loss: 0.0452
+Epoch 2374/2400
+ - 0s - loss: 0.0471
+Epoch 2375/2400
+ - 0s - loss: 0.0445
+Epoch 2376/2400
+ - 0s - loss: 0.0372
+Epoch 2377/2400
+ - 0s - loss: 0.0275
+Epoch 2378/2400
+ - 0s - loss: 0.0204
+Epoch 2379/2400
+ - 0s - loss: 0.0144
+Epoch 2380/2400
+ - 0s - loss: 0.0124
+Epoch 2381/2400
+ - 0s - loss: 0.0128
+Epoch 2382/2400
+ - 0s - loss: 0.0126
+Epoch 2383/2400
+ - 0s - loss: 0.0100
+Epoch 2384/2400
+ - 0s - loss: 0.0077
+Epoch 2385/2400
+ - 0s - loss: 0.0074
+Epoch 2386/2400
+ - 0s - loss: 0.0119
+Epoch 2387/2400
+ - 0s - loss: 0.0075
+Epoch 2388/2400
+ - 0s - loss: 0.0065
+Epoch 2389/2400
+ - 0s - loss: 0.0086
+Epoch 2390/2400
+ - 0s - loss: 0.0091
+Epoch 2391/2400
+ - 0s - loss: 0.0079
+Epoch 2392/2400
+ - 0s - loss: 0.0063
+Epoch 2393/2400
+ - 0s - loss: 0.0075
+Epoch 2394/2400
+ - 0s - loss: 0.0070
+Epoch 2395/2400
+ - 0s - loss: 0.0077
+Epoch 2396/2400
+ - 0s - loss: 0.0065
+Epoch 2397/2400
+ - 0s - loss: 0.0050
+Epoch 2398/2400
+ - 0s - loss: 0.0049
+Epoch 2399/2400
+ - 0s - loss: 0.0055
+Epoch 2400/2400
+ - 0s - loss: 0.0050
+predict training data set
+training expected :  [1 1 1] training predict : [1. 1. 1.]
+training expected :  [9 5 4] training predict : [9. 5. 4.]
+training expected :  [4 0 5] training predict : [4. 0. 5.]
+training expected :  [8 7 5] training predict : [8. 7. 5.]
+training expected :  [6 2 2] training predict : [6. 2. 2.]
+training expected :  [8 2 4] training predict : [8. 2. 4.]
+training expected :  [7 0 4] training predict : [7. 0. 4.]
+training expected :  [3 4 8] training predict : [3. 4. 8.]
+training expected :  [5 3 2] training predict : [5. 3. 2.]
+training expected :  [4 1 4] training predict : [4. 1. 4.]
+training expected :  [2 1 7] training predict : [2. 1. 7.]
+training expected :  [5 5 1] training predict : [5. 5. 1.]
+training expected :  [0 6 1] training predict : [-0.  6.  1.]
+training expected :  [2 8 2] training predict : [2. 8. 2.]
+training expected :  [1 2 6] training predict : [1. 2. 6.]
+training expected :  [9 0 0] training predict : [ 9.  0. -0.]
+training expected :  [6 9 9] training predict : [6. 9. 9.]
+training expected :  [0 4 3] training predict : [-0.  4.  3.]
+training expected :  [2 3 8] training predict : [2. 3. 8.]
+training expected :  [4 8 0] training predict : [ 4.  8. -0.]
+training expected :  [1 0 0] training predict : [1. 0. 0.]
+training expected :  [6 5 0] training predict : [ 6.  5. -0.]
+training expected :  [3 3 6] training predict : [3. 3. 6.]
+training expected :  [3 4 0] training predict : [ 3.  4. -0.]
+training expected :  [6 7 9] training predict : [6. 7. 9.]
+training expected :  [9 8 1] training predict : [9. 8. 1.]
+training expected :  [6 3 1] training predict : [6. 3. 1.]
+training expected :  [4 2 5] training predict : [4. 2. 5.]
+training expected :  [3 2 6] training predict : [3. 2. 6.]
+training expected :  [7 0 3] training predict : [7. 0. 3.]
+training expected :  [3 0 8] training predict : [3. 0. 8.]
+training expected :  [9 3 6] training predict : [9. 3. 6.]
+training expected :  [8 4 3] training predict : [8. 4. 3.]
+training expected :  [7 6 2] training predict : [7. 6. 2.]
+training expected :  [7 0 8] training predict : [7. 0. 8.]
+training expected :  [9 1 4] training predict : [9. 1. 4.]
+training expected :  [5 9 4] training predict : [5. 9. 4.]
+training expected :  [1 3 4] training predict : [1. 3. 4.]
+training expected :  [9 5 7] training predict : [9. 5. 7.]
+training expected :  [1 2 3] training predict : [1. 2. 3.]
+training expected :  [6 4 1] training predict : [6. 4. 1.]
+training expected :  [8 6 2] training predict : [8. 6. 2.]
+training expected :  [7 5 3] training predict : [7. 5. 3.]
+training expected :  [4 5 3] training predict : [4. 5. 3.]
+training expected :  [6 9 1] training predict : [6. 9. 1.]
+training expected :  [1 0 7] training predict : [1. 0. 7.]
+training expected :  [7 3 2] training predict : [7. 3. 2.]
+training expected :  [6 1 9] training predict : [6. 1. 9.]
+training expected :  [3 9 3] training predict : [3. 9. 3.]
+training expected :  [5 6 0] training predict : [ 5.  6. -0.]
+training expected :  [2 5 0] training predict : [ 2.  5. -0.]
+training expected :  [7 8 7] training predict : [7. 8. 7.]
+training expected :  [6 8 8] training predict : [6. 8. 8.]
+training expected :  [4 3 5] training predict : [4. 3. 5.]
+training expected :  [5 0 3] training predict : [ 5. -0.  3.]
+training expected :  [6 2 5] training predict : [6. 2. 5.]
+training expected :  [9 4 1] training predict : [9. 4. 1.]
+training expected :  [7 6 1] training predict : [7. 6. 1.]
+training expected :  [9 8 9] training predict : [9. 8. 9.]
+training expected :  [8 1 3] training predict : [8. 1. 3.]
+training expected :  [7 5 3] training predict : [7. 5. 3.]
+training expected :  [9 1 2] training predict : [9. 1. 2.]
+training expected :  [3 3 6] training predict : [3. 3. 6.]
+training expected :  [4 9 8] training predict : [4. 9. 8.]
+training expected :  [1 7 4] training predict : [1. 7. 4.]
+training expected :  [8 3 9] training predict : [8. 3. 9.]
+training expected :  [7 8 4] training predict : [7. 8. 4.]
+training expected :  [2 7 8] training predict : [2. 7. 8.]
+training expected :  [1 5 1] training predict : [1. 5. 1.]
+training expected :  [9 2 0] training predict : [9. 2. 0.]
+training expected :  [6 9 1] training predict : [6. 9. 1.]
+training expected :  [0 1 7] training predict : [-0.  1.  7.]
+training expected :  [0 4 1] training predict : [-0.  4.  1.]
+training expected :  [6 3 4] training predict : [6. 3. 4.]
+training expected :  [0 3 3] training predict : [-0.  3.  3.]
+training expected :  [2 7 3] training predict : [2. 7. 3.]
+training expected :  [0 4 1] training predict : [-0.  4.  1.]
+training expected :  [3 9 6] training predict : [3. 9. 6.]
+training expected :  [2 4 9] training predict : [2. 4. 9.]
+training expected :  [1 1 9] training predict : [1. 1. 9.]
+training expected :  [7 0 6] training predict : [7. 0. 6.]
+training expected :  [9 0 9] training predict : [9. 0. 9.]
+training expected :  [5 9 8] training predict : [5. 9. 8.]
+training expected :  [3 2 3] training predict : [3. 2. 3.]
+training expected :  [6 9 5] training predict : [6. 9. 5.]
+training expected :  [0 0 7] training predict : [-0.  0.  7.]
+training expected :  [6 4 1] training predict : [6. 4. 1.]
+training expected :  [7 1 2] training predict : [7. 1. 2.]
+training expected :  [1 9 5] training predict : [1. 9. 5.]
+training expected :  [2 4 4] training predict : [2. 4. 4.]
+training expected :  [3 8 7] training predict : [3. 8. 7.]
+training expected :  [6 5 9] training predict : [6. 5. 9.]
+training expected :  [8 6 9] training predict : [8. 6. 9.]
+training expected :  [4 8 9] training predict : [4. 8. 9.]
+training expected :  [6 9 5] training predict : [6. 9. 5.]
+training expected :  [7 0 3] training predict : [7. 0. 3.]
+training expected :  [3 8 0] training predict : [ 3.  8. -0.]
+training expected :  [6 1 8] training predict : [6. 1. 8.]
+training expected :  [1 3 9] training predict : [1. 3. 9.]
+training expected :  [0 9 9] training predict : [-0.  9.  9.]
+training expected :  [7 9 0] training predict : [ 7.  9. -0.]
+training expected :  [8 2 3] training predict : [8. 2. 3.]
+training expected :  [3 0 8] training predict : [3. 0. 8.]
+training expected :  [6 6 1] training predict : [6. 6. 1.]
+training expected :  [6 9 5] training predict : [6. 9. 5.]
+training expected :  [4 0 7] training predict : [ 4. -0.  7.]
+training expected :  [6 1 0] training predict : [6. 1. 0.]
+training expected :  [9 0 7] training predict : [9. 0. 7.]
+training expected :  [9 1 5] training predict : [9. 1. 5.]
+training expected :  [3 0 3] training predict : [3. 0. 3.]
+training expected :  [3 4 7] training predict : [3. 4. 7.]
+training expected :  [9 3 2] training predict : [9. 3. 2.]
+training expected :  [3 2 0] training predict : [ 3.  2. -0.]
+training expected :  [7 8 4] training predict : [7. 8. 4.]
+training expected :  [9 7 5] training predict : [9. 7. 5.]
+training expected :  [3 2 9] training predict : [3. 2. 9.]
+training expected :  [4 9 9] training predict : [4. 9. 9.]
+training expected :  [1 7 3] training predict : [1. 7. 3.]
+training expected :  [5 9 6] training predict : [5. 9. 6.]
+training expected :  [9 5 0] training predict : [ 9.  5. -0.]
+training expected :  [0 2 3] training predict : [-0.  2.  3.]
+training expected :  [2 7 9] training predict : [2. 7. 9.]
+training expected :  [6 3 4] training predict : [6. 3. 4.]
+training expected :  [0 3 8] training predict : [-0.  3.  8.]
+training expected :  [1 7 3] training predict : [1. 7. 3.]
+training expected :  [9 4 2] training predict : [9. 4. 2.]
+training expected :  [1 4 4] training predict : [1. 4. 4.]
+training expected :  [3 3 4] training predict : [3. 3. 4.]
+training expected :  [0 3 8] training predict : [-0.  3.  8.]
+training expected :  [2 3 3] training predict : [2. 3. 3.]
+training expected :  [4 1 0] training predict : [ 4.  1. -0.]
+training expected :  [3 6 7] training predict : [3. 6. 7.]
+training expected :  [8 0 8] training predict : [8. 0. 8.]
+training expected :  [4 0 4] training predict : [ 4. -0.  4.]
+training expected :  [2 9 7] training predict : [2. 9. 7.]
+training expected :  [2 7 8] training predict : [2. 7. 8.]
+training expected :  [2 1 2] training predict : [2. 1. 2.]
+training expected :  [2 8 9] training predict : [2. 8. 9.]
+training expected :  [6 9 8] training predict : [6. 9. 8.]
+training expected :  [1 8 8] training predict : [1. 8. 8.]
+training expected :  [3 7 8] training predict : [3. 7. 8.]
+training expected :  [4 9 7] training predict : [4. 9. 7.]
+training expected :  [4 5 8] training predict : [4. 5. 8.]
+training expected :  [1 3 2] training predict : [1. 3. 2.]
+training expected :  [6 9 4] training predict : [6. 9. 4.]
+training expected :  [2 0 4] training predict : [2. 0. 4.]
+training expected :  [5 5 4] training predict : [5. 5. 4.]
+training expected :  [8 9 1] training predict : [8. 9. 1.]
+training expected :  [5 3 1] training predict : [5. 3. 1.]
+training expected :  [0 3 7] training predict : [-0.  3.  7.]
+training expected :  [5 6 0] training predict : [5. 6. 0.]
+training expected :  [0 8 7] training predict : [-0.  8.  7.]
+training expected :  [4 9 9] training predict : [4. 9. 9.]
+training expected :  [3 9 5] training predict : [3. 9. 5.]
+training expected :  [4 4 6] training predict : [4. 4. 6.]
+training expected :  [6 9 9] training predict : [6. 9. 9.]
+training expected :  [7 6 0] training predict : [7. 6. 0.]
+training expected :  [3 1 9] training predict : [3. 1. 9.]
+training expected :  [4 4 1] training predict : [4. 4. 1.]
+training expected :  [1 3 9] training predict : [1. 3. 9.]
+training expected :  [1 0 9] training predict : [1. 0. 9.]
+training expected :  [4 1 6] training predict : [4. 1. 6.]
+training expected :  [8 6 0] training predict : [ 8.  6. -0.]
+training expected :  [0 5 2] training predict : [-0.  5.  2.]
+training expected :  [2 6 5] training predict : [2. 6. 5.]
+training expected :  [5 6 4] training predict : [5. 6. 4.]
+training expected :  [4 5 1] training predict : [4. 5. 1.]
+training expected :  [6 2 8] training predict : [6. 2. 8.]
+training expected :  [9 7 6] training predict : [9. 7. 6.]
+training expected :  [2 6 6] training predict : [2. 6. 6.]
+training expected :  [3 2 8] training predict : [3. 2. 8.]
+training expected :  [0 6 1] training predict : [-0.  6.  1.]
+training expected :  [0 4 9] training predict : [-0.  4.  9.]
+training expected :  [6 5 9] training predict : [6. 5. 9.]
+training expected :  [4 8 9] training predict : [4. 8. 9.]
+training expected :  [8 9 8] training predict : [8. 9. 8.]
+training expected :  [5 2 5] training predict : [5. 2. 5.]
+training expected :  [9 1 4] training predict : [9. 1. 4.]
+training expected :  [9 8 9] training predict : [9. 8. 9.]
+training expected :  [1 0 5] training predict : [1. 0. 5.]
+training expected :  [8 6 0] training predict : [ 8.  6. -0.]
+training expected :  [4 1 1] training predict : [4. 1. 1.]
+training expected :  [4 4 3] training predict : [4. 4. 3.]
+training expected :  [3 7 3] training predict : [3. 7. 3.]
+training expected :  [5 6 5] training predict : [5. 6. 5.]
+training expected :  [8 8 3] training predict : [8. 8. 3.]
+training expected :  [8 7 4] training predict : [8. 7. 4.]
+training expected :  [2 7 7] training predict : [2. 7. 7.]
+training expected :  [0 8 5] training predict : [-0.  8.  5.]
+training expected :  [4 3 5] training predict : [4. 3. 5.]
+training expected :  [6 2 4] training predict : [6. 2. 4.]
+training expected :  [3 7 8] training predict : [3. 7. 8.]
+training expected :  [9 9 8] training predict : [9. 9. 8.]
+training expected :  [6 2 6] training predict : [6. 2. 6.]
+training expected :  [7 4 0] training predict : [ 7.  4. -0.]
+training expected :  [1 4 3] training predict : [1. 4. 3.]
+training expected :  [8 4 8] training predict : [8. 4. 8.]
+training expected :  [9 0 7] training predict : [ 9. -0.  7.]
+training expected :  [6 2 1] training predict : [6. 2. 1.]
+training expected :  [0 1 0] training predict : [-0.  1.  0.]
+training expected :  [3 5 9] training predict : [3. 5. 9.]
+training expected :  [4 3 0] training predict : [ 4.  3. -0.]
+training expected :  [1 3 7] training predict : [1. 3. 7.]
+training expected :  [5 0 7] training predict : [5. 0. 7.]
+training expected :  [3 2 6] training predict : [3. 2. 6.]
+training expected :  [3 3 4] training predict : [3. 3. 4.]
+training expected :  [7 8 9] training predict : [7. 8. 9.]
+training expected :  [7 8 4] training predict : [7. 8. 4.]
+training expected :  [1 6 0] training predict : [1. 6. 0.]
+training expected :  [6 5 1] training predict : [6. 5. 1.]
+training expected :  [0 4 5] training predict : [-0.  4.  5.]
+training expected :  [8 0 5] training predict : [8. 0. 5.]
+training expected :  [5 7 2] training predict : [5. 7. 2.]
+training expected :  [6 5 6] training predict : [6. 5. 6.]
+training expected :  [8 0 1] training predict : [8. 0. 1.]
+training expected :  [8 5 6] training predict : [8. 5. 6.]
+training expected :  [7 4 4] training predict : [7. 4. 4.]
+training expected :  [0 7 3] training predict : [-0.  7.  3.]
+training expected :  [9 9 7] training predict : [9. 9. 7.]
+training expected :  [7 4 3] training predict : [7. 4. 3.]
+training expected :  [8 3 0] training predict : [8. 3. 0.]
+training expected :  [0 4 5] training predict : [-0.  4.  5.]
+training expected :  [3 9 8] training predict : [3. 9. 8.]
+training expected :  [1 1 3] training predict : [1. 1. 3.]
+training expected :  [3 7 3] training predict : [3. 7. 3.]
+training expected :  [1 5 7] training predict : [1. 5. 7.]
+training expected :  [8 8 8] training predict : [8. 8. 8.]
+training expected :  [7 7 4] training predict : [7. 7. 4.]
+training expected :  [2 4 3] training predict : [2. 4. 3.]
+training expected :  [4 7 0] training predict : [4. 7. 0.]
+training expected :  [5 5 7] training predict : [5. 5. 7.]
+training expected :  [5 2 9] training predict : [5. 2. 9.]
+training expected :  [8 3 2] training predict : [8. 3. 2.]
+training expected :  [1 5 3] training predict : [1. 5. 3.]
+training expected :  [8 7 7] training predict : [8. 7. 7.]
+training expected :  [6 6 3] training predict : [6. 6. 3.]
+training expected :  [9 6 1] training predict : [9. 6. 1.]
+training expected :  [6 9 0] training predict : [6. 9. 0.]
+training expected :  [8 3 1] training predict : [8. 3. 1.]
+training expected :  [7 0 9] training predict : [ 7. -0.  9.]
+training expected :  [2 4 4] training predict : [2. 4. 4.]
+training expected :  [3 1 8] training predict : [3. 1. 8.]
+training expected :  [9 8 3] training predict : [9. 8. 3.]
+training expected :  [7 7 6] training predict : [7. 7. 6.]
+training expected :  [0 5 4] training predict : [0. 5. 4.]
+training expected :  [1 8 9] training predict : [1. 8. 9.]
+training expected :  [5 5 0] training predict : [ 5.  5. -0.]
+training expected :  [0 9 7] training predict : [-0.  9.  7.]
+training expected :  [2 9 9] training predict : [2. 9. 9.]
+training expected :  [3 0 1] training predict : [3. 0. 1.]
+training expected :  [2 6 2] training predict : [2. 6. 2.]
+training expected :  [4 9 3] training predict : [4. 9. 3.]
+training expected :  [1 5 1] training predict : [1. 5. 1.]
+training expected :  [4 4 8] training predict : [4. 4. 8.]
+training expected :  [2 2 5] training predict : [2. 2. 5.]
+training expected :  [3 6 7] training predict : [3. 6. 7.]
+training expected :  [5 5 9] training predict : [5. 5. 9.]
+training expected :  [0 2 9] training predict : [-0.  2.  9.]
+training expected :  [8 0 6] training predict : [ 8. -0.  6.]
+training expected :  [2 8 9] training predict : [2. 8. 9.]
+training expected :  [0 4 9] training predict : [-0.  4.  9.]
+training expected :  [3 8 3] training predict : [3. 8. 3.]
+training expected :  [8 1 8] training predict : [8. 1. 8.]
+training expected :  [0 1 6] training predict : [-0.  1.  6.]
+training expected :  [0 8 4] training predict : [-0.  8.  4.]
+training expected :  [4 2 8] training predict : [4. 2. 8.]
+training expected :  [9 4 2] training predict : [9. 4. 2.]
+training expected :  [1 2 5] training predict : [1. 2. 5.]
+training expected :  [4 1 5] training predict : [4. 1. 5.]
+training expected :  [1 1 0] training predict : [1. 1. 0.]
+training expected :  [8 8 3] training predict : [8. 8. 3.]
+training expected :  [3 6 9] training predict : [3. 6. 9.]
+training expected :  [7 7 9] training predict : [7. 7. 9.]
+training expected :  [6 5 0] training predict : [ 6.  5. -0.]
+training expected :  [3 1 7] training predict : [3. 1. 7.]
+training expected :  [2 4 6] training predict : [2. 4. 6.]
+training expected :  [8 8 8] training predict : [8. 8. 8.]
+training expected :  [7 8 3] training predict : [7. 8. 3.]
+training expected :  [1 6 9] training predict : [1. 6. 9.]
+training expected :  [2 0 2] training predict : [2. 0. 2.]
+training expected :  [9 7 6] training predict : [9. 7. 6.]
+training expected :  [9 0 9] training predict : [ 9. -0.  9.]
+training expected :  [1 2 5] training predict : [1. 2. 5.]
+training expected :  [5 8 2] training predict : [5. 8. 2.]
+training expected :  [2 2 1] training predict : [2. 2. 1.]
+training expected :  [9 5 0] training predict : [ 9.  5. -0.]
+training expected :  [4 6 9] training predict : [4. 6. 9.]
+training expected :  [8 1 7] training predict : [8. 1. 7.]
+training expected :  [3 1 5] training predict : [3. 1. 5.]
+training expected :  [6 0 6] training predict : [6. 0. 6.]
+training expected :  [8 9 3] training predict : [8. 9. 3.]
+training expected :  [8 5 4] training predict : [8. 5. 4.]
+training expected :  [0 2 8] training predict : [-0.  2.  8.]
+training expected :  [2 5 0] training predict : [ 2.  5. -0.]
+training expected :  [7 0 9] training predict : [7. 0. 9.]
+training expected :  [3 5 9] training predict : [3. 5. 9.]
+training expected :  [2 5 9] training predict : [2. 5. 9.]
+training expected :  [8 7 3] training predict : [8. 7. 3.]
+training expected :  [1 9 3] training predict : [1. 9. 3.]
+training expected :  [2 7 2] training predict : [2. 7. 2.]
+training expected :  [1 0 7] training predict : [ 1. -0.  7.]
+training expected :  [3 7 6] training predict : [3. 7. 6.]
+training expected :  [2 3 7] training predict : [2. 3. 7.]
+training expected :  [1 1 4] training predict : [1. 1. 4.]
+training expected :  [3 4 8] training predict : [3. 4. 8.]
+training expected :  [6 2 4] training predict : [6. 2. 4.]
+training expected :  [6 5 0] training predict : [6. 5. 0.]
+training expected :  [8 9 7] training predict : [8. 9. 7.]
+training expected :  [1 3 4] training predict : [1. 3. 4.]
+training expected :  [3 9 5] training predict : [3. 9. 5.]
+training expected :  [8 9 9] training predict : [8. 9. 9.]
+training expected :  [4 8 0] training predict : [4. 8. 0.]
+training expected :  [0 0 0] training predict : [0. 0. 0.]
+training expected :  [0 5 0] training predict : [-0.  5.  0.]
+training expected :  [8 6 1] training predict : [8. 6. 1.]
+training expected :  [6 7 9] training predict : [6. 7. 9.]
+training expected :  [5 7 0] training predict : [5. 7. 0.]
+training expected :  [9 4 5] training predict : [9. 4. 5.]
+training expected :  [5 5 7] training predict : [5. 5. 7.]
+training expected :  [0 3 6] training predict : [-0.  3.  6.]
+training expected :  [2 7 8] training predict : [2. 7. 8.]
+training expected :  [7 0 2] training predict : [7. 0. 2.]
+training expected :  [7 3 1] training predict : [7. 3. 1.]
+training expected :  [6 5 2] training predict : [6. 5. 2.]
+training expected :  [7 5 4] training predict : [7. 5. 4.]
+training expected :  [2 7 6] training predict : [2. 7. 6.]
+training expected :  [1 0 2] training predict : [1. 0. 2.]
+training expected :  [2 4 2] training predict : [2. 4. 2.]
+training expected :  [2 6 2] training predict : [2. 6. 2.]
+training expected :  [1 4 3] training predict : [1. 4. 3.]
+training expected :  [8 6 8] training predict : [8. 6. 8.]
+training expected :  [4 5 4] training predict : [4. 5. 4.]
+training expected :  [9 7 5] training predict : [9. 7. 5.]
+training expected :  [8 6 4] training predict : [8. 6. 4.]
+training expected :  [1 5 8] training predict : [1. 5. 8.]
+training expected :  [5 7 7] training predict : [5. 7. 7.]
+training expected :  [3 2 2] training predict : [3. 2. 2.]
+training expected :  [6 4 4] training predict : [6. 4. 4.]
+training expected :  [9 1 0] training predict : [ 9.  1. -0.]
+training expected :  [5 1 8] training predict : [5. 1. 8.]
+training expected :  [2 3 1] training predict : [2. 3. 1.]
+training expected :  [8 8 2] training predict : [8. 8. 2.]
+training expected :  [1 7 4] training predict : [1. 7. 4.]
+training expected :  [0 7 5] training predict : [0. 7. 5.]
+training expected :  [5 7 6] training predict : [5. 7. 6.]
+training expected :  [7 8 7] training predict : [7. 8. 7.]
+training expected :  [0 7 4] training predict : [-0.  7.  4.]
+training expected :  [0 2 0] training predict : [0. 2. 0.]
+training expected :  [4 4 9] training predict : [4. 4. 9.]
+training expected :  [4 8 7] training predict : [4. 8. 7.]
+training expected :  [7 3 5] training predict : [7. 3. 5.]
+training expected :  [1 2 9] training predict : [1. 2. 9.]
+training expected :  [6 2 5] training predict : [6. 2. 5.]
+training expected :  [1 0 5] training predict : [1. 0. 5.]
+training expected :  [8 2 2] training predict : [8. 2. 2.]
+training expected :  [5 6 0] training predict : [ 5.  6. -0.]
+training expected :  [6 9 7] training predict : [6. 9. 7.]
+training expected :  [3 7 7] training predict : [3. 7. 7.]
+training expected :  [3 6 6] training predict : [3. 6. 6.]
+training expected :  [5 1 8] training predict : [5. 1. 8.]
+training expected :  [3 9 0] training predict : [3. 9. 0.]
+training expected :  [3 4 1] training predict : [3. 4. 1.]
+training expected :  [3 0 5] training predict : [3. 0. 5.]
+training expected :  [8 4 0] training predict : [ 8.  4. -0.]
+training expected :  [5 7 3] training predict : [5. 7. 3.]
+training expected :  [5 9 3] training predict : [5. 9. 3.]
+training expected :  [4 7 0] training predict : [ 4.  7. -0.]
+training expected :  [7 4 9] training predict : [7. 4. 9.]
+training expected :  [4 0 7] training predict : [4. 0. 7.]
+training expected :  [0 4 6] training predict : [-0.  4.  6.]
+training expected :  [5 9 6] training predict : [5. 9. 6.]
+training expected :  [8 0 9] training predict : [8. 0. 9.]
+training expected :  [6 9 8] training predict : [6. 9. 8.]
+training expected :  [3 5 0] training predict : [ 3.  5. -0.]
+training expected :  [5 2 4] training predict : [5. 2. 4.]
+training expected :  [4 2 1] training predict : [4. 2. 1.]
+training expected :  [9 3 6] training predict : [9. 3. 6.]
+training expected :  [7 2 5] training predict : [7. 2. 5.]
+training expected :  [5 5 7] training predict : [5. 5. 7.]
+training expected :  [4 8 8] training predict : [4. 8. 8.]
+training expected :  [2 6 6] training predict : [2. 6. 6.]
+training expected :  [3 3 1] training predict : [3. 3. 1.]
+training expected :  [6 9 5] training predict : [6. 9. 5.]
+training expected :  [7 4 5] training predict : [7. 4. 5.]
+training expected :  [1 6 7] training predict : [1. 6. 7.]
+training expected :  [1 6 0] training predict : [ 1.  6. -0.]
+training expected :  [8 1 4] training predict : [8. 1. 4.]
+training expected :  [7 3 1] training predict : [7. 3. 1.]
+training expected :  [6 0 5] training predict : [6. 0. 5.]
+training expected :  [5 0 9] training predict : [5. 0. 9.]
+training expected :  [2 8 4] training predict : [2. 8. 4.]
+training expected :  [4 3 9] training predict : [4. 3. 9.]
+training expected :  [0 4 5] training predict : [-0.  4.  5.]
+training expected :  [0 0 8] training predict : [ 0. -0.  8.]
+training expected :  [0 1 5] training predict : [0. 1. 5.]
+training expected :  [8 7 8] training predict : [8. 7. 8.]
+training expected :  [4 9 9] training predict : [4. 9. 9.]
+training expected :  [6 2 3] training predict : [6. 2. 3.]
+training expected :  [0 5 5] training predict : [-0.  5.  5.]
+training expected :  [5 6 6] training predict : [5. 6. 6.]
+training expected :  [6 7 6] training predict : [6. 7. 6.]
+training expected :  [4 8 2] training predict : [4. 8. 2.]
+training expected :  [5 5 6] training predict : [5. 5. 6.]
+training expected :  [9 2 0] training predict : [ 9.  2. -0.]
+training expected :  [3 5 9] training predict : [3. 5. 9.]
+training expected :  [0 7 7] training predict : [-0.  7.  7.]
+training expected :  [8 8 8] training predict : [8. 8. 8.]
+training expected :  [1 1 9] training predict : [1. 1. 9.]
+training expected :  [1 8 1] training predict : [1. 8. 1.]
+training expected :  [6 9 5] training predict : [6. 9. 5.]
+training expected :  [6 1 4] training predict : [6. 1. 4.]
+training expected :  [1 1 5] training predict : [1. 1. 5.]
+training expected :  [8 7 7] training predict : [8. 7. 7.]
+training expected :  [6 9 8] training predict : [6. 9. 8.]
+training expected :  [5 8 5] training predict : [5. 8. 5.]
+training expected :  [9 4 5] training predict : [9. 4. 5.]
+training expected :  [5 4 9] training predict : [5. 4. 9.]
+training expected :  [2 9 9] training predict : [2. 9. 9.]
+training expected :  [7 3 9] training predict : [7. 3. 9.]
+training expected :  [7 3 9] training predict : [7. 3. 9.]
+training expected :  [1 1 3] training predict : [1. 1. 3.]
+training expected :  [0 7 6] training predict : [-0.  7.  6.]
+training expected :  [7 0 7] training predict : [7. 0. 7.]
+training expected :  [6 0 8] training predict : [ 6. -0.  8.]
+training expected :  [3 6 3] training predict : [3. 6. 3.]
+training expected :  [9 3 5] training predict : [9. 3. 5.]
+training expected :  [2 4 8] training predict : [2. 4. 8.]
+training expected :  [1 7 3] training predict : [1. 7. 3.]
+training expected :  [2 8 5] training predict : [2. 8. 5.]
+training expected :  [8 7 2] training predict : [8. 7. 2.]
+training expected :  [2 1 0] training predict : [ 2.  1. -0.]
+training expected :  [7 9 7] training predict : [7. 9. 7.]
+training expected :  [3 9 8] training predict : [3. 9. 8.]
+training expected :  [0 0 8] training predict : [-0. -0.  8.]
+training expected :  [3 1 2] training predict : [3. 1. 2.]
+training expected :  [3 3 3] training predict : [3. 3. 3.]
+training expected :  [4 9 6] training predict : [4. 9. 6.]
+training expected :  [4 7 1] training predict : [4. 7. 1.]
+training expected :  [1 3 6] training predict : [1. 3. 6.]
+training expected :  [8 5 4] training predict : [8. 5. 4.]
+training expected :  [8 8 1] training predict : [8. 8. 1.]
+training expected :  [3 4 6] training predict : [3. 4. 6.]
+training expected :  [5 5 8] training predict : [5. 5. 8.]
+training expected :  [6 9 4] training predict : [6. 9. 4.]
+training expected :  [4 1 4] training predict : [4. 1. 4.]
+training expected :  [0 0 1] training predict : [-0.  0.  1.]
+training expected :  [2 7 6] training predict : [2. 7. 6.]
+training expected :  [9 7 5] training predict : [9. 7. 5.]
+training expected :  [7 4 4] training predict : [7. 4. 4.]
+training expected :  [1 5 9] training predict : [1. 5. 9.]
+training expected :  [3 6 4] training predict : [3. 6. 4.]
+training expected :  [5 6 9] training predict : [5. 6. 9.]
+training expected :  [1 4 8] training predict : [1. 4. 8.]
+training expected :  [9 9 4] training predict : [9. 9. 4.]
+training expected :  [8 9 9] training predict : [8. 9. 9.]
+training expected :  [2 2 8] training predict : [2. 2. 8.]
+training expected :  [0 3 3] training predict : [0. 3. 3.]
+training expected :  [6 1 3] training predict : [6. 1. 3.]
+training expected :  [7 4 1] training predict : [7. 4. 1.]
+training expected :  [5 6 2] training predict : [5. 6. 2.]
+training expected :  [8 8 3] training predict : [8. 8. 3.]
+training expected :  [5 6 7] training predict : [5. 6. 7.]
+training expected :  [4 0 6] training predict : [4. 0. 6.]
+training expected :  [3 5 2] training predict : [3. 5. 2.]
+training expected :  [4 6 6] training predict : [4. 6. 6.]
+training expected :  [6 8 6] training predict : [6. 8. 6.]
+training expected :  [1 7 4] training predict : [1. 7. 4.]
+training expected :  [6 8 1] training predict : [6. 8. 1.]
+training expected :  [7 0 3] training predict : [7. 0. 3.]
+training expected :  [3 6 7] training predict : [3. 6. 7.]
+training expected :  [8 2 7] training predict : [8. 2. 7.]
+training expected :  [3 5 8] training predict : [3. 5. 8.]
+training expected :  [9 9 6] training predict : [9. 9. 6.]
+training expected :  [0 7 0] training predict : [-0.  7. -0.]
+training expected :  [0 5 3] training predict : [-0.  5.  3.]
+training expected :  [7 7 0] training predict : [ 7.  7. -0.]
+training expected :  [3 4 4] training predict : [3. 4. 4.]
+training expected :  [3 3 1] training predict : [3. 3. 1.]
+training expected :  [8 2 2] training predict : [8. 2. 2.]
+training expected :  [3 5 4] training predict : [3. 5. 4.]
+training expected :  [2 5 6] training predict : [2. 5. 6.]
+training expected :  [1 2 4] training predict : [1. 2. 4.]
+training expected :  [7 1 6] training predict : [7. 1. 6.]
+training expected :  [9 8 6] training predict : [9. 8. 6.]
+training expected :  [3 1 3] training predict : [3. 1. 3.]
+training expected :  [3 6 9] training predict : [3. 6. 9.]
+training expected :  [0 6 3] training predict : [0. 6. 3.]
+training expected :  [8 1 2] training predict : [8. 1. 2.]
+training expected :  [9 1 1] training predict : [9. 1. 1.]
+training expected :  [5 1 3] training predict : [5. 1. 3.]
+training expected :  [2 8 7] training predict : [2. 8. 7.]
+training expected :  [8 5 7] training predict : [8. 5. 7.]
+training expected :  [7 3 1] training predict : [7. 3. 1.]
+training expected :  [7 7 8] training predict : [7. 7. 8.]
+training expected :  [2 6 5] training predict : [2. 6. 5.]
+training expected :  [8 0 1] training predict : [8. 0. 1.]
+training expected :  [9 0 3] training predict : [ 9. -0.  3.]
+training expected :  [8 8 5] training predict : [8. 8. 5.]
+training expected :  [5 3 5] training predict : [5. 3. 5.]
+training expected :  [7 0 7] training predict : [7. 0. 7.]
+training expected :  [5 9 8] training predict : [5. 9. 8.]
+training expected :  [7 4 8] training predict : [7. 4. 8.]
+training expected :  [0 9 1] training predict : [-0.  9.  1.]
+training expected :  [9 5 2] training predict : [9. 5. 2.]
+training expected :  [8 9 5] training predict : [8. 9. 5.]
+training expected :  [3 6 2] training predict : [3. 6. 2.]
+training expected :  [9 3 7] training predict : [9. 3. 7.]
+training expected :  [1 3 5] training predict : [1. 3. 5.]
+training expected :  [5 1 7] training predict : [5. 1. 7.]
+training expected :  [3 8 9] training predict : [3. 8. 9.]
+training expected :  [5 9 1] training predict : [5. 9. 1.]
+training expected :  [6 6 4] training predict : [6. 6. 4.]
+training expected :  [2 3 7] training predict : [2. 3. 7.]
+training expected :  [7 5 1] training predict : [7. 5. 1.]
+training expected :  [0 4 8] training predict : [-0.  4.  8.]
+training expected :  [2 8 4] training predict : [2. 8. 4.]
+training expected :  [7 7 8] training predict : [7. 7. 8.]
+training expected :  [3 7 0] training predict : [ 3.  7. -0.]
+training expected :  [8 5 6] training predict : [8. 5. 6.]
+training expected :  [3 0 2] training predict : [3. 0. 2.]
+training expected :  [1 4 2] training predict : [1. 4. 2.]
+training expected :  [9 5 1] training predict : [9. 5. 1.]
+training expected :  [3 8 7] training predict : [3. 8. 7.]
+training expected :  [3 2 6] training predict : [3. 2. 6.]
+training expected :  [6 3 9] training predict : [6. 3. 9.]
+training expected :  [5 2 1] training predict : [5. 2. 1.]
+training expected :  [3 6 2] training predict : [3. 6. 2.]
+training expected :  [2 3 4] training predict : [2. 3. 4.]
+training expected :  [3 6 1] training predict : [3. 6. 1.]
+training expected :  [4 8 1] training predict : [4. 8. 1.]
+training expected :  [0 9 5] training predict : [-0.  9.  5.]
+training expected :  [6 8 6] training predict : [6. 8. 6.]
+training expected :  [9 1 2] training predict : [9. 1. 2.]
+training expected :  [6 7 2] training predict : [6. 7. 2.]
+training expected :  [9 3 3] training predict : [9. 3. 3.]
+training expected :  [3 7 2] training predict : [3. 7. 2.]
+training expected :  [2 0 3] training predict : [2. 0. 3.]
+training expected :  [7 7 0] training predict : [7. 7. 0.]
+training expected :  [5 7 8] training predict : [5. 7. 8.]
+training expected :  [9 3 8] training predict : [9. 3. 8.]
+training expected :  [1 3 5] training predict : [1. 3. 5.]
+training expected :  [4 2 8] training predict : [4. 2. 8.]
+training expected :  [9 3 4] training predict : [9. 3. 4.]
+training expected :  [2 6 7] training predict : [2. 6. 7.]
+training expected :  [9 4 4] training predict : [9. 4. 4.]
+training expected :  [8 9 8] training predict : [8. 9. 8.]
+training expected :  [8 8 7] training predict : [8. 8. 7.]
+training expected :  [5 5 7] training predict : [5. 5. 7.]
+training expected :  [9 0 2] training predict : [ 9. -0.  2.]
+training expected :  [4 5 3] training predict : [4. 5. 3.]
+training expected :  [6 5 8] training predict : [6. 5. 8.]
+training expected :  [6 0 9] training predict : [6. 0. 9.]
+training expected :  [5 6 8] training predict : [5. 6. 8.]
+training expected :  [3 5 5] training predict : [3. 5. 5.]
+training expected :  [1 3 1] training predict : [1. 3. 1.]
+training expected :  [4 3 4] training predict : [4. 3. 4.]
+training expected :  [5 1 2] training predict : [5. 1. 2.]
+training expected :  [2 8 5] training predict : [2. 8. 5.]
+training expected :  [3 0 0] training predict : [ 3.  0. -0.]
+training expected :  [2 3 6] training predict : [2. 3. 6.]
+training expected :  [2 8 5] training predict : [2. 8. 5.]
+training expected :  [7 6 5] training predict : [7. 6. 5.]
+training expected :  [7 1 5] training predict : [7. 1. 5.]
+training expected :  [6 6 9] training predict : [6. 6. 9.]
+training expected :  [7 5 7] training predict : [7. 5. 7.]
+training expected :  [7 2 3] training predict : [7. 2. 3.]
+training expected :  [9 5 9] training predict : [9. 5. 9.]
+training expected :  [4 6 2] training predict : [4. 6. 2.]
+training expected :  [2 1 8] training predict : [2. 1. 8.]
+training expected :  [9 2 1] training predict : [9. 2. 1.]
+training expected :  [0 5 0] training predict : [-0.  5.  0.]
+training expected :  [3 9 1] training predict : [3. 9. 1.]
+training expected :  [2 4 1] training predict : [2. 4. 1.]
+training expected :  [4 9 7] training predict : [4. 9. 7.]
+training expected :  [1 0 9] training predict : [1. 0. 9.]
+training expected :  [4 2 0] training predict : [4. 2. 0.]
+training expected :  [8 1 7] training predict : [8. 1. 7.]
+training expected :  [5 1 7] training predict : [5. 1. 7.]
+training expected :  [7 1 0] training predict : [ 7.  1. -0.]
+training expected :  [8 7 9] training predict : [8. 7. 9.]
+training expected :  [1 3 6] training predict : [1. 3. 6.]
+training expected :  [9 7 9] training predict : [9. 7. 9.]
+training expected :  [1 1 4] training predict : [1. 1. 4.]
+training expected :  [2 3 2] training predict : [2. 3. 2.]
+training expected :  [3 0 0] training predict : [ 3.  0. -0.]
+training expected :  [7 9 1] training predict : [7. 9. 1.]
+training expected :  [7 2 3] training predict : [7. 2. 3.]
+training expected :  [7 7 1] training predict : [7. 7. 1.]
+training expected :  [8 5 6] training predict : [8. 5. 6.]
+training expected :  [1 0 5] training predict : [1. 0. 5.]
+training expected :  [5 4 3] training predict : [5. 4. 3.]
+training expected :  [1 8 8] training predict : [1. 8. 8.]
+training expected :  [4 1 9] training predict : [4. 1. 9.]
+training expected :  [2 8 0] training predict : [ 2.  8. -0.]
+training expected :  [6 3 7] training predict : [6. 3. 7.]
+training expected :  [4 0 6] training predict : [4. 0. 6.]
+training expected :  [4 9 0] training predict : [ 4.  9. -0.]
+training expected :  [3 5 1] training predict : [3. 5. 1.]
+training expected :  [0 3 0] training predict : [-0.  3.  0.]
+training expected :  [9 1 3] training predict : [9. 1. 3.]
+training expected :  [4 3 0] training predict : [ 4.  3. -0.]
+training expected :  [7 8 2] training predict : [7. 8. 2.]
+training expected :  [8 0 4] training predict : [8. 0. 4.]
+training expected :  [4 4 2] training predict : [4. 4. 2.]
+training expected :  [9 0 5] training predict : [9. 0. 5.]
+training expected :  [7 0 5] training predict : [7. 0. 5.]
+training expected :  [7 7 5] training predict : [7. 7. 5.]
+training expected :  [4 4 4] training predict : [4. 4. 4.]
+training expected :  [9 0 1] training predict : [9. 0. 1.]
+training expected :  [8 5 3] training predict : [8. 5. 3.]
+training expected :  [7 1 4] training predict : [7. 1. 4.]
+training expected :  [1 6 2] training predict : [1. 6. 2.]
+training expected :  [9 6 0] training predict : [ 9.  6. -0.]
+training expected :  [8 6 1] training predict : [8. 6. 1.]
+training expected :  [6 9 8] training predict : [6. 9. 8.]
+training expected :  [1 7 3] training predict : [1. 7. 3.]
+training expected :  [8 6 1] training predict : [8. 6. 1.]
+training expected :  [6 6 6] training predict : [6. 6. 6.]
+training expected :  [3 1 1] training predict : [3. 1. 1.]
+training expected :  [5 3 7] training predict : [5. 3. 7.]
+training expected :  [7 2 6] training predict : [7. 2. 6.]
+training expected :  [1 0 9] training predict : [ 1. -0.  9.]
+training expected :  [8 5 5] training predict : [8. 5. 5.]
+training expected :  [0 9 4] training predict : [-0.  9.  4.]
+training expected :  [2 9 4] training predict : [2. 9. 4.]
+training expected :  [0 3 1] training predict : [-0.  3.  1.]
+training expected :  [6 4 7] training predict : [6. 4. 7.]
+training expected :  [6 6 5] training predict : [6. 6. 5.]
+training expected :  [6 1 2] training predict : [6. 1. 2.]
+training expected :  [3 2 6] training predict : [3. 2. 6.]
+training expected :  [9 2 8] training predict : [9. 2. 8.]
+training expected :  [7 3 6] training predict : [7. 3. 6.]
+training expected :  [3 9 3] training predict : [3. 9. 3.]
+training expected :  [8 2 8] training predict : [8. 2. 8.]
+training expected :  [7 2 0] training predict : [ 7.  2. -0.]
+training expected :  [0 2 1] training predict : [-0.  2.  1.]
+training expected :  [5 8 3] training predict : [5. 8. 3.]
+training expected :  [8 1 3] training predict : [8. 1. 3.]
+training expected :  [8 5 8] training predict : [8. 5. 8.]
+training expected :  [0 7 8] training predict : [-0.  7.  8.]
+training expected :  [8 9 1] training predict : [8. 9. 1.]
+training expected :  [7 4 6] training predict : [7. 4. 6.]
+training expected :  [0 8 4] training predict : [0. 8. 4.]
+training expected :  [8 7 5] training predict : [8. 7. 5.]
+training expected :  [4 0 1] training predict : [4. 0. 1.]
+training expected :  [6 5 9] training predict : [6. 5. 9.]
+training expected :  [8 1 0] training predict : [ 8.  1. -0.]
+training expected :  [1 7 9] training predict : [1. 7. 9.]
+training expected :  [7 4 9] training predict : [7. 4. 9.]
+training expected :  [2 7 2] training predict : [2. 7. 2.]
+training expected :  [9 9 2] training predict : [9. 9. 2.]
+training expected :  [1 0 2] training predict : [ 1. -0.  2.]
+training expected :  [6 6 4] training predict : [6. 6. 4.]
+training expected :  [6 4 7] training predict : [6. 4. 7.]
+training expected :  [9 3 2] training predict : [9. 3. 2.]
+training expected :  [9 7 3] training predict : [9. 7. 3.]
+training expected :  [8 2 8] training predict : [8. 2. 8.]
+training expected :  [3 1 3] training predict : [3. 1. 3.]
+training expected :  [6 8 2] training predict : [6. 8. 2.]
+training expected :  [3 2 8] training predict : [3. 2. 8.]
+training expected :  [7 1 2] training predict : [7. 1. 2.]
+training expected :  [7 6 7] training predict : [7. 6. 7.]
+training expected :  [6 7 6] training predict : [6. 7. 6.]
+training expected :  [8 5 6] training predict : [8. 5. 6.]
+training expected :  [3 6 5] training predict : [3. 6. 5.]
+training expected :  [6 9 5] training predict : [6. 9. 5.]
+training expected :  [8 5 9] training predict : [8. 5. 9.]
+training expected :  [7 0 6] training predict : [7. 0. 6.]
+training expected :  [6 8 4] training predict : [6. 8. 4.]
+training expected :  [6 5 1] training predict : [6. 5. 1.]
+training expected :  [1 3 1] training predict : [1. 3. 1.]
+training expected :  [5 2 7] training predict : [5. 2. 7.]
+training expected :  [9 0 2] training predict : [9. 0. 2.]
+training expected :  [2 0 3] training predict : [2. 0. 3.]
+training expected :  [3 4 7] training predict : [3. 4. 7.]
+training expected :  [5 5 8] training predict : [5. 5. 8.]
+training expected :  [6 9 3] training predict : [6. 9. 3.]
+training expected :  [5 4 1] training predict : [5. 4. 1.]
+training expected :  [8 7 5] training predict : [8. 7. 5.]
+training expected :  [6 2 0] training predict : [ 6.  2. -0.]
+training expected :  [3 6 9] training predict : [3. 6. 9.]
+training expected :  [1 5 4] training predict : [1. 5. 4.]
+training expected :  [3 2 5] training predict : [3. 2. 5.]
+training expected :  [1 6 0] training predict : [1. 6. 0.]
+training expected :  [9 0 8] training predict : [9. 0. 8.]
+training expected :  [9 7 7] training predict : [9. 7. 7.]
+training expected :  [7 2 3] training predict : [7. 2. 3.]
+training expected :  [9 4 7] training predict : [9. 4. 7.]
+training expected :  [7 6 7] training predict : [7. 6. 7.]
+training expected :  [5 2 5] training predict : [5. 2. 5.]
+training expected :  [7 9 2] training predict : [7. 9. 2.]
+training expected :  [6 1 3] training predict : [6. 1. 3.]
+training expected :  [3 3 9] training predict : [3. 3. 9.]
+training expected :  [8 4 8] training predict : [8. 4. 8.]
+training expected :  [0 9 5] training predict : [-0.  9.  5.]
+training expected :  [8 5 8] training predict : [8. 5. 8.]
+training expected :  [4 4 8] training predict : [4. 4. 8.]
+training expected :  [1 1 9] training predict : [1. 1. 9.]
+training expected :  [5 6 7] training predict : [5. 6. 7.]
+training expected :  [7 7 9] training predict : [7. 7. 9.]
+training expected :  [4 7 3] training predict : [4. 7. 3.]
+training expected :  [2 7 5] training predict : [2. 7. 5.]
+training expected :  [8 1 5] training predict : [8. 1. 5.]
+training expected :  [8 6 1] training predict : [8. 6. 1.]
+training expected :  [7 8 5] training predict : [7. 8. 5.]
+training expected :  [2 4 6] training predict : [2. 4. 6.]
+training expected :  [6 1 6] training predict : [6. 1. 6.]
+training expected :  [3 6 9] training predict : [3. 6. 9.]
+training expected :  [8 7 9] training predict : [8. 7. 9.]
+training expected :  [7 5 8] training predict : [7. 5. 8.]
+training expected :  [5 4 9] training predict : [5. 4. 9.]
+training expected :  [2 6 6] training predict : [2. 6. 6.]
+training expected :  [5 1 9] training predict : [5. 1. 9.]
+training expected :  [9 0 3] training predict : [9. 0. 3.]
+training expected :  [1 8 6] training predict : [1. 8. 6.]
+training expected :  [5 1 3] training predict : [5. 1. 3.]
+training expected :  [0 9 9] training predict : [-0.  9.  9.]
+training expected :  [6 6 8] training predict : [6. 6. 8.]
+training expected :  [6 7 1] training predict : [6. 7. 1.]
+training expected :  [1 0 2] training predict : [ 1. -0.  2.]
+training expected :  [2 3 1] training predict : [2. 3. 1.]
+training expected :  [2 0 9] training predict : [2. 0. 9.]
+training expected :  [1 3 6] training predict : [1. 3. 6.]
+training expected :  [2 4 1] training predict : [2. 4. 1.]
+training expected :  [2 4 3] training predict : [2. 4. 3.]
+training expected :  [0 3 8] training predict : [-0.  3.  8.]
+training expected :  [6 6 5] training predict : [6. 6. 5.]
+training expected :  [9 1 9] training predict : [9. 1. 9.]
+training expected :  [2 7 0] training predict : [ 2.  7. -0.]
+training expected :  [3 4 5] training predict : [3. 4. 5.]
+training expected :  [5 7 3] training predict : [5. 7. 3.]
+training expected :  [2 2 2] training predict : [2. 2. 2.]
+training expected :  [7 1 7] training predict : [7. 1. 7.]
+training expected :  [8 4 7] training predict : [8. 4. 7.]
+training expected :  [3 3 6] training predict : [3. 3. 6.]
+training expected :  [6 6 3] training predict : [6. 6. 3.]
+training expected :  [6 9 2] training predict : [6. 9. 2.]
+training expected :  [2 1 8] training predict : [2. 1. 8.]
+training expected :  [9 4 0] training predict : [9. 4. 0.]
+training expected :  [7 2 0] training predict : [ 7.  2. -0.]
+training expected :  [9 5 5] training predict : [9. 5. 5.]
+training expected :  [6 1 5] training predict : [6. 1. 5.]
+training expected :  [4 4 1] training predict : [4. 4. 1.]
+training expected :  [9 9 9] training predict : [9. 9. 9.]
+training expected :  [0 0 3] training predict : [-0.  0.  3.]
+training expected :  [0 4 3] training predict : [-0.  4.  3.]
+training expected :  [9 3 0] training predict : [ 9.  3. -0.]
+training expected :  [9 7 8] training predict : [9. 7. 8.]
+training expected :  [4 9 8] training predict : [4. 9. 8.]
+training expected :  [7 6 1] training predict : [7. 6. 1.]
+training expected :  [1 8 1] training predict : [1. 8. 1.]
+training expected :  [9 0 6] training predict : [ 9. -0.  6.]
+training expected :  [6 8 9] training predict : [6. 8. 9.]
+training expected :  [8 3 2] training predict : [8. 3. 2.]
+training expected :  [3 6 1] training predict : [3. 6. 1.]
+training expected :  [0 2 0] training predict : [-0.  2. -0.]
+training expected :  [0 3 3] training predict : [0. 3. 3.]
+training expected :  [3 5 6] training predict : [3. 5. 6.]
+training expected :  [2 4 5] training predict : [2. 4. 5.]
+training expected :  [2 9 7] training predict : [2. 9. 7.]
+training expected :  [9 6 6] training predict : [9. 6. 6.]
+training expected :  [6 9 1] training predict : [6. 9. 1.]
+training expected :  [6 1 7] training predict : [6. 1. 7.]
+training expected :  [6 9 8] training predict : [6. 9. 8.]
+training expected :  [6 4 3] training predict : [6. 4. 3.]
+training expected :  [5 3 7] training predict : [5. 3. 7.]
+training expected :  [0 6 8] training predict : [-0.  6.  8.]
+training expected :  [4 4 7] training predict : [4. 4. 7.]
+training expected :  [1 3 3] training predict : [1. 3. 3.]
+training expected :  [5 3 6] training predict : [5. 3. 6.]
+training expected :  [9 3 7] training predict : [9. 3. 7.]
+training expected :  [4 5 4] training predict : [4. 5. 4.]
+training expected :  [0 9 1] training predict : [-0.  9.  1.]
+training expected :  [3 8 6] training predict : [3. 8. 6.]
+training expected :  [5 6 9] training predict : [5. 6. 9.]
+training expected :  [6 3 6] training predict : [6. 3. 6.]
+training expected :  [0 8 7] training predict : [-0.  8.  7.]
+training expected :  [9 2 3] training predict : [9. 2. 3.]
+training expected :  [3 3 5] training predict : [3. 3. 5.]
+training expected :  [5 1 4] training predict : [5. 1. 4.]
+predict test data set
+expected :  [5 1 3] predict : [ 1. 10.  4.]
+expected :  [4 6 3] predict : [5. 6. 8.]
+expected :  [8 8 6] predict : [2. 2. 5.]
+expected :  [3 3 8] predict : [-0.  2.  3.]
+expected :  [2 3 5] predict : [3. 3. 6.]
+expected :  [1 0 2] predict : [ 5. 11.  9.]
+expected :  [3 3 6] predict : [6. 7. 7.]
+expected :  [7 2 4] predict : [6. 2. 5.]
+expected :  [7 6 1] predict : [8. 6. 3.]
+expected :  [4 9 8] predict : [ 5. 11.  3.]
+expected :  [3 2 9] predict : [7. 6. 4.]
+expected :  [3 5 9] predict : [4. 9. 5.]
+expected :  [4 7 3] predict : [ 4.  9. 11.]
+expected :  [5 7 0] predict : [4. 6. 8.]
+expected :  [1 4 1] predict : [6. 8. 6.]
+expected :  [8 0 7] predict : [4. 0. 3.]
+expected :  [0 4 8] predict : [3. 7. 3.]
+expected :  [7 6 0] predict : [3. 6. 3.]
+expected :  [5 5 6] predict : [3. 5. 3.]
+expected :  [5 0 3] predict : [1. 4. 5.]
+expected :  [8 9 3] predict : [8. 1. 3.]
+expected :  [0 6 1] predict : [8. 3. 8.]
+expected :  [3 7 5] predict : [0. 4. 4.]
+expected :  [7 3 6] predict : [ 2.  2. -0.]
+expected :  [0 0 5] predict : [5. 1. 4.]
+expected :  [1 5 0] predict : [9. 5. 8.]
+expected :  [3 7 9] predict : [5. 2. 5.]
+expected :  [5 1 0] predict : [-1.  1.  6.]
+expected :  [3 5 0] predict : [-1.  1.  5.]
+expected :  [6 1 5] predict : [5. 7. 3.]
+expected :  [6 1 4] predict : [5. 8. 3.]
+expected :  [0 4 5] predict : [5. 3. 5.]
+expected :  [0 4 2] predict : [-2.  4.  4.]
+expected :  [4 1 8] predict : [4. 5. 4.]
+expected :  [6 2 6] predict : [8. 3. 0.]
+expected :  [7 5 6] predict : [8. 5. 4.]
+expected :  [4 5 2] predict : [5. 3. 9.]
+expected :  [9 5 0] predict : [ 4. -1.  8.]
+expected :  [8 2 9] predict : [ 6.  2. -0.]
+expected :  [6 2 8] predict : [3. 2. 3.]
+expected :  [5 7 8] predict : [5. 2. 4.]
+expected :  [2 0 3] predict : [6. 2. 6.]
+expected :  [8 8 1] predict : [3. 1. 3.]
+expected :  [4 2 5] predict : [4. 8. 4.]
+expected :  [8 2 1] predict : [10.  7.  1.]
+expected :  [5 8 7] predict : [7. 6. 1.]
+expected :  [6 9 7] predict : [8. 2. 6.]
+expected :  [3 9 1] predict : [7. 5. 4.]
+expected :  [6 4 8] predict : [4. 8. 9.]
+expected :  [0 1 4] predict : [1. 3. 3.]
+expected :  [1 7 3] predict : [2. 2. 4.]
+expected :  [4 9 9] predict : [2. 3. 3.]
+expected :  [0 3 0] predict : [3. 4. 5.]
+expected :  [1 6 0] predict : [7. 1. 6.]
+expected :  [9 6 7] predict : [3. 2. 1.]
+expected :  [9 7 7] predict : [2. 6. 2.]
+expected :  [4 7 0] predict : [3. 4. 2.]
+expected :  [5 5 6] predict : [2. 9. 2.]
+expected :  [7 5 0] predict : [ 8.  9. -0.]
+expected :  [6 2 9] predict : [8. 4. 5.]
+expected :  [7 1 5] predict : [6. 2. 1.]
+expected :  [5 7 9] predict : [6. 3. 6.]
+expected :  [9 5 3] predict : [ 5. -2.  3.]
+expected :  [8 2 8] predict : [5. 6. 2.]
+expected :  [6 4 2] predict : [6. 5. 2.]
+expected :  [6 3 1] predict : [3. 5. 2.]
+expected :  [7 2 0] predict : [ 4.  9. -1.]
+expected :  [7 4 9] predict : [4. 3. 3.]
+expected :  [5 0 6] predict : [3. 9. 7.]
+expected :  [2 1 5] predict : [ 5. 11.  6.]
+expected :  [6 2 3] predict : [5. 3. 1.]
+expected :  [6 3 9] predict : [ 5.  5. -0.]
+expected :  [3 6 4] predict : [3. 4. 7.]
+expected :  [3 5 1] predict : [7. 5. 6.]
+expected :  [6 0 3] predict : [5. 1. 2.]
+expected :  [6 2 6] predict : [4. 4. 1.]
+expected :  [2 5 1] predict : [1. 5. 4.]
+expected :  [6 3 6] predict : [3. 3. 7.]
+expected :  [5 5 1] predict : [4. 4. 5.]
+expected :  [9 8 3] predict : [4. 4. 1.]
+expected :  [0 6 7] predict : [3. 3. 1.]
+expected :  [0 9 8] predict : [2. 8. 2.]
+expected :  [6 5 7] predict : [5. 2. 7.]
+expected :  [2 8 9] predict : [2. 1. 1.]
+expected :  [0 8 7] predict : [1. 4. 3.]
+expected :  [0 9 4] predict : [ 4. -2.  1.]
+expected :  [3 0 0] predict : [ 1. -1.  3.]
+expected :  [0 1 0] predict : [5. 0. 1.]
+expected :  [4 7 4] predict : [3. 5. 7.]
+expected :  [8 0 9] predict : [4. 5. 7.]
+expected :  [5 3 2] predict : [6. 2. 6.]
+expected :  [8 1 3] predict : [4. 0. 6.]
+expected :  [0 0 4] predict : [8. 3. 5.]
+expected :  [6 4 8] predict : [6. 3. 7.]
+expected :  [6 2 1] predict : [5. 3. 4.]
+expected :  [0 0 1] predict : [ 9.  7. 10.]
+expected :  [7 2 8] predict : [2. 1. 4.]
+expected :  [6 5 9] predict : [7. 3. 3.]
+expected :  [3 4 9] predict : [-2. 10. 12.]
+expected :  [5 3 6] predict : [-0. 11. 12.]
+expected :  [0 8 5] predict : [1. 6. 6.]
+expected :  [4 5 7] predict : [-1.  7.  2.]
+expected :  [5 5 7] predict : [7. 4. 1.]
+expected :  [2 6 4] predict : [6. 4. 2.]
+expected :  [2 6 1] predict : [10.  2.  4.]
+expected :  [7 0 9] predict : [5. 5. 4.]
+expected :  [5 6 3] predict : [5. 1. 4.]
+expected :  [3 7 5] predict : [10.  5.  7.]
+expected :  [6 6 9] predict : [8. 6. 8.]
+expected :  [9 4 7] predict : [ 6.  4. 10.]
+expected :  [6 1 7] predict : [7. 9. 8.]
+expected :  [5 5 8] predict : [ 5. 12.  5.]
+expected :  [6 3 4] predict : [1. 5. 3.]
+expected :  [9 8 2] predict : [ 2. -1.  2.]
+expected :  [6 9 1] predict : [7. 3. 4.]
+expected :  [3 8 7] predict : [8. 4. 6.]
+expected :  [3 4 4] predict : [3. 6. 5.]
+expected :  [9 5 4] predict : [-2.  6.  7.]
+expected :  [0 3 6] predict : [3. 2. 7.]
+expected :  [9 3 5] predict : [5. 3. 3.]
+expected :  [9 2 2] predict : [2. 5. 6.]
+expected :  [8 9 5] predict : [4. 3. 7.]
+expected :  [5 3 7] predict : [3. 8. 1.]
+expected :  [5 1 3] predict : [7. 3. 4.]
+expected :  [8 8 1] predict : [6. 5. 8.]
+expected :  [2 8 9] predict : [4. 3. 3.]
+expected :  [1 1 1] predict : [ 2. -2.  8.]
+expected :  [3 3 1] predict : [7. 5. 5.]
+expected :  [7 7 7] predict : [6. 6. 5.]
+expected :  [9 2 6] predict : [ 6.  5. -0.]
+expected :  [8 8 3] predict : [ 4. 10.  6.]
+expected :  [8 1 0] predict : [4. 6. 8.]
+expected :  [3 4 0] predict : [8. 8. 6.]
+expected :  [8 4 5] predict : [2. 3. 4.]
+expected :  [3 1 6] predict : [4. 5. 4.]
+expected :  [8 3 7] predict : [4. 7. 8.]
+expected :  [6 8 2] predict : [10. -0.  6.]
+expected :  [3 8 0] predict : [9. 5. 4.]
+expected :  [3 4 7] predict : [6. 3. 1.]
+expected :  [0 8 1] predict : [5. 1. 2.]
+expected :  [2 5 6] predict : [ 6. 11.  8.]
+expected :  [2 8 9] predict : [7. 3. 7.]
+expected :  [7 8 7] predict : [-1.  1.  6.]
+expected :  [0 8 8] predict : [2. 4. 5.]
+expected :  [7 0 8] predict : [7. 6. 3.]
+expected :  [2 0 3] predict : [6. 9. 6.]
+expected :  [8 7 0] predict : [5. 7. 7.]
+expected :  [2 1 6] predict : [6. 3. 6.]
+expected :  [5 6 5] predict : [7. 1. 6.]
+expected :  [8 3 7] predict : [3. 3. 9.]
+expected :  [1 3 0] predict : [3. 2. 6.]
+expected :  [9 2 4] predict : [-0.  3.  4.]
+expected :  [3 1 9] predict : [1. 2. 5.]
+expected :  [0 6 1] predict : [8. 7. 5.]
+expected :  [4 5 4] predict : [7. 7. 6.]
+expected :  [4 3 2] predict : [1. 3. 1.]
+expected :  [4 8 1] predict : [1. 0. 4.]
+expected :  [1 6 5] predict : [7. 3. 7.]
+expected :  [1 7 1] predict : [ 9. 12. 10.]
+expected :  [1 0 8] predict : [5. 6. 6.]
+expected :  [3 8 8] predict : [ 5.  5. -3.]
+expected :  [2 8 8] predict : [3. 1. 2.]
+expected :  [3 4 9] predict : [8. 2. 8.]
+expected :  [4 0 7] predict : [6. 5. 7.]
+expected :  [9 0 6] predict : [4. 0. 2.]
+expected :  [7 3 1] predict : [ 0.  1. -0.]
+expected :  [1 7 8] predict : [6. 7. 5.]
+expected :  [7 7 4] predict : [4. 0. 7.]
+expected :  [7 9 8] predict : [6. 2. 2.]
+expected :  [7 9 9] predict : [7. 5. 1.]
+expected :  [4 9 7] predict : [8. 2. 4.]
+expected :  [0 5 2] predict : [0. 5. 7.]
+expected :  [3 9 7] predict : [2. 3. 1.]
+expected :  [6 9 2] predict : [7. 5. 2.]
+expected :  [1 8 6] predict : [ 5.  2. 14.]
+expected :  [5 1 3] predict : [ 4.  4. 13.]
+expected :  [4 6 9] predict : [6. 3. 9.]
+expected :  [8 2 1] predict : [ 9.  3. 11.]
+expected :  [3 2 2] predict : [8. 9. 8.]
+expected :  [1 5 6] predict : [ 6.  7. -1.]
